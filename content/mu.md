@@ -1,0 +1,171 @@
+---
+title: "Anime Music Playlist"
+sub_title:
+Date: 2020-05-20
+LastMod:
+---
+
+[Back to catalog](https://otaking.xyz/index.html)
+
+Just a list of anime songs/music I like so I that I don't forget it. I won't bother adding any links or embedding any music because it constantly gets deleted and re-uploaded so there is no point. In no particular order here is some music from anime I listen to sometimes mostly while taking a walk or typing right now:
+
+## Anime Uta
+
+- Hemisphere by Maaya Sakamoto - Rahxephon
+- Komm Süsser Tod (Come, Sweet Death) - The End of The End of Evangelion
+- Do You Remember Love? - Macross Do You Remember Love
+- How far to Paradise - Area 88
+- Kaze no Lullaby (Wind's Lullaby) - Megazone 23
+- Senaka-Goshi ni Sentimental (Sentimental Over My Back) - Megazone 23
+- Fight! Iczer One - Eternal Iczer-1
+- God knows... - The Melancholy of Haruhi Suzumiya : It's not such a good song and not such a good anime but I could relate to the message it was pushing
+- Dan Dan Kokoro Hikareteku (Bit by Bit, I'm Falling Under Your Spell) - Dragon Ball GT : The only Dragonball opening that is a love song, GT was alright after a slow start certainly better than Super in every way starting from the artstyle and color palletes
+- You Get To Burning - Martian Sucesor Nadesico : Dropped it half way through due to the boring harem with no chemistry still an awesome opening
+- Just Communication - Gundam Wing : I don't even like Gundam but Gundam deserved a spot after all
+- Adesso e Fortuna (Japanese version) - Record of Lodoss War : A low budget anime dungeon and dragons compaign with very beautiful girls, just like most dnd compaigns it feels incomplete and abandoned
+- Kaze no Fantajia (Japanese version) - Record of War of Lodoss
+- Geki! Teikoku-Kagekidan - Sakura Taisen
+- Let Me Be With You - Chobits : As far as I know the only positive take on the possibility for sex dolls in the future
+- Ningyo Hime - Chobits
+- Oratorio The World God Only Knows - The World God Only Knows : Another anime that lived on its themes, anyway the MC chose the best girl in the end and remember never give up on yourself even if you give up on this world desu
+- Nee (Say..) - Hiiro no Kakera
+- White Destiny - Pretear
+- Tokimeki no Doukasen - Fushigi Yuugi : Dropped it due to insufferable characters and surprise romance/revenge out of nowhere I hate it when some sort of retarded misunderstanding which is obvious to the audience is the catalyst for the conflict. Anyhoo this was an early isekai even before Escaflowne and just like Esca it is about gril rather than a neet being isekaid
+- Moonlight Densetsu - Sailor Moon : I mean why the fuck not
+- Return To The Sea - Mermaid Melody
+- Mermaid Melody (Italian) - Mermaid Melody : The Italian songs used in mermaid melody Italian dub are a thousand times better than the Japanese ones even the lyrics
+- Torno All'Oceano - Mermaid Melody
+- Stella Preziosa - Mermaid Melody
+- Concerto D'Amore - Mermaid Melody
+- Stella Preziosa - Mermaid Melody
+- Principesse Sirene - Mermaid Melody
+- Battito D'Amore - Mermaid Melody
+- Assoluto Amore - Mermaid Melody
+- Dolce Melodia - Mermaid Melody
+- Voce del buio - Mermaid Melody
+- La Nostra Forza - Mermaid Melody
+- lupin the third first season opening : There are many of them and most of them are good just search for the lupin iii theme
+- Hello Lupin (Italian opening) - Lupin iii
+- What's My Destiny (Italian) - Dragonball Z
+- Detective Conan Sigla Italiana - Detective Conan
+- What a mess Slump e Arale (Italian) - Dr Slump
+- Digimon sigla prima serie (Italian) - Digimon : Better than Pokemon by 1000 times.
+- C'est la vie to Iwanaide (Don't Say C'est la vie) - Lupin iii The Fuma Conspiracy
+- Faraway in your eyes - The Five Star Stories
+- Mila e Shiro due cuori nella pallavolo (Italian) - Attacker You!
+- Ken il guerriero Sigla completa 1986 (Italian) : Fist of the North Star
+- Mune ga Doki Doki - Detective Conan : aka Case Closed for anglos because of copyright bs
+- Roba da gatti (Kurochan) - Sigla completa - Cyborg Kurochan
+- L'incorreggibile Lupin (Italian) - Lupin iii
+- Sigla Piccoli problemi di cuore (Italian) - Marmalade Boy
+- Tutti All'arrembaggio! (Italian) - One Piece
+- galaxy express 999 sigla (Italian) - Galaxy express 999
+- Bara wa utsukushiku chiru-Rose of Versailles
+- Shinema - Maison ikkoku
+- Ashita Hareru Ka - Maison Ikkoku
+- Fantaji (Fantasy) - Maison Ikkoku
+- I Think I Can - FLCL
+- Rock Over Japan - Mawaru Penguindrum
+- A Cruel Angel's Thesis - Neon Genesis Evangelion
+- Colors - Code Geass
+- Kuusou Rumba - Zetsubou no Sensei
+- Ringo Biyori (The Wolf Whistling Song) - Spice and Wolf
+- Momoiro Clover Z - Mugen no Ai (Mouretsu Pirates)
+- Tabi no Tochuu - Spice And Wolf
+- Twilight - Daicon IV
+- Hikari no Hashi wo koete (Across the Bridge of Ligh)t - Legend of Galactic Heroes
+- Tabidachi no Jyokyoku - Legend of Galactic Heroes
+- Uchuu no Kakehashi - Legend of Galactic Heroes
+- Song of Farewell - Legend of Galactic Heroes
+- Sea of Stars - Legend of Galactic Heroes
+- Ajauma Ni Sasenaide - Ranma 1/2
+- I don't need a promise - Escaflowne
+- Mystic Eyes - Escaflowne
+- I Want Out - Generator Gawl
+- Kore wo Koi to Iemashou ka - Generator Gawl
+- tenshi-no-yubikiri - Kare Kano
+- Heart Drive - Gear Fighter Dendoh
+- brand-new-mermaid - Gear Fighter Dendoh
+- nanurizuma - Gear Fighter Dendoh
+- Count Down - Gear Fighter Dendoh
+- Yume no Naka - Gear Fighter Dendoh
+- hijou-na-senshi - Gear Fighter Dendoh
+- inbou-no-anyaku - Gear Fighter Dendoh
+- More Than Words - Code Geass Boukoku no Akito
+- Alumina - Death Note
+- Little Goodbye - Zegapain
+- Will Tomorrow Be Brighter - Maison Ikkoku
+- Hito toshite Jiku ga Bureteiru - Sayonara Zetsubou Sensei
+- Zetsubou Restaurant - Zan Sayonara Zetsubou Sensei
+- Boku de Aru Tame ni - You're under arrest
+- 1/2 - You're Underarrest Full Throttle
+- Days of Dash - Sakurasou no Pet na Kanojo
+- Prime number ~Kimi to Deaeru Hi~ - Sakurasou no Pet na Kanojo
+- Friendship - Sukitte li na yo
+- Tokimeki no Doukasen - Fushigi Yuugi
+- Morning Grace - Princess Tutu
+- I Am - Inuyasha
+- Owarinai Yume - Inuyasha
+- Tommorow - Fulle Metal Panic
+- Kataomoi Fighter - Itazira na Kiss
+- Mekiyuu Make you - Detective Academy Q
+- Bomb A Head! - Tenjho Tenge
+- Aishite ne Motto - Tenjho Tenge
+- Uragiri No Yuuyake -Durarara!!
+- Küsö Mesorogiwi - Mirai Nikki
+- Northern Cross (Sheryl Nome version) - Macross Frontier
+- Triangular - Macross Frontier
+- Lion - Macross Frontier
+- THANATOS -IF I CAN'T BE YOURS- The End of Evangelion
+- Jesus bleibet meine Freude [Herz und Mund und Tat und Leben BWV. 147] - End of Evangelion
+- Beethoven's 9th Symphony 4th Movement "Ode to Joy" - Neon Gensis Evangelion
+
+## Instrumentals
+
+- Blue - Cowboy Bebop
+- Rock Cafe - Megazone 23
+- Ashita no Joe 2 あしたのジョー2 BGM チャイナ・ファイター Ashita no Joe 2
+- Ashita no Joe 2 あしたのジョー2 BGM トワイライト Twilight - Ashita no Joe
+- Ashita no Joe 2 あしたのジョー2 BGM 白木葉子の為の練習曲No 02 - Ashita no Joe 2
+- Yasashisa no Okuri mono - Rose of Versailles
+- Lupin The Third Theme '97 - Lupin iii Walter p-38 movie
+- Toki no Kawa wo Koete - Gunbuster/Aim for the Top!
+- Gunbuster March - Gunbuster
+- Detective Conan theme - Detective Conan
+- Ryoga's Theme - Ranma 1/2
+- Dance of Curse - Escaflowne
+- Shadow of Doubt - Escaflowne
+- Arcadia - Escaflowne
+- Epistle - Escaflowne
+- Zaibach - Escaflowne
+- Chain - Escaflowne
+- BLAZE Take 2 - Escaflowne : Or as I know it I Cieli Di Escaflowne
+- 螺旋城の侵攻- Gear Fighter Dendoh
+- 陰謀の影 - Gear Fighter Dendoh
+- 目覚めの瞬間- Gear Fighter Dendoh
+- kiseki-no-yuugou - Gear Fighter Dendoh
+- funsai-no-chikai - Gear Fighter Dendoh
+- ankoku-no-gekitotsu - Gear Fighter Dendoh
+- kiba-no-kodou - Gear Fighter Dendoh
+- miyazawa-yukino-v-slow-version - Kare Kano
+- yoinyojou - Kare Kano
+- anchuumosaku - Kare Kano
+- inbou-no-kage - Gear Fighter Dendoh
+- tatakae-dendoh - Gear Fighter Dendoh
+- kijuu-hikou - Gear Fighter Dendoh
+- arthea-no-sekkin - Gear Fighter Dendoh
+- Piano Black - Cowboy Bepop
+- Eternal Love - Macross
+- Teenage Dream - DYRL Macross
+- Love Moment - DYRL Macross
+- Silent - DYRL Macross
+- Farewell - Escaflowne
+- Wavering Heart - Macross Do You Remember Love?
+- From here on Forever - Macross Do You Remember Love?
+- Kizuna(Shinobu Oshino's Theme) - Nisemonogatari
+- Sacrifice - Un-Go
+- Kumori Nochi, Michinori - Welcome to The NHK
+- Encounter/Kaikou (Dance Version) - Zetsuen no Tempest
+- Tempest - Zetsuen no Tempest
+- Those women longed for the touch of others' lips, and thus invited their kisses. - Neon Genesis Evangelion
+- II Air [Orchestral Suite No. 3 In D Major, BWV. 1068] - End of Evangelion

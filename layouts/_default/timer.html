@@ -1,0 +1,873 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!--
+Timer (2011-04-30)
+Copyright 2011 Zach Scrivena
+http://sftimer.sourceforge.net/
+
+Timer is a simple web-based timer.
+
+TERMS AND CONDITIONS:
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <link rel="shortcut icon" href="/images/favicon.ico" />
+    <title>00:00:00</title>
+    <style type="text/css">
+      #grid {
+        border-style: none;
+        border-spacing: 0px;
+        padding: 0px;
+      }
+
+      #timer-header {
+        font-family: Helvetica, Arial, Sans-serif;
+        font-size: 80%;
+        font-weight: bold;
+        border-style: none;
+        border-spacing: 0px;
+        padding: 2px;
+        background-color: rgb(0, 70, 200);
+        vertical-align: middle;
+        text-align: center;
+        width: 100%;
+        color: white;
+      }
+
+      #timer-header-title {
+        text-decoration: none;
+        color: white;
+      }
+
+      #timer-display {
+        border-style: solid;
+        border-color: black;
+        border-width: 1px;
+        border-spacing: 2px;
+        padding: 0px;
+        width: 100%;
+      }
+
+      #timer-display-hours,
+      #timer-display-minutes {
+        font-family: Calibri, Helvetica, Arial, Sans-serif;
+        font-size: 80pt;
+        position: relative;
+        vertical-align: text-bottom;
+        border-width: 2px;
+        border-style: solid;
+        border-color: transparent;
+        background-color: transparent;
+        color: black;
+      }
+
+      #timer-display-seconds {
+        font-family: Calibri, Helvetica, Arial, Sans-serif;
+        font-size: 50pt;
+        position: relative;
+        vertical-align: text-bottom;
+        border-width: 2px;
+        border-style: solid;
+        border-color: transparent;
+        background-color: transparent;
+        color: black;
+      }
+
+      #timer-control {
+        border-style: none;
+        border-spacing: 0px;
+        padding: 1px;
+        background-color: rgb(0, 70, 200);
+        vertical-align: middle;
+        width: 100%;
+        color: white;
+      }
+
+      .timer-control-cell {
+        width: 15%;
+      }
+
+      #timer-control-start,
+      #timer-control-stop,
+      #timer-control-reset,
+      #timer-control-switch,
+      #timer-control-edit {
+        width: 100%;
+        font-size: 70%;
+      }
+
+      #timer-control-mode {
+        font-family: Calibri, Helvetica, Arial, Sans-serif;
+        font-size: 8pt;
+        font-weight: bold;
+        color: white;
+        text-align: center;
+        width: 22%;
+      }
+
+      #timer-footer {
+        font-family: Helvetica, Arial, Sans-serif;
+        font-size: 70%;
+        border-style: solid;
+        border-color: black;
+        border-width: 1px;
+        border-spacing: 3px;
+        padding: 0px;
+        vertical-align: middle;
+        width: 100%;
+        color: black;
+      }
+
+      .info {
+        font-family: Helvetica, Arial, Sans-serif;
+        font-size: 70%;
+        max-width: 350px;
+        margin-top: 6px;
+      }
+
+      .quiet {
+        text-decoration: none;
+        color: black;
+      }
+
+      .invisible {
+        display: none;
+      }
+
+      .visible {
+        display: inline;
+      }
+    </style>
+    <script type="text/javascript">
+      var alarm = null;
+      var alarmPlaying = false;
+      var countingUp = true;
+      var running = false;
+      var editing = false;
+      var origMarkerValue = 0; // in milliseconds
+      var markerValue = 0; // in milliseconds
+      var markerTime = new Date().getTime();
+      var refreshInterval = 250; // in milliseconds
+      var timerHeader = null;
+      var timerTitle = null;
+      var timerTitleString = "UNTITLED";
+      var timerTitleWindowSuffix = "";
+      var timerDisplay = null;
+      var timerHours = null;
+      var timerMinutes = null;
+      var timerSeconds = null;
+      var timerControl = null;
+      var timerState = null;
+      var buttonEdit = null;
+      var buttonReset = null;
+      var buttonSwitch = null;
+
+      function init() {
+        /* alarm */
+        alarm = document.getElementById("alarm");
+        if (alarm == null) alert("Failed to initialize alarm.");
+        alarm.load();
+
+        /* timer display */
+        timerHeader = document.getElementById("timer-header");
+        timerTitle = document.getElementById("timer-header-title");
+        timerControl = document.getElementById("timer-control");
+        timerState = document.getElementById("timer-control-mode");
+        timerDisplay = document.getElementById("timer-display");
+        timerHours = document.getElementById("timer-display-hours");
+        timerMinutes = document.getElementById("timer-display-minutes");
+        timerSeconds = document.getElementById("timer-display-seconds");
+        if (
+          timerHeader == null ||
+          timerTitle == null ||
+          timerControl == null ||
+          timerState == null ||
+          timerDisplay == null ||
+          timerHours == null ||
+          timerMinutes == null ||
+          timerSeconds == null
+        )
+          alert("Failed to initialize timer display.");
+
+        /* timer control buttons */
+        buttonEdit = document.getElementById("timer-control-edit");
+        buttonReset = document.getElementById("timer-control-reset");
+        buttonSwitch = document.getElementById("timer-control-switch");
+        if (buttonEdit == null || buttonReset == null || buttonSwitch == null)
+          alert("Failed to initialize timer control buttons.");
+
+        /* parse arguments, if any */
+        var index = location.href.lastIndexOf("?");
+        var toStart = false;
+        var toSwitch = false;
+        var toEdit = false;
+        var userTitle = "";
+
+        if (index >= 0) {
+          var args = location.href.substr(index + 1).split(",");
+
+          for (var i = 0; i < args.length; i++) {
+            var a = args[i];
+
+            if (a.toLowerCase() == "down") {
+              toSwitch = true;
+              continue;
+            }
+
+            if (a.toLowerCase() == "up") {
+              toSwitch = false;
+              continue;
+            }
+
+            if (a.toLowerCase() == "start") {
+              toStart = true;
+              continue;
+            }
+
+            if (a.toLowerCase() == "edit") {
+              toEdit = true;
+              continue;
+            }
+
+            if (a.indexOf(":") >= 0) {
+              var negative = a.charAt(0) == "-";
+              if (negative) a = a.substr(1);
+              var values = a.split(":");
+              var valid = true;
+
+              for (var j = 0; j < values.length; j++) {
+                values[j] = parseInt(values[j]);
+                if (isNaN(values[j]) || values[j] < 0) valid = false;
+              }
+
+              if (valid && values.length >= 2) {
+                if (values.length == 2) {
+                  // mm:ss
+                  origMarkerValue = 1000 * (values[1] + 60 * values[0]);
+                } // HH:mm:ss
+                else {
+                  origMarkerValue =
+                    1000 * (values[2] + 60 * (values[1] + 60 * values[0]));
+                }
+
+                if (negative) origMarkerValue *= -1;
+                continue;
+              }
+            }
+
+            userTitle += " " + a;
+          }
+        }
+
+        if (userTitle.length > 0) setTitle(userTitle);
+        markerValue = origMarkerValue;
+        if (toSwitch) switchTimer();
+        if (toStart) startTimer();
+        if (toEdit) editTimer();
+        refreshDisplay();
+      }
+
+      function refresh() {
+        if (!running) return;
+
+        /* compute elapsed time from the marker */
+        var currentTime = new Date().getTime();
+        var elapsedTime = countingUp
+          ? currentTime - markerTime
+          : markerTime - currentTime;
+        var oldMarkerValueSeconds = Math.floor(markerValue / 1000); // in seconds
+        markerValue = markerValue + elapsedTime;
+        markerTime = currentTime;
+        var newMarkerValueSeconds = Math.floor(markerValue / 1000); // in seconds
+
+        refreshDisplay();
+
+        /* start alarm if necessary */
+        if (
+          !countingUp &&
+          oldMarkerValueSeconds > 0 &&
+          newMarkerValueSeconds <= 0 &&
+          !alarmPlaying
+        )
+          startAlarm();
+
+        setTimeout(refresh, refreshInterval);
+      }
+
+      function refreshDisplay() {
+        var markerValueSeconds = Math.floor(markerValue / 1000); // in seconds
+        var residual = markerValue - markerValueSeconds * 1000;
+        var negative = markerValueSeconds < 0;
+        var left = Math.abs(markerValueSeconds);
+        var hours = Math.floor(left / 60 / 60);
+        left -= hours * 60 * 60;
+        var minutes = Math.floor(left / 60);
+        var seconds = left - minutes * 60;
+
+        /* update timer display */
+        timerHours.innerHTML =
+          (negative ? "&#8722;" : "") + (hours < 10 ? "0" : "") + hours + ":";
+        timerMinutes.innerHTML = (minutes < 10 ? "0" : "") + minutes;
+        timerSeconds.innerHTML = (seconds < 10 ? "0" : "") + seconds;
+
+        /* update window title */
+        document.title =
+          timerHours.innerHTML +
+          timerMinutes.innerHTML +
+          ":" +
+          timerSeconds.innerHTML +
+          timerTitleWindowSuffix;
+      }
+
+      function startTimer() {
+        if (alarmPlaying) stopAlarm();
+        if (running) return;
+        running = true;
+        markerTime = new Date().getTime();
+        setTimeout(refresh, refreshInterval);
+      }
+
+      function stopTimer() {
+        if (alarmPlaying) stopAlarm();
+        running = false;
+      }
+
+      function editTimer() {
+        if (alarmPlaying) stopAlarm();
+        editing = !editing; // toggle edit mode
+
+        if (editing) {
+          buttonReset.disabled = false;
+          buttonSwitch.disabled = false;
+          timerDisplay.title =
+            "Scroll, click, or shift-click your mouse to change the timer value";
+          timerHours.style.borderColor = "grey";
+          timerMinutes.style.borderColor = "grey";
+          timerSeconds.style.borderColor = "grey";
+          timerHours.style.backgroundColor = "lightgrey";
+          timerMinutes.style.backgroundColor = "lightgrey";
+          timerSeconds.style.backgroundColor = "lightgrey";
+        } else {
+          buttonReset.disabled = true;
+          buttonSwitch.disabled = true;
+          timerDisplay.title = "hours : minutes : seconds";
+          timerHours.style.borderColor = "transparent";
+          timerMinutes.style.borderColor = "transparent";
+          timerSeconds.style.borderColor = "transparent";
+          timerHours.style.backgroundColor = "transparent";
+          timerMinutes.style.backgroundColor = "transparent";
+          timerSeconds.style.backgroundColor = "transparent";
+        }
+      }
+
+      function resetTimer() {
+        if (alarmPlaying) stopAlarm();
+        markerValue = origMarkerValue;
+        refreshDisplay();
+      }
+
+      function switchTimer() {
+        if (alarmPlaying) stopAlarm();
+        countingUp = !countingUp;
+
+        if (countingUp) {
+          timerHeader.style.backgroundColor = "rgb(0,70,200)";
+          timerControl.style.backgroundColor = "rgb(0,70,200)";
+          timerState.innerHTML = "COUNT UP";
+          timerState.title = "Timer is counting up";
+        } else {
+          timerHeader.style.backgroundColor = "rgb(185,0,0)";
+          timerControl.style.backgroundColor = "rgb(185,0,0)";
+          timerState.innerHTML = "COUNT DOWN";
+          timerState.title = "Timer is counting down";
+        }
+      }
+
+      function changeHours(increase) {
+        var markerValueSeconds = Math.floor(markerValue / 1000); // in seconds
+        var residual = markerValue - markerValueSeconds * 1000;
+        var negative = markerValueSeconds < 0;
+        var left = Math.abs(markerValueSeconds);
+        var hours = Math.floor(left / 60 / 60);
+        left -= hours * 60 * 60;
+        var minutes = Math.floor(left / 60);
+        var seconds = left - minutes * 60;
+
+        if (hours == 0) {
+          if (markerValueSeconds == 0) {
+            hours++;
+            if (!increase) negative = true;
+          } else if (markerValueSeconds > 0) {
+            if (increase) {
+              hours++;
+            } else {
+              negative = true;
+            }
+          } else if (markerValueSeconds < 0) {
+            if (increase) {
+              negative = false;
+            } else {
+              hours++;
+            }
+          }
+        } else {
+          if (increase) {
+            hours += markerValueSeconds < 0 ? -1 : 1;
+          } else {
+            hours += markerValueSeconds < 0 ? 1 : -1;
+          }
+        }
+
+        markerValue = 1000 * (seconds + 60 * (minutes + 60 * hours));
+        if (negative) markerValue *= -1;
+        markerValue += residual;
+
+        refreshDisplay();
+      }
+
+      function changeMinutes(increase) {
+        var markerValueSeconds = Math.floor(markerValue / 1000); // in seconds
+        var residual = markerValue - markerValueSeconds * 1000;
+        var negative = markerValueSeconds < 0;
+        var left = Math.abs(markerValueSeconds);
+        var hours = Math.floor(left / 60 / 60);
+        left -= hours * 60 * 60;
+        var minutes = Math.floor(left / 60);
+        var seconds = left - minutes * 60;
+
+        if (increase) {
+          if (minutes < 59) minutes++;
+        } else {
+          if (minutes > 0) minutes--;
+        }
+
+        markerValue = 1000 * (seconds + 60 * (minutes + 60 * hours));
+        if (negative) markerValue *= -1;
+        markerValue += residual;
+
+        refreshDisplay();
+      }
+
+      function changeSeconds(increase) {
+        var markerValueSeconds = Math.floor(markerValue / 1000); // in seconds
+        var residual = markerValue - markerValueSeconds * 1000;
+        var negative = markerValueSeconds < 0;
+        var left = Math.abs(markerValueSeconds);
+        var hours = Math.floor(left / 60 / 60);
+        left -= hours * 60 * 60;
+        var minutes = Math.floor(left / 60);
+        var seconds = left - minutes * 60;
+
+        if (increase) {
+          if (seconds < 59) seconds++;
+        } else {
+          if (seconds > 0) seconds--;
+        }
+
+        markerValue = 1000 * (seconds + 60 * (minutes + 60 * hours));
+        if (negative) markerValue *= -1;
+        markerValue += residual;
+
+        refreshDisplay();
+      }
+
+      function mouseWheelHours(event) {
+        if (!editing) return;
+        if (event.wheelDelta == 0) return;
+        changeHours(event.wheelDelta > 0);
+      }
+
+      function mouseWheelMinutes(event) {
+        if (!editing) return;
+        if (event.wheelDelta == 0) return;
+        changeMinutes(event.wheelDelta > 0);
+      }
+
+      function mouseWheelSeconds(event) {
+        if (!editing) return;
+        if (event.wheelDelta == 0) return;
+        changeSeconds(event.wheelDelta > 0);
+      }
+
+      function mouseClickHours(event) {
+        if (!editing) return;
+        if (event.button != 0) return;
+        changeHours(!event.shiftKey);
+      }
+
+      function mouseClickMinutes(event) {
+        if (!editing) return;
+        if (event.button != 0) return;
+        changeMinutes(!event.shiftKey);
+      }
+
+      function mouseClickSeconds(event) {
+        if (!editing) return;
+        if (event.button != 0) return;
+        changeSeconds(!event.shiftKey);
+      }
+
+      function displayClicked() {
+        if (alarmPlaying) stopAlarm();
+      }
+
+      function setTitle(a) {
+        a = a.compress();
+
+        if (a.length > 25) {
+          a = a.substring(0, 25);
+          a = a.compress();
+        }
+
+        if (a.length == 0) a = "UNTITLED";
+        timerTitleString = a;
+        timerTitle.innerHTML = timerTitleString;
+        timerTitleWindowSuffix =
+          timerTitleString == "UNTITLED" ? "" : " - " + timerTitleString;
+        refreshDisplay();
+      }
+
+      function changeTitle() {
+        var a = prompt("Timer title (up to 25 characters):", timerTitleString);
+        if (a == null) return;
+        setTitle(a);
+      }
+
+      function testAlarm() {
+        startAlarm();
+        alert(
+          "Alarm should be playing now if supported on this browser. Click OK to stop the alarm."
+        );
+        stopAlarm();
+      }
+
+      function startAlarm() {
+        alarmPlaying = true;
+        alarm.play();
+      }
+
+      function stopAlarm() {
+        if (!alarmPlaying) return;
+        alarmPlaying = false;
+        alarm.pause();
+        alarm.currentTime = 0;
+      }
+
+      function makeVisible(ids) {
+        for (var i = 0; i < ids.length; i++) {
+          var e = document.getElementById(ids[i]);
+          if (e != null) e.className = "visible";
+        }
+      }
+
+      function makeInvisible(ids) {
+        for (var i = 0; i < ids.length; i++) {
+          var e = document.getElementById(ids[i]);
+          if (e != null) e.className = "invisible";
+        }
+      }
+
+      String.prototype.compress = function () {
+        var a = this;
+
+        while (a.length > 0 && a.charAt(0) == " ") {
+          a = a.substring(1);
+        }
+
+        while (a.length > 0 && a.charAt(a.length - 1) == " ") {
+          a = a.substring(0, a.length - 1);
+        }
+
+        if (a.length > 0) {
+          var b = a.charAt(0);
+
+          for (var i = 1; i < a.length; i++) {
+            var c = a.charAt(i);
+
+            if (c == " ") {
+              if (a.charAt(i - 1) != " ") b += c;
+            } else {
+              b += c;
+            }
+          }
+
+          a = b;
+        }
+
+        return a;
+      };
+    </script>
+  </head>
+
+  <body onload="init()">
+    <table id="grid">
+      <tr>
+        <td>
+          <table id="timer-header">
+            <tr>
+              <td>
+                <a
+                  id="timer-header-title"
+                  title="Click to change timer title"
+                  href="javascript:changeTitle()"
+                  >UNTITLED</a
+                >
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table
+            id="timer-display"
+            title="hours : minutes : seconds"
+            onclick="displayClicked()"
+          >
+            <tr>
+              <td
+                id="timer-display-hours"
+                onclick="mouseClickHours(event)"
+                onmousewheel="mouseWheelHours(event)"
+              >
+                00:
+              </td>
+              <td
+                id="timer-display-minutes"
+                onclick="mouseClickMinutes(event)"
+                onmousewheel="mouseWheelMinutes(event)"
+              >
+                00
+              </td>
+              <td
+                id="timer-display-seconds"
+                onclick="mouseClickSeconds(event)"
+                onmousewheel="mouseWheelSeconds(event)"
+              >
+                00
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table id="timer-control">
+            <tr>
+              <td class="timer-control-cell">
+                <button
+                  id="timer-control-start"
+                  onclick="startTimer()"
+                  title="Start the timer"
+                >
+                  Start
+                </button>
+              </td>
+              <td class="timer-control-cell">
+                <button
+                  id="timer-control-stop"
+                  onclick="stopTimer()"
+                  title="Stop the timer"
+                >
+                  Stop
+                </button>
+              </td>
+              <td class="timer-control-cell">
+                <button
+                  id="timer-control-reset"
+                  onclick="resetTimer()"
+                  disabled="disabled"
+                  title="Reset the timer"
+                >
+                  Reset
+                </button>
+              </td>
+              <td class="timer-control-cell">
+                <button
+                  id="timer-control-switch"
+                  onclick="switchTimer()"
+                  disabled="disabled"
+                  title="Switch between counting up and down"
+                >
+                  Switch
+                </button>
+              </td>
+              <td class="timer-control-cell">
+                <button
+                  id="timer-control-edit"
+                  onclick="editTimer()"
+                  title="Toggle edit mode (change timer value, reset, switch)"
+                >
+                  Edit
+                </button>
+              </td>
+              <td id="timer-control-mode" title="Timer is counting up">
+                COUNT UP
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table id="timer-footer">
+            <tr>
+              <td style="text-align: left">
+                <img src="clock.png" alt="clock icon" />
+              </td>
+              <td style="text-align: left">
+                <span style="font-size: 125%; font-weight: bold">Timer</span>
+                (2011-04-30)<br />
+                <a
+                  href="http://sftimer.sourceforge.net/index.html"
+                  class="quiet"
+                  >http://sftimer.sourceforge.net/index.html</a
+                >
+              </td>
+              <td style="text-align: right">
+                <a href="http://sourceforge.net/projects/sftimer"
+                  ><img
+                    src="http://sflogo.sourceforge.net/sflogo.php?group_id=538003&amp;type=10"
+                    width="80"
+                    height="15"
+                    style="border-style: none"
+                    alt="Get Timer at SourceForge.net. Fast, secure and Free Open Source software downloads"
+                /></a>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+
+    <div class="info">
+      <b>What is Timer?</b>
+      Timer is a simple web-based timer that uses JavaScript only (no Flash or
+      Java). It supports counting up and counting down, with alarm (<a
+        href="javascript:testAlarm()"
+        >test alarm</a
+      >). The timer value can be changed directly while the timer is running.
+      Timer is easy to bookmark and configure through the URL.
+      <span id="more-info-link" class="visible"
+        >(<a
+          href="javascript:makeVisible(['more-info','less-info-link']);makeInvisible(['more-info-link']);"
+          >more info</a
+        >)</span
+      >
+      <span id="less-info-link" class="invisible"
+        >(<a
+          href="javascript:makeInvisible(['more-info','less-info-link']);makeVisible(['more-info-link']);"
+          >less info</a
+        >)</span
+      >
+    </div>
+
+    <div id="more-info" class="invisible">
+      <div class="info">
+        <b>How to use Timer</b>: Timer runs best on
+        <a href="http://www.google.com/chrome/intl/en/landing_chrome.html?hl=en"
+          >Google Chrome</a
+        >
+        or
+        <a
+          href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home"
+          >Internet Explorer 9</a
+        >. To switch between counting up and counting down, click Edit and then
+        Switch. To change the timer value, click Edit and then scroll the
+        mousewheel over the hours, minutes, or seconds (alternatively, you can
+        click or shift-click to increment or decrement a value). An alarm is
+        triggered when counting down past zero; click on the timer display or
+        any button to stop the alarm. The timer title can be changed by clicking
+        on it.
+      </div>
+
+      <div class="info">
+        <b>Configuring Timer through the URL</b>: Use a combination of the
+        following commands to control how Timer should be launched &#8212;
+        <b>up</b> (count up), <b>down</b> (count down), <b>start</b> (start
+        automatically), <b>edit</b> (edit mode), <b>hh:mm:ss</b> or
+        <b>mm:ss</b> (initial timer value). Specify these commands after a
+        <b>?</b> at the end of the URL, separating multiple commands with a
+        comma. A title can also be specified by providing a list of
+        comma-separated words. Examples:
+        <div style="margin-left: 3px">
+          (i)&nbsp;
+          <a
+            href="http://sftimer.sourceforge.net/index.html?down,start,5:00,My,Tea"
+            class="quiet"
+            >http://sftimer.sourceforge.net/index.html<b
+              >?down,start,5:00,My,Tea</b
+            ></a
+          >
+          <br /><span style="visibility: hidden">(ii) </span>&rarr; starts a
+          5-minute countdown for steeping tea<br />
+          (ii)
+          <a
+            href="http://sftimer.sourceforge.net/index.html?up,start,1:30:00"
+            class="quiet"
+            >http://sftimer.sourceforge.net/index.html<b
+              >?up,start,1:30:00</b
+            ></a
+          >
+          <br /><span style="visibility: hidden">(ii) </span>&rarr; starts
+          counting up with 1 hour 30 minutes elapsed
+        </div>
+      </div>
+
+      <div class="info">
+        <b>Copyright and License</b>: Copyright 2011
+        <a href="http://zachscrivena.users.sourceforge.net/">Zach Scrivena</a>.
+        Timer is free and open-source software released under the
+        <a href="http://www.gnu.org/licenses/gpl-3.0.html">GNU GPLv3</a>
+        license. The alarm audio clip was created by
+        <a href="http://www.soundsnap.com/">Soundsnap</a> user "<a
+          href="http://www.soundsnap.com/node/35248"
+          >monsteer</a
+        >", and is released under the
+        <a href="http://www.soundsnap.com/licence">Soundsnap License</a>. The
+        clock icon belongs to the
+        <a href="http://www.famfamfam.com/lab/icons/silk/">Silk icon set</a>
+        version 1.3 created by Mark James, and is released under the
+        <a href="http://creativecommons.org/licenses/by/2.5/"
+          >Creative Commons Attribution 2.5 License</a
+        >.
+      </div>
+
+      <div class="info">
+        <b>Contact and Support</b>: Comments, suggestions, criticisms, and bug
+        reports are all welcomed! Please send me an
+        <a
+          href="http://www.google.com/recaptcha/mailhide/d?k=01jnQTSeDiGA_Cr2oWxOTIdQ==&c=JU11aJl9csT_f8uq1TSTqDDGrjudccdgFWTNoAlHu5U="
+          >email</a
+        >
+        or visit the
+        <a href="http://sourceforge.net/projects/sftimer/forums/forum/1767537"
+          >forum</a
+        >
+        at SourceForge.
+      </div>
+    </div>
+
+    <audio
+      id="alarm"
+      src="https://maidstory.files.wordpress.com/2022/03/alarm.mp3"
+      preload="auto"
+      loop
+      style="display: none"
+    >
+      Alarm is not supported on this browser.
+    </audio>
+  </body>
+</html>
