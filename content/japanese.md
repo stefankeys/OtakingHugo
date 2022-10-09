@@ -3,6 +3,7 @@ title: "Pros and Cons of Learning Japanese"
 sub_title: "And a discussion retrospective."
 Date: 2020-09-25
 LastMod:
+type: jp
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

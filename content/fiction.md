@@ -3,6 +3,7 @@ title: "Can Fiction Be Anti-Escapist?"
 sub_title: ""
 Date: 2020-10-24
 LastMod:
+type: lit
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

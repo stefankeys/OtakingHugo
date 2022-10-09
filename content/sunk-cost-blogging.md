@@ -3,6 +3,7 @@ title: "Sunk Cost Fallacy Blogging"
 sub_title: "Or, How I Learned to Stop Worrying and Just Blog"
 Date: 2021-08-18
 LastMod:
+type: lit
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

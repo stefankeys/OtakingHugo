@@ -3,6 +3,7 @@ title: "The Absolute State of The Islamic World"
 sub_title: "It's not good."
 Date: 2021-09-17
 LastMod:
+type: pol
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

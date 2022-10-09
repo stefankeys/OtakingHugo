@@ -3,6 +3,7 @@ title: "What is The Purpose of Fiction?"
 sub_title: ""
 Date: 2020-10-26
 LastMod:
+type: lit
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

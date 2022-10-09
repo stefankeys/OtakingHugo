@@ -3,6 +3,7 @@ title: To Sneed or Not To Sneed
 sub_title: Complain less, and do more..,
 Date: 2022-03-06
 LastMod:
+type: b
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

@@ -3,6 +3,7 @@ title: "kara-settei"
 sub_title: "Original Character Design Page"
 Date: 2021-01-27
 LastMod:
+type: tg
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

@@ -3,6 +3,7 @@ title: "No Man is An Island"
 sub_title: ""
 Date: 2020-10-26
 LastMod:
+type: pol
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

@@ -3,6 +3,7 @@ title: "My First Table-Top RPG Character Sheets"
 sub_title:
 Date: 2020-11-08
 LastMod:
+type: tg
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

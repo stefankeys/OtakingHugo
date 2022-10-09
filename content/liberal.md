@@ -3,13 +3,10 @@ title: "Chatting with a American liberal in Germany Part 1"
 sub_title: ""
 Date: 2020-01-15
 LastMod:
+type: pol
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)
-
-
-
-
 
 The stuff which is highlighted in black is what he said and the stuff which looks normal is mine.
 
@@ -22,10 +19,6 @@ Akchtually, they were built on colonialism, murder, rape, theft etc... I mean th
 In fact, I have friends and relatives who have gotten into Europe pretending to be refugees. It's more common and easier than you think. You just bribe some third world official to write a letter for you about being a political refugee lol [Or about how thugs will get you if you go back to your country].
 
 Then you can bring a friend over while pretending to be married to them temporarily. You can of course bring over your children too. These things do happen pretty frequently.
-
-
-
-
 
 Yeah so let's throw out human rights because some people abuse the system.
 
@@ -49,19 +42,13 @@ God bless Europe for providing her pieces of paper to the huddled masses of the 
 
 Yes, but what can you not see that it constantly means less and less to be a citizen if people who can't even speak the language, or know the history can claim to be citizens? When it comes to a time to sacrifice their self-interest for the group it is going to be a hard sell.
 
-
-
 Nah it [sexual modesty] is neither conservative nor liberal - forced sexual modesty is conservative though
-
-
 
 There is pressure in most liberal societies to be sexually immodest though. The pressure is the other way in conservative societies.
 
 Hmm I think it may look that way to people who come from countries where they are afraid to let women drive cars and show their faces.]
 
-Well, then why do you want to let people from such countries into your one. Remember that when the Egyptians got a choice to elect someone they elected the Muslim Brotherhood. The Turks elected Erdogan. In Lybia too when they were given a choice they elected the Islamist party.[In response to, 
-
-
+Well, then why do you want to let people from such countries into your one. Remember that when the Egyptians got a choice to elect someone they elected the Muslim Brotherhood. The Turks elected Erdogan. In Lybia too when they were given a choice they elected the Islamist party.[In response to,
 
 We are a nation created by colonizers. Balkanizing us would create utter chaos and disaster. You could say the US was never justified in the first place - you might be right.
 
@@ -97,11 +84,7 @@ Usually neighbors are relatively the same in technology - so they don't "coloniz
 
 lol what so Ottomans did not colonize most of the Arab world because they were next to each other and it was a medieval affair? This all seems pretty arbitrary to me.
 
-
-
 I mean you can point your finger to the point after all of the chaos, death, and destruction that follows Balkanization and say it was worth it - but I will just point to all of the chaos, death, and destruction.
-
-
 
 Yeah, none of that chaos would have happened if Yugoslavia was not created by the great powers. Once the strong man dictator was gone, the instability of that artificial construct was revealed.
 
@@ -119,15 +102,11 @@ Have you seen all the small states in Europe today? Most large ethnic population
 
 America is a lot more of a monoculture than Europe. That is why it has been peaceful despite being a large nation. [If it weren't for the large influx of migrants (which are an existential threat to the right) then the right and left would get along with each other. Imagine a world where racists and liberals get along with each other.]
 
-
-
 Augustus' was not some liberal state. It's like saying the US was peaceful after the Americans had subdued all the red Indians. The Roman Empire achieved peace over the world through colonialism [and you know empire, the two go well together like bread and butter].
 
 Augustus achieved power through war, but the relative peace and stability he created lasted for over 500 years. There was war - but for that time, it was definitely an important era for Roman history - literally called the Golden Age for a reason.
 
 Yeah, it was certainly good for the Romans and perhaps good for the subjugated peoples of the Romans, well as good as the British Empire and PAX BRITANNICA were good for the people subjugated by the British Empire.
-
-
 
 Modern Europe became peaceful only after all the major ethnic groups got their own nations in Europe, rather than being ruled over by some multi-ethnic empires dynasties of inbred royalty.
 
@@ -135,11 +114,7 @@ Yeah the hegemonic dynasties were definitely a problem. But the representative d
 
 Napoleon did quite a bit of harm too though. Killed many in the greatest wars Europe had seen by then, so it is kinda ironic to say he brought peace to Europe. He created what would become the German empire, ending the freedom of German city-states and leading to WWI and WWII. [Also it was democracy which elected Hitler which is a cheap shot but it still worth remembering.]
 
-
-
 The German cities and states united because they were too weak against France, just as the Italians did ending the vibrant Italian city-states too. They have a higher "cohesion"(read: internal cultures turned into a monoculture) because they had to protect themselves from France.
-
-
 
 The UK is pretty small but not so small it can't defend itself at all. Smaller states would find it harder not to be bullied around by larger ones, the UK can just barely afford to tbh. While in principle I am all for smaller states, there is a limit to how small they can be [and retain their independence].
 
@@ -150,8 +125,6 @@ The reason sub-units can't have peace is because they are weaker than large unit
 European history is much messier to call it colonialism - which is the explicit takeover of an indigenous peoples by a much more technologically advanced civilization
 
 The "technologically advanced" part seems to me to be redundant. What does "technologically advanced" mean? That the conquering culture is stronger, which in any case it would have to be do the conquering. The Romans, English etc... all came about by conquering other tribes.
-
-
 
 It does not matter what we (NATO/the EU) call ourselves any more than it mattered what Soviet "satellite states" called themselves. We were and are in the American sphere of influence. Only with US's recent loss in influence has there been a slight move of policy independent from the US.
 
@@ -172,8 +145,6 @@ The problem now is that due to the rise of China as a regional power Pax America
 Yet neither the larger units or the smaller units have any of the essential qualities that you ascribe to them. They are literally just fictions you have invented.
 
 Large units are more powerful than smaller units. It is as simple as that. What is powerful affects what is weak, especially when they are right next to each other, smaller weaker units cannot say no to any influence from larger more powerful units. Generally speaking of course.
-
-
 
 WILL TRADE RACISTS FOR REFUGEES
 
@@ -197,8 +168,6 @@ So what? The Romans had a lot more men, supplies, and weapons than their enemies
 
 I mean the Romans totally destroyed Israel, exiling its population and massacring hundreds of thousands. Does it really matter that they didn't use guns and muskets as the Europeans did?
 
-
-
 Unless you explain why it is so in common parlance this is just an appeal to authority/majority. My view is that there is a bias and a double-standard against the west for ideological reasons related to the west's role in capitalism. [In response to, "Define your words however you want - but that's not the common parlance or usage of that word. [en.wikipedia.org/wiki/Coloni…](https://en.wikipedia.org/wiki/Colonialism)"
 
 Yeah, but the only difference is one of power. Technology is power. [In response to, "War/conquest is war/conquest. Colonialism is takeover of indigenous populations with technology that the indigenous people do not possess."
@@ -221,7 +190,7 @@ Indeed the island would not be united if it weren't for the British after all. T
 
 What you are advocating for is nobody getting what they want. Everyone will just get to celebrate a little bit of their culture, but never fully so as not to step on other peoples' toes. For example, the law (in Sri Lanka) allows Muslim men to have 4 wives. The Buddhists don't like this.
 
-The [Sinhala] majority has essentially forced a political union because they know that a divided balkanised Sri Lanka will be easy pickings for larger states like India, China, and the United States. The majority is losing its majority status by a few percentage points year by year due to higher birthrates in the ethnic minorities. And so power is slowly going from the majority to minorities slowly changing the face of Sri Lanka into something the majority finds foreign. 
+The [Sinhala] majority has essentially forced a political union because they know that a divided balkanised Sri Lanka will be easy pickings for larger states like India, China, and the United States. The majority is losing its majority status by a few percentypee points year by year due to higher birthrates in the ethnic minorities. And so power is slowly going from the majority to minorities slowly changing the face of Sri Lanka into something the majority finds foreign.
 
 Meanwhile, the ethnic minorities are on a birth rate competition to outbreed and outnumber the majority. Needless to say, the majority does not like this. It is because I have seen full-scale multicultural failure in my countrymen that I fear for Britain, Europe, and America.
 
@@ -251,13 +220,9 @@ Well, your narratives about human rights have affected the world greatly for the
 
 Should the Kurds have their own nation or not? That is my question. I mean there are many kinds of Palestinians too - Muslim Palestinians, Christian Palestinians and even some Jewish ones. Can you understand why even though they could just become Israeli they would be a minority?[In response to, "I see the PKK in the Kurds. I see radical Kurds. I see Iraqi Kurds. I see Iranian Kurds."What I am implying here is that this is what the left is offering to Europeans all over the world, to be a minority in a nation and that naturally, people don't like to be the minority because there is safety, continuity, and security in numbers.]
 
-
 But you can exchange ideas and goods without bringing in new people. Japan westernised pretty quickly without having to turn 10% or more of their population into European people. Clearly, ideas can and do cross borders without great masses of people. [In response to "Because diversity brings new ways of thinking and even people who live in countries with oppressive systems come with unique and valuable insights about how the world works and can contribute to society", implying immigrants are not pressured to integrate into the ways and thinking of European liberal democracy thus emptying their cultures to empty shells if they choose to submit to the west.]
 
-
 Some of the people doing the demonizing may come over too following the demonized. The demonised will then continue to be demonised. Also, liberal democracies demonise people too. Remember Edward Snowden and Julian Assange? Where did Snowden have to run off to? [I tried in vain to explain that by mass importing those who are persecuted abroad you are also going to end up bringing over the persecutors as well.]
-
-
 
 It depends on if actually having a modest society is your goal. If it is your goal then it is a net good. Clearly, if people are free then they will choose the easier path of not being modest, thus you would have a less modest society, which would be a net loss, for that goal. [In response to "locking women up and forcing them to be modest is not actually creating a net good in the world. Women in the west are free to choose what they want. They have human rights."]
 
@@ -349,8 +314,6 @@ No, I don't care one bit about what happens to that country. I wasn't born there
 
 I am an individual first. A human second. That's about it.
 
-
-
 You are also an American. Drafted, if male. You are also a Liberal. And part of the academic establishment.
 
 My culture is humanity.
@@ -363,8 +326,6 @@ Not really. There is a limited amount of resources such as land, and people. The
 
 Like the choice to say no to a solution is conscious. People want the conflict, they want the anger. That's really it.
 
-
-
 There are many solutions. Everyone prefers the solution that benefits them best. Usually, the weakest member's interests are excluded from the solution. Is it any surprise people often say no? Usually, it is those with the upper hand who are eager to go to the negotiation table because they will get what they want from the weaker party.
 
 If identity is the problem - change the identity. Genes and culture are not the full sum of our being on this planet. We can break out, be free, redefine ourselves along new lines. Go to the moon
@@ -375,7 +336,7 @@ You can learn about your brothers and sisters. :D And what makes them happy and 
 
 What they[Tamils in Ceylon who want an independent state] want is not anything as paltry as my primary concern but territory and independence. They are not wrong to want this; But the reality is it will come at another group's expense if they can get it.
 
- If your categories miss the open minded people who want a better way - is that truly a valid category?
+If your categories miss the open minded people who want a better way - is that truly a valid category?
 
 If by open-minded you mean partial to the other side in the conflict then this account still accounts for them by simply counting them on the other side. Lenin may or may not have called them useful idiots.
 

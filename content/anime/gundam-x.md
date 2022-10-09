@@ -3,6 +3,7 @@ title: Newtypes in After War Gundam X
 sub_title: There are no Newtypes." Gundam X is Eureka Seven done right. It is also an epilogue to early UC Gundam.
 Date: 2020-04-15
 LastMod: 2022-04-15
+type: a
 ---
 
 [[Home](/)] [[Donate](https://patreon.com/denpa)]
@@ -42,11 +43,11 @@ The story focuses on various factions on earth, we barely get to see the colonie
 
 The message of environmentalism typical to UC Gundam is pushed to the background, humanity has destroyed the world but nature and the world is recovering by itself so its not the focus, the focus is more on the Newtypes and how they are misused and mistreated but also put on a pedestal during the war and the previous era leading to their suffering and to war. This theme was always there but it was never the sole focus so you although could infer the theme and peace together the resolution from early UC, it's nice to have it spelled it out to you more "officially" here in Gundam X.
 
-The motives of the main antagonists, the Frost Brothers, are also related to Newtypes but you could not have deduced them from early UC, because while early UC was trying to set up the concept of Newtypes, Gundam X is trying to deconstruct it as an ideal.
+The motives of the main antypeonists, the Frost Brothers, are also related to Newtypes but you could not have deduced them from early UC, because while early UC was trying to set up the concept of Newtypes, Gundam X is trying to deconstruct it as an ideal.
 
 Basically the Frost Brothers were deemed as unfit to be newtypes despite their telepathic abilities because they couldn't use the "Flash system," the flash system gives "proper" Newtypes the ability to control multiple mechs at once with their mind powers. Now the Frost Brothers want revenge against Newtypes and a world which put such importance on Newtypes.
 
-The motivations of the main characters are also connected to Newtypes. Jamil, a former Newtype ace pilot during the war 15 years ago has decided to go around the world with his crew on his ship, the Freedern, to find and fetch Newtypes to protect them from being manipulated and exploited. Various circumstances, Garrod, lead to the protagonist who, significantly, is not a Newtype to end up a mech pilot on the Freedern, piloting a Gundam X same type of mech Jamil piloted. This mech like many others was scavenged from a war-time military facility because the ability to produce powerful mechs like that has been lost. The Gundam X has a colony destroying laser which can only be used when the moon is out for once.
+The motivations of the main characters are also connected to Newtypes. Jamil, a former Newtype ace pilot during the war 15 years ago has decided to go around the world with his crew on his ship, the Freedern, to find and fetch Newtypes to protect them from being manipulated and exploited. Various circumstances, Garrod, lead to the protypeonist who, significantly, is not a Newtype to end up a mech pilot on the Freedern, piloting a Gundam X same type of mech Jamil piloted. This mech like many others was scavenged from a war-time military facility because the ability to produce powerful mechs like that has been lost. The Gundam X has a colony destroying laser which can only be used when the moon is out for once.
 
 Garrod falls in love with a Newtype called Tiffa Adill, also aboard the Freedern, she is a quiet and kind of asocial adolescent girl. She was the victim of human experiments due to her Newtype powers before she was rescued by the Freedern.
 
@@ -54,7 +55,7 @@ Garrod and Tiffa Adill's romance sort of reminded me of Eureka Seven, except the
 
 The message of Gundam X is anti-elitist and anti-ideological one. To the extent that we can draw parallels to real life from the theme of Newtypes as presented in Gundam X, it seems that Newtypes are stand-ins for extreme ideologues who hope to bring a new age for humanity but really just end up being pawns to those who want power, and tools to bring suffering to everyone.
 
-The Newtype message of Gundam X thus is this, "there are no Newtypes," there is no elite special group of people who will single-handedly push humanity to the next stage but history is something that we must build together and by ourselves. Thinking otherwise might lead to the destruction of the human race.
+The Newtype message of Gundam X thus is this, "there are no Newtypes," there is no elite special group of people who will single-handedly push humanity to the next stypee but history is something that we must build together and by ourselves. Thinking otherwise might lead to the destruction of the human race.
 
 There is also the message that grievances of the past generations should be let go, so that the new generation can live and prosper peacefully. Alas, this message is lost to today's youth. They may either worship or loathe the past but either way they are spellbound by it.
 

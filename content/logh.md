@@ -3,6 +3,7 @@ title: "Legend of the Galactic Heroes Quotes"
 sub_title:
 Date: 2014-07-13
 LastMod:
+type: a
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)
@@ -25,7 +26,7 @@ Alex Cazellnu, ep. 29.
 
 Yang Wen-Li.
 
-*Yang: A nation doesn’t create individuals by cellular division. Instead, it is individuals with autonomous intent who gather to establish a nation. In a democratic society, it is axiomatic as to which one is the master and which the servant.*
+_Yang: A nation doesn’t create individuals by cellular division. Instead, it is individuals with autonomous intent who gather to establish a nation. In a democratic society, it is axiomatic as to which one is the master and which the servant._
 
 Inquistor Negroponty: Axiomatic, eh? My understanding is rather different. Humans are social creatures. Nobody can live alone, and thus the nation holds indispensable value to the people.
 
@@ -55,7 +56,7 @@ Yang Wen-Li, ep. 32: “War Without Weapons.”
 
 –Yang Wen-Li.
 
-*Yang: The pen is mightier than the sword! In human affairs, the truth is hard to find, which is why that expression is true. We couldn’t topple Rudolf the Great [Space Hitler, pretty much] with the sword, but we exposed his crimes against human society. That is the power of the pen. The pen can impeach the dictator of a hundred years ago or the tyrant of a thousand years ago.*
+_Yang: The pen is mightier than the sword! In human affairs, the truth is hard to find, which is why that expression is true. We couldn’t topple Rudolf the Great [Space Hitler, pretty much] with the sword, but we exposed his crimes against human society. That is the power of the pen. The pen can impeach the dictator of a hundred years ago or the tyrant of a thousand years ago._
 
 Julian: Yes, but in the end, doesn’t that just explain the past?
 
@@ -75,7 +76,7 @@ Paul Von Oberstein, ep. 37.
 
 Yang Wen-Li.
 
-*Yang: Even if you look at a mountain, if you only look at it from one direction, you can’t grasp the whole…Embodiments of evil don’t exist other than in television dramas…Maybe history will classify us not as good but as the evil camp…people aren’t strong enough to endure the recognition that they’re evil. Therefore, believing in their own righteousness, they fight to force their views on other people.*
+_Yang: Even if you look at a mountain, if you only look at it from one direction, you can’t grasp the whole…Embodiments of evil don’t exist other than in television dramas…Maybe history will classify us not as good but as the evil camp…people aren’t strong enough to endure the recognition that they’re evil. Therefore, believing in their own righteousness, they fight to force their views on other people._
 
 Julian: There’s no such thing as absolute righteousness?
 
@@ -99,7 +100,7 @@ LoGH, ep. 39
 
 –Alexander Bucock
 
-*Lang: Your Excellency Chief of Staff, what I think is, no matter what kind of clothes it wears, there is only one real concern of government.*
+_Lang: Your Excellency Chief of Staff, what I think is, no matter what kind of clothes it wears, there is only one real concern of government._
 
 Oberstein: And what’s that?
 
@@ -158,9 +159,7 @@ All quotes from LoGH ep. 51, “Battle of Vermillion: Part 1″
 “But Chairman Trunicht is a ruler chosen by suffrage. Even though it might be the result of bad vision, that vision must be corrected by the people themselves, no matter how long that might take. Professional soldiers must never be allowed to use violence to correct the errors of the people.”
 –Again, Julian.
 
-
-
-*Reinhard: Is democracy such a great thing? Didn’t the Galactic Republic give birth to Rudolf and his Galactic Empire? Wasn’t the one who delivered your beloved nation into my hands your own ruler, chosen by the free will of the people of the Alliance? Democratic rule is a body chosen by its citizens in free will which subsumes the power and spirit of self.*
+_Reinhard: Is democracy such a great thing? Didn’t the Galactic Republic give birth to Rudolf and his Galactic Empire? Wasn’t the one who delivered your beloved nation into my hands your own ruler, chosen by the free will of the people of the Alliance? Democratic rule is a body chosen by its citizens in free will which subsumes the power and spirit of self._
 
 Yang: if you could pardon my rudeness, your excellency, your words are as if the value of fire should be denied, simply because arson exists.
 
@@ -192,10 +191,10 @@ Logh ep. 56 and 57 quotes:
 “Religion is a convenient thing for those in power. There’s no more efficient tool for dominating the populace.”
 –Boris Konev, ep. 57.
 
-*“The love which is preached by the Earth Church isn’t for the planet named Earth…They must only be using Earth to revive the privilege which their own ancestors possessed. If they really loved the Earth, they wouldn’t be getting involved in war, or power struggles.”
-–Poplan, ep. 57.*
+_“The love which is preached by the Earth Church isn’t for the planet named Earth…They must only be using Earth to revive the privilege which their own ancestors possessed. If they really loved the Earth, they wouldn’t be getting involved in war, or power struggles.”
+–Poplan, ep. 57._
 
-*Reuenthal: A man like Job Trunicht will leave his name forever in history as a consummate businessman.*
+_Reuenthal: A man like Job Trunicht will leave his name forever in history as a consummate businessman._
 
 Mittermeyer: Businessman?
 
@@ -309,10 +308,10 @@ Episode 74:
 “It doesn’t suit our fleet to pride itself on misery, and it doesn’t suit you, either. No matter how much you hate him, it’s not like he’ll live forever…it’s meaningless to make up with a gravestone, don’t you think?”
 –Poplan to a certain someone who hates her father…
 
-“In the end, conspiracies or terrorism cannot reverse the flow of history. But they can make it stagnant.”
+“In the end, conspiracies or terrorism cannot reverse the flow of history. But they can make it stypenant.”
 –Yang.
 
-*Yang: [Kaiser Reinhard] is a threat because he’s succeeding in changing history with power that is not democratic.*
+_Yang: [Kaiser Reinhard] is a threat because he’s succeeding in changing history with power that is not democratic._
 
 Frederica: Autocracy is the most effective structure with which to carry out drastic changes.
 
@@ -355,7 +354,7 @@ Episode 78:
 “If you write prose too predictably, before readers get bored, the publishers won’t like it. You have to write prose that gives a more fresh impact.”
 –Poplan to Attenborough
 
-“*Yang:no matter how brilliant a ruler Kaiser Reinhard himself is, I cannot take the hand of an autocratic ruler. As much as the Kaiser has his own nature, I also have things I can’t break free of.*
+“_Yang:no matter how brilliant a ruler Kaiser Reinhard himself is, I cannot take the hand of an autocratic ruler. As much as the Kaiser has his own nature, I also have things I can’t break free of._
 
 Julian: Do you mean it’s predetermination?
 
@@ -369,7 +368,7 @@ Yang: I could live with it if you said “fate,” but “predetermination is re
 “To become an adult means to know one’s drinking capacity.”
 –Yang.
 
-*Yang:At least so far, there’s no doubt that Kaiser Reinhard is one of the highest grade autocratic rulers in human history. So we’re forced to face the ultimate contradiction…in other words, when the absolute majority of the people affirm and accept autocracy, we who advocate for the sovereignty of the people become the enemy of the people…If we have to bring down a virtuous ruler to preserve the institution of democracy, democracy becomes the enemy of good governance. We have no choice but to laugh at such a paradox.*
+_Yang:At least so far, there’s no doubt that Kaiser Reinhard is one of the highest grade autocratic rulers in human history. So we’re forced to face the ultimate contradiction…in other words, when the absolute majority of the people affirm and accept autocracy, we who advocate for the sovereignty of the people become the enemy of the people…If we have to bring down a virtuous ruler to preserve the institution of democracy, democracy becomes the enemy of good governance. We have no choice but to laugh at such a paradox._
 
 Julian: Though a virtuous ruler like Kaiser Reinhard may be good for us, it’s meant to be a prevantative measure for the future, when tyrants might come out, so…
 
@@ -387,7 +386,7 @@ LoGH Ep. 80:
 “I’m not reproaching you. It’s still better than committing a mistake that is unlike your character. At this point, think about making up for the loss with the work that you’re capable of doing.”
 –Mein Kaiser
 
-“A large force and large war potential are indispensable elements in holding a strategic advantage. But at the tactical level, that’s not always the case. Especially depending on the geography of the battlefield, it can become a factor contributing to defeat.”
+“A large force and large war potential are indispensable elements in holding a strategic advantypee. But at the tactical level, that’s not always the case. Especially depending on the geography of the battlefield, it can become a factor contributing to defeat.”
 –Mittermeyer
 
 Ep. 81: “People follow people, but not necessarily ideals or institutions. Then I wonder if Julian, in the end, is fighting for me. But that’s not the way it should be. His reason for fighting shouldn’t be loyalty to one individual, but rather to the ideal and institution of democracy.”
@@ -410,7 +409,7 @@ Ep. 83:
 “In politics, the institution and structure gain their binding power starting with the second generation. If Yang had held the representative position for republican democracy while he was alive, and if Mrs. Yang had succeeded to that position upon his death, then it would have become a type of hereditary right and it would have meant the privatization of power. But Yang kept refusing to take that position when he was alive. As a result, that fact gives Mrs. Yang political legitimacy.”
 –Cazellnu.
 
-*Frederica: That’s only natural, Julian. The things Yang Wenli did cannot be done by anyone else.*
+_Frederica: That’s only natural, Julian. The things Yang Wenli did cannot be done by anyone else._
 
 Julian: That’s right. I can’t. There’s too much of a gap in talent.
 
@@ -426,7 +425,6 @@ Frederica: No, it’s a difference of personality, Julian. You’ll have to do t
 –Dusty.
 
 From 84-89, cut for spoilers:
-
 
 Ep. 84: “I’ve thought about it on many occasions. At the time I was defeated by Reinhard von Lohengramm in the Lippstadt War…it might perhaps have been better for me to have died. But I no longer think that way. Until I was almost 60 years old, I’d always lived a life afraid of failure. I’m finally beginning to learn that there is another kind of life, and I have to repay my debt, be grateful or whatever, to the people who taught that to me.”
 –Admiral Merkatz
@@ -459,7 +457,7 @@ Ep. 88:
 “Are “feelings” inherited in this manner, just as I inherited Admiral Yang’s feelings? Though not everything, even if it were just a little, I want to share Admiral’s feelings. From elder to junior, from predecessors to followers, I wonder if that’s how the torches of “feelings” get relayed. If that’s the case, those who value that fire must take the responsibility of keeping the fire burning, and handing it to the next runner.”
 –Julian Minci.
 
-“If it were a third-rate TV anime, a dead protagonist can come back to life at the producers’ convenience. But the world we live in is not such a convenient place. Lost lives will never return. Because of it, we live in a world where a life is an irreplaceable existence.”
+“If it were a third-rate TV anime, a dead protypeonist can come back to life at the producers’ convenience. But the world we live in is not such a convenient place. Lost lives will never return. Because of it, we live in a world where a life is an irreplaceable existence.”
 –Dusty Attenborough
 
 “It [Iserlohn] is the holy land for those heretics who do not yield to overwhelming power. A place like that can only exist on the outer fringe. So I pride myself on being on the outer fringe. The outer fringe is a place that’s nearest to the stream that opens up a new age.”
@@ -470,7 +468,7 @@ Ep. 88:
 “Don’t you have the responsibility to protect your own just rights, for the sake of people who trust you and are supporting you?”
 –Katerose von Kreutzer.
 
-*Cazellnu: But to get rid of all disagreeing elements would be against the principles of democracy.*
+_Cazellnu: But to get rid of all disagreeing elements would be against the principles of democracy._
 
 Schenkopp: “Democracy is an institution that codifies the self-restraint of the power-holders,” huh?”
 
@@ -503,7 +501,7 @@ Ep. 90:
 “A warrior in an era of peace is nothing more than a chained watchdog. He does nothing but rot slowly in sloth and boredom.”
 –Reuenthal.
 
-*Trunicht: “I don’t believe “Interesting” and “Factual” are the same thing, are they?”*
+_Trunicht: “I don’t believe “Interesting” and “Factual” are the same thing, are they?”_
 
 Reuenthal: If you add 100 “interestings” together, they might amount to the equivalent of one fact.
 
@@ -548,7 +546,7 @@ Ep. 93:
 “If one can feel happy in one’s childhood, that is because one can go without knowing the truth about oneself.”
 –Reuenthal again.
 
-*Mitt: Do you mean it’s like being intoxicated? Or is it like sobering up? I wonder which.*
+_Mitt: Do you mean it’s like being intoxicated? Or is it like sobering up? I wonder which._
 
 Reue: I don’t know. But either way, it must be happier to die while still intoxicated…I wonder if intoxication perhaps includes such feelings as love for someone, or loyalty to someone.
 
@@ -695,8 +693,6 @@ Ep. 102:
 
 –Julian
 
-
-
 “I don’t want to indulge in reminiscences about these people; I want to indulge in reminiscences with these people.”
 –Julian again.
 
@@ -737,13 +733,12 @@ ep. 107:
 “A democratic republican should never kneel to an autocratic ruler…!”
 –Julian.
 
-
 Episode 109:
 
 “Democracy is great, isn’t it? Because a corporal can give an order to a Lt. Jg.”
 –Karin, after ordering Julian to give her a kiss <3
 
-*Attenborough:But still, humans, no, I mean groups of humans, why do they have to shed so many billions of liters of blood, for something they just needed to talk about?*
+_Attenborough:But still, humans, no, I mean groups of humans, why do they have to shed so many billions of liters of blood, for something they just needed to talk about?_
 
 Julian: Do you think it’s just idiocy?
 
@@ -751,10 +746,9 @@ Attenborough: I don’t know. I don’t have the right to criticize them. After 
 
 Julian: It may certainly be an act of idiocy. But when humans lose that idiocy, will they evolve for the better?
 
-*Muller:While your sorrow began at its starting point, we first have to get to the goal and then start again to fill the void in our hearts…for those of us who are still alive, that is.*
+_Muller:While your sorrow began at its starting point, we first have to get to the goal and then start again to fill the void in our hearts…for those of us who are still alive, that is._
 
 Julian: That’s right. For those of us who are still alive, the journey continues. Until the time that they’re to join the dead, they must continue to walk to that day, without being allowed to fly and skip. Still, the fact that I was able to have heartfelt friendly exchanges with the admirals of the Imperial Force is something I’m pleased with. But might that fact plausibly be criticized by posterity as a shameless handshake between mass-murderers? Aside from posterity, I have to accept it no matter how the bereaved of the war dead denounce me. But there was no other way. In order to create the present circumstances, we had to fight first.
-
 
 Episode 110:
 
@@ -778,6 +772,6 @@ Felix, son of Reuenthal, adopted by Mittermeyer and his wife, has just spoken hi
 
 The legend ends, and history begins.”
 
-------
+---
 
 Source:[ http://gunlord500.wordpress.com/2013/09/06/legend-of-the-galactic-heroes-quotes-massive-spoilers/](http://gunlord500.wordpress.com/2013/09/06/legend-of-the-galactic-heroes-quotes-massive-spoilers/)

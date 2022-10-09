@@ -3,6 +3,7 @@ title: "Otaku Dictionary"
 sub_title:
 Date: 2020-05-26
 LastMod:
+type: a
 ---
 
 [Back to catalog](https://otaking.xyz/index.html)

@@ -3,6 +3,7 @@ title: "On Pessimism in Political Discourse"
 sub_title: ""
 Date: 2020-11-20
 LastMod:
+type: pol
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

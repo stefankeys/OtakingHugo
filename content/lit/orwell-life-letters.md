@@ -3,6 +3,7 @@ title: "George Orwell: A Life in Letters"
 sub_title: "I have surprisingly little to say after reading a 500 page compilation of letters by George Orwell."
 Date: 2022-05-06
 LastMod:
+type: lit
 ---
 
 [[Home](https://otaking.xyz/)] [[Donate](https://patreon.com/denpa)] [[About](https://otaking.xyz/about.html)]

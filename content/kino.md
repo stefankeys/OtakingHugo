@@ -3,6 +3,7 @@ title: "Kino's Journey Anime Review"
 sub_title:
 Date: 2014-06-29
 LastMod:
+type: a
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)
@@ -40,8 +41,6 @@ LastMod:
 >
 > **Hermes:** He [*the Author in the Land of Books*] seems crazy.
 > **Kino:** Normal people don’t become authors to begin with, Hermes.
-
- 
 
 Kino’s Journey is a philosophical anime and I would say that it has got some political satire in it. Kino and Hermes(a talking motorbike) travel from country to country where they encounter and interact with different characters. Kino stays in each country for only 3 days. Most of the characters are there only for just one episode- Kino and Hermes being the only characters present in the whole series. The irony in it is that some of the side characters get more character development than Kino and Hermes. We do get to know a little bit about Kino’s past but that’s it. The Kino that is there at the beginning is the same Kino that is there at the end of the story.
 

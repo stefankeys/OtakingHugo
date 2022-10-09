@@ -3,6 +3,7 @@ title: "Time of Eve Anime Review"
 sub_title:
 Date: 2014-06-23
 LastMod:
+type: a
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

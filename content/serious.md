@@ -3,6 +3,7 @@ title: Why So Serious?
 sub_title: Responding to so-called banter
 Date: 2021-10-28
 LastMod:
+type: b
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

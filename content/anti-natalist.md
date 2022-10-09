@@ -3,6 +3,7 @@ title: "An Argument Against Anti-Natalism And A Question For Anti-Natalists"
 sub_title: ""
 Date: 2020-11-26
 LastMod:
+type: pol
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

@@ -3,6 +3,7 @@ title: "Otaku Nikki - April 2022 Diary"
 sub_title: "by Otaking/The Good Student"
 Date: 2022-05-04
 LastMod:
+type: r9k
 ---
 
 [[Home](https://otaking.xyz/)] [[Donate](https://patreon.com/denpa)] [[About](https://otaking.xyz/about.html)]
@@ -117,7 +118,7 @@ I began making notes on my own Maid Solo RPG with pen and paper. I am worried th
 
 A shared grievance will not lead to understanding. If anything it will lead to disagreement about which is the right answer.
 
-Gundam X and some comments by my [co-host](https://www.youtube.com/channel/UCA4gWcOoz_FXrtTEemTOtfw) [Heraclius ](https://heraclius.substack.com/)made me realise that "Newtypes" in Gundam are just a stand-in for extreme ideologues/beliefs, often of a universal nature and elitist kind, small groups of people who think they'll lead humanity to the next stage of history by themselves rather than with everyone.
+Gundam X and some comments by my [co-host](https://www.youtube.com/channel/UCA4gWcOoz_FXrtTEemTOtfw) [Heraclius ](https://heraclius.substack.com/)made me realise that "Newtypes" in Gundam are just a stand-in for extreme ideologues/beliefs, often of a universal nature and elitist kind, small groups of people who think they'll lead humanity to the next stypee of history by themselves rather than with everyone.
 
 I can't help but feel that newtypes is also a parallel for otaku themselves. Because it is not only a negative thing.
 
@@ -157,7 +158,7 @@ Then why don't I just write about other people? Of course I already do write abo
 
 ## Kokoro - A desire for others to confide in me
 
-I am slowly going through the Kokoro by Natsume Soseki audiobook and there is one section where the protagonist complains that once a friendship has been estabilished on an intellectual footing then it becomes very hard to talk about personal matters with them. This bothered me very much when I was younger and first read this book but now that I have no desire to awkwardly get personal with my friends, I find that it doesn't really bother me.
+I am slowly going through the Kokoro by Natsume Soseki audiobook and there is one section where the protypeonist complains that once a friendship has been estabilished on an intellectual footing then it becomes very hard to talk about personal matters with them. This bothered me very much when I was younger and first read this book but now that I have no desire to awkwardly get personal with my friends, I find that it doesn't really bother me.
 
 I remember when I was younger I very much desired that at least one friend of mine would "let me in" on their deepest desires and self, because I believed that true friendship meant showing that level of trust. I was dissapointed when revealing part of my desires led to teasing, it felt like I was not taken seriously. No doubt I was affected by the portrayal of friendship in anime, manga and novels and fooled into thinking that people were a lot more interesting than they actually are.
 
@@ -354,13 +355,13 @@ That said there's nothing wrong on commenting on what I have written either, lik
 
 I have read the first half of Soseki's novel, Kokoro. I would recommend people to read the older and much better translation by McClellan, not the Penguin translation.It's out of print but you can get it off of piratebay, as well as the audible audiobook too.
 
-Reading this again now that I am much older I feel a lot less partial towards the protagonist and Sensei.Even though I am a lot more like Sensei, minus the beautiful wife or some tragic backstory involving a friend, I guess. Then again Sensei was pretty self-effacing too.
+Reading this again now that I am much older I feel a lot less partial towards the protypeonist and Sensei.Even though I am a lot more like Sensei, minus the beautiful wife or some tragic backstory involving a friend, I guess. Then again Sensei was pretty self-effacing too.
 
 I wonder what Chiasmo will say about Kokoro on Monday's stream/podcast because I have less of a precise impression now that I have re-read it than before I had re-read it.
 
 I remember that the second half of the novel which I have yet to re-read, Sensei's tragic backstory, didn't leave as much of a strong impression as the first half.
 
-Maybe perhaps because when I read the first half I was rather like the protagonist, looking for an older, wiser figure and friend to guide me. I was never able to find anyone like that, maybe some writers like Orwell might count, and I have certainly cooled down on them.
+Maybe perhaps because when I read the first half I was rather like the protypeonist, looking for an older, wiser figure and friend to guide me. I was never able to find anyone like that, maybe some writers like Orwell might count, and I have certainly cooled down on them.
 
 Sensei was right that affection for an older "wiser man" can and will turn to disgust. I have certainly experienced that with certain youtubers whom I considered to be "intellectuals." However that was just a parasocial relationship though I am glad that I got a direct if negative response by the end.
 
@@ -368,19 +369,19 @@ A better example might be the way Nietzsche soured on the older Wagner. Maybe th
 
 The idea that a man who doesn't work has value, or in other words that it's okay for certain "wise men" to exist without working sounds silly. Rather I don't think the should be supported by the state but if they can live in idleness because of their personal circumstances, like if they own property or someone is willing to pay for them voluntarily, then that sort of person can have value too.
 
-People say that they value labour but honestly they only value certain kind of labour. Honestly, just ignore people. The book is very vague about what subject the protagonist was learning in university. I wonder if it will reveal what Sensei studied either.
+People say that they value labour but honestly they only value certain kind of labour. Honestly, just ignore people. The book is very vague about what subject the protypeonist was learning in university. I wonder if it will reveal what Sensei studied either.
 
-Kokoro feels very modern and it's kind of disappointing that since the 1940s nothing new has happened. The kind of experience that the protagonist had has just being replicated and democratised further but it has also become thinner and more shallow and individualistic. Now you don't need to meet your "Sensei" figure because you can just watch him through a digital screen. The protagonist says that his experience with Sensei was "spiritual" rather than material but I would say that it is more "emotional."
+Kokoro feels very modern and it's kind of disappointing that since the 1940s nothing new has happened. The kind of experience that the protypeonist had has just being replicated and democratised further but it has also become thinner and more shallow and individualistic. Now you don't need to meet your "Sensei" figure because you can just watch him through a digital screen. The protypeonist says that his experience with Sensei was "spiritual" rather than material but I would say that it is more "emotional."
 
-Sensei says that the protagonist seeking for friendship with Sensei was just as a preparation for love with a woman. When I first read this passage it rang a lot more truer, that friendship is training for love with a woman. It certainly seemed that way, and in a sense it is true a bond between a woman and a man is less transient for the simple reason that you are stuck with each other once you are married whereas if you don't feel like meeting a friend you can usually avoid him. Then again I have heard of married couples virtually becoming room mates who barely talk to each other.
+Sensei says that the protypeonist seeking for friendship with Sensei was just as a preparation for love with a woman. When I first read this passage it rang a lot more truer, that friendship is training for love with a woman. It certainly seemed that way, and in a sense it is true a bond between a woman and a man is less transient for the simple reason that you are stuck with each other once you are married whereas if you don't feel like meeting a friend you can usually avoid him. Then again I have heard of married couples virtually becoming room mates who barely talk to each other.
 
 Now that I am neither interested in friendship with a Mentor nor in romance, it rings less true. But it is true that the infatuation that a young "literary" man can feel towards an older mentor literary figure, even a dead writer, can be rather like a simulacra of romance in lieu of actual romance.
 
-I wonder what did Sensei want out of the protagonist. With a lot of "father-figure-intellectual" Youtubers these days, the answer is simple, money and popularity... But the protagonist could give neither of these things to Sensei.
+I wonder what did Sensei want out of the protypeonist. With a lot of "father-figure-intellectual" Youtubers these days, the answer is simple, money and popularity... But the protypeonist could give neither of these things to Sensei.
 
-The contrast between Sensei and the protagonist's country bumpkin father was also relate-able to me. Education really feels like it is designed to drive parents and children apart, especially when the parent is not educated, it has this effect. No, it is not simply a matter of looking down on uneducated parents by ungrateful sons, but rather there is nothing in common in terms of interests, there is no point in even starting to explain.
+The contrast between Sensei and the protypeonist's country bumpkin father was also relate-able to me. Education really feels like it is designed to drive parents and children apart, especially when the parent is not educated, it has this effect. No, it is not simply a matter of looking down on uneducated parents by ungrateful sons, but rather there is nothing in common in terms of interests, there is no point in even starting to explain.
 
-Maybe Sensei wanted understanding, for someone to understand him. No, that's what the protagonist wanted from Sensei. I do relate more to Sensei than the protagonist now, including his misanthropic views. Sensei wanted his money, that much is certain in the first half of the novel. Maybe when I re-read the second half I will understand.
+Maybe Sensei wanted understanding, for someone to understand him. No, that's what the protypeonist wanted from Sensei. I do relate more to Sensei than the protypeonist now, including his misanthropic views. Sensei wanted his money, that much is certain in the first half of the novel. Maybe when I re-read the second half I will understand.
 
 At a certain point the Emperor Meiji dies (that's the emperor before Hirohito, I think) and a general called Nogi kills himself to atone for losing a banner during a battle many years ago or something like that. The characters are sad about this. If the Queen were to die tomorrow, or if any other political figure anywhere were to die, I wouldn't feel a thing. Maybe there was a time when I would have felt a thing... But I guess my misanthropy has extinguished any feeling of patriotism and identification with any group.
 
@@ -388,13 +389,13 @@ Sensei, and Soseki at least seemed to have felt an attachment to an era or a pla
 
 Just like Sensei says that there aren't any stereotypically bad people, I would say that there are no stereo-typically good people either - and that were I to meet the people creating the culture that I like, they would just be ordinary people too in all regards except their ability to produce culture which I like.
 
-That maybe why Sensei and the protagonist failed to connect even if they had plenty of "culture" in common.
+That maybe why Sensei and the protypeonist failed to connect even if they had plenty of "culture" in common.
 
 Also for some reason after having read it the first time I was under the wrong impression that there was any ambiguity as to sensei's death but it is quite clear from the first half of the novel that sensei is dead and that he killed himself.
 
-Because of this misunderstanding I kept on feeling "what if the protagonist stopped Sensei's suicide?" but no, I now realise that there wouldn't have been any point in stopping sensei's suicide. Unless there is something else which I have missed in the second half of the novel. The audio book is seven hours long and I have listened to half of it.
+Because of this misunderstanding I kept on feeling "what if the protypeonist stopped Sensei's suicide?" but no, I now realise that there wouldn't have been any point in stopping sensei's suicide. Unless there is something else which I have missed in the second half of the novel. The audio book is seven hours long and I have listened to half of it.
 
-In general I could relate more to the protagonist's fears but now that those fears have come true and I am still alive, it doesn't really feel as prescient anymore. For example his fear of slowly rotting away as earth clung to him, referring to his fate of possibly becoming a farmer in the countryside. Honestly maybe anywhere is the same for me as long as I have the internet, then again it could just be that I never had the money to experience "city life" even though I lived in a city like London but it is true that I hate the people who live in my "country-side."
+In general I could relate more to the protypeonist's fears but now that those fears have come true and I am still alive, it doesn't really feel as prescient anymore. For example his fear of slowly rotting away as earth clung to him, referring to his fate of possibly becoming a farmer in the countryside. Honestly maybe anywhere is the same for me as long as I have the internet, then again it could just be that I never had the money to experience "city life" even though I lived in a city like London but it is true that I hate the people who live in my "country-side."
 
 More and more this hatred borne out fear is turning into indifference because I don't really intend to befriend them so it doesn't matter that they are not interesting to speak to and as for their low opinion of me, well so much the better so they won't ask me for any favours because they won't think they can get anything out of me.
 

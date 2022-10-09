@@ -3,6 +3,7 @@ title: "Incels and Birthrates"
 sub_title: ""
 Date: 2020-11-16
 LastMod:
+type: pol
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

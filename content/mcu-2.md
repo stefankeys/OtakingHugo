@@ -3,6 +3,7 @@ title: "Universe Now By Zarathustra's Serpent Amazon.co.uk Review"
 sub_title: "A noble attempt at ennobling popculture. Zarathustra's counter to the relentless negativity about the pop age. I was unsatisfied with my nitpicky Universe Now book review so here's take two."
 Date: 2021-09-24
 LastMod:
+type: tv
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

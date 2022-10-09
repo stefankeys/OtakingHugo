@@ -3,19 +3,20 @@ title: "All About Lily Chou Chou by Shunji Iwai Film Review"
 sub_title: ""
 Date: 2021-07-19
 LastMod:
+type: jp
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)
 
-*All About Lily Chou Chou* is one of those cases where the production of the film is much more interesting than the film itself.
+_All About Lily Chou Chou_ is one of those cases where the production of the film is much more interesting than the film itself.
 
-As [ThoughtAgent](https://thoughtcity.neocities.org/) pointed out the specifics of the plot do not matter that much, it's just a theme movie where none of the characters stand out.
+As [Thoughtypeent](https://thoughtcity.neocities.org/) pointed out the specifics of the plot do not matter that much, it's just a theme movie where none of the characters stand out.
 
 What was the theme? I guess the theme was high school bullying and students using internet communities and celebrities unsuccessfully, in this case, as an escape. Other than that as TA said again, it was just a miserable list of events with a few moments of respite in between.
 
 If you ignore the dramatic parts like the sex abuse and bullying, then it sort of does carry out the dull gray monotone, monotony of real high school life. This realness doesn't make it any less dull or monotonous to watch.
 
-I found the [official website ](http://www.lily-chou-chou.jp/world/index.html)about the film more interesting than the film. It does a good job of explaining the production side interesting stuff but you will need an Adobe Flash enabled web browser and a magnifying glass to read the small text. To keep it short, *All About Lily Chou Chou,* is an early example of an almost web-novel film adaptation.
+I found the [official website ](http://www.lily-chou-chou.jp/world/index.html)about the film more interesting than the film. It does a good job of explaining the production side interesting stuff but you will need an Adobe Flash enabled web browser and a magnifying glass to read the small text. To keep it short, _All About Lily Chou Chou,_ is an early example of an almost web-novel film adaptation.
 
 I liked some of the camcorder shots and the general look and location of the film but I found the story and characters to be boring, unremarkable and poorly explained.
 After recording a voicechat with TA I tried watching the first YouTube review which came up. It focused on the social commentary aspects of the film, about bullying and so on, which is the boring stuff.

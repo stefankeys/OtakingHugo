@@ -3,6 +3,7 @@ title: "Mythic Game Master Emulator Fate Chart"
 sub_title: "Oracle for Solo Role Playing"
 Date: 2022-04-04
 LastMod:
+type: tg
 ---
 
 [Home](https://otaking.xyz/index.html)
@@ -66,7 +67,7 @@ There's still stuff like "interrupt scenes" which I have no idea what they are. 
 14. Abandon
 15. Gratify
 16. Inquire
-17. Antagonise
+17. Antypeonise
 18. Move
 19. Waste
 20. Truce
@@ -255,7 +256,5 @@ Just noticed Oppress is repeated.
 98. Fame
 99. Anger
 100. Information
-
-
 
 By Otaking, or [The Good Student](https://www.youtube.com/channel/UCA4gWcOoz_FXrtTEemTOtfw?view_as=subscriber/videos)

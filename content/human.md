@@ -3,6 +3,7 @@ title: "A Final Solution To The Human Problem -Short Story-"
 sub_title: ""
 Date: 2020-11-23
 LastMod:
+type: pol
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

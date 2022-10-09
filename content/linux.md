@@ -3,6 +3,7 @@ title: Very Basic Vim and Command-line Stuff desu
 sub_title: Plus some keyboard shortcuts
 Date: 2020-06-01
 LastMod: 2020-06-11
+type: g
 ---
 
 [Back to catalog](https://otaking.xyz/index.html)
@@ -47,7 +48,7 @@ Useful Vim editor stuff and some linux mint mate command line stuff to copy and 
 - "sudo updatedb" and then "locate": sudo updatedb makes a little index of all the files on your computer and then locate filename lists any files with filename in their filename.
 - locate filename | less : you may have to updatedb first. Shows the results of a search in "less" a scrollable form. This is called piping apparently.
 - locate filename | grep searchterm : searches for searchterm in the output of locate search. Search in your search.
-- df -h | grep media : lists the mounted drives with the term media in them and the amount/percentage of space that is free in them
+- df -h | grep media : lists the mounted drives with the term media in them and the amount/percentypee of space that is free in them
 - "cp dirname/subdir/filename"+".": This will copy filename in the directory you are on. Make sure to add the full stop at the end.
 - "cp -iv dirname/subdir/filename"+".": Will do the same as just cp but the -iv means that you will get a confirmation about the copying instead of it just happening in silence.
 - cut -d, -f 2,3 : print something in filename which uses the delimeter comma (it is seperated by commas not spaces or brackets or something) and is in the second and the third columns.
@@ -199,13 +200,9 @@ To change keyboard shortcuts on linux mint mate go to the start menu and search 
 
 - Basic system info with os logo in ascii art at terminal startup with neofetch: sudo apt install neofetch then go to your home directory. Show your hidden files through the "view" submenu then go open bashrc with a text editor of your choice. Go to the very bottom, of bashrc and write "neofetch" without the "s. Save and close then open your terminal. At first I was a bit iffy about installing it as it seemed prettier than useful but it is not useless as it shows some useful info I guess. It is certainly pretty though.
 
-- Set up newsboat terminal rss reader: sudo apt install newsboat, then mkdir ~/.newsboat, then cd ~/.newsboat, then vim urls, then paste a url on every line save and exit. To edit rss urls you can always vim ~/.newsboat/urls. To add a custom name to a feed write "~Custom Feed Name" to the end of the URL. You can also add tags by adding "tag name" after the url. When you are in news boat you can press "t" and it will show you a list of tags with the number of unread articles just in those tags. Next to add vim keybindings, autoreload feeds when you startup newsboat, pretty colours, the ability to play youtube/bitchute videos in mpv, limit feeds per feed to 50 then you must go to vim ~/.newsboat/config then paste the stuff below and save and exit. Note: I am using the Brave Browser if you are using some other browser change "brave-browser" as appropiate. To play videos in mpv you will have to type ",m" while your cursor is focused on the vid you wanna play. To find the rss feeds for the youtube channels you can get them by copying "https://www.youtube.com/feeds/videos.xml?channel_id=UCyawG3aTE7RmNQcFQskDWcw" and changing "UCyawG3aTE7RmNQcFQskDWcw" to the youtube's channel id. For bitchute vids copy "https://www.bitchute.com/feeds/rss/channel/veemonro/" and then change "veemonro" to the channel id there. Another easy way to get youtube channel rss feeds is to go to https://invidio.us and click the rss icon. To get rss feeds for twitter users/search-terms go to nitter.net and it's the same story. For a list of my own RSS feeds visit my
-
-   
+- Set up newsboat terminal rss reader: sudo apt install newsboat, then mkdir ~/.newsboat, then cd ~/.newsboat, then vim urls, then paste a url on every line save and exit. To edit rss urls you can always vim ~/.newsboat/urls. To add a custom name to a feed write "~Custom Feed Name" to the end of the URL. You can also add types by adding "type name" after the url. When you are in news boat you can press "t" and it will show you a list of types with the number of unread articles just in those types. Next to add vim keybindings, autoreload feeds when you startup newsboat, pretty colours, the ability to play youtube/bitchute videos in mpv, limit feeds per feed to 50 then you must go to vim ~/.newsboat/config then paste the stuff below and save and exit. Note: I am using the Brave Browser if you are using some other browser change "brave-browser" as appropiate. To play videos in mpv you will have to type ",m" while your cursor is focused on the vid you wanna play. To find the rss feeds for the youtube channels you can get them by copying "https://www.youtube.com/feeds/videos.xml?channel_id=UCyawG3aTE7RmNQcFQskDWcw" and changing "UCyawG3aTE7RmNQcFQskDWcw" to the youtube's channel id. For bitchute vids copy "https://www.bitchute.com/feeds/rss/channel/veemonro/" and then change "veemonro" to the channel id there. Another easy way to get youtube channel rss feeds is to go to https://invidio.us and click the rss icon. To get rss feeds for twitter users/search-terms go to nitter.net and it's the same story. For a list of my own RSS feeds visit my
 
   RSS Feeds
-
-   
 
   page.
 
@@ -213,18 +210,18 @@ To change keyboard shortcuts on linux mint mate go to the start menu and search 
   # general settings
   auto-reload yes
   max-items 50
-  
+
   # externel browser
   browser "brave-browser"
   macro m set browser "mpv %u"; open-in-browser ; set browser "brave-browser %u"
-   
+
   # unbind keys
   unbind-key ENTER
   unbind-key j
   unbind-key k
   unbind-key J
   unbind-key K
-  
+
   # bind keys - vim style
   bind-key j down
   bind-key k up
@@ -244,9 +241,9 @@ To change keyboard shortcuts on linux mint mate go to the start menu and search 
   bind-key D pb-download
   bind-key U show-urls
   bind-key x pb-delete
-  
-  
-  
+
+
+
   # pretty colours
   color background default default
   color listnormal cyan default
@@ -255,12 +252,12 @@ To change keyboard shortcuts on linux mint mate go to the start menu and search 
   color listfocus_unread yellow default bold
   color info red black bold
   color article cyan default
-  
+
   # highlights
   highlight article "^(Title):.*$" blue default
   highlight article "https?://[^ ]+" red default
   highlight article "\\[image\\ [0-9]+\\]" green default
-  		
+
   ```
 
 - Increase font size in the mate terminal: Go to edit>Profile Preferences and untick "use system width font".
@@ -280,12 +277,12 @@ To change keyboard shortcuts on linux mint mate go to the start menu and search 
   ```
   ! keycode   9 = Escape NoSymbol Escape
   ! keycode  66 = Caps_Lock NoSymbol Caps_Lock
-  
+
   clear Lock
   keycode 66 = Escape NoSymbol Escape
-  
+
   keycode 9 = Caps_Lock NoSymbol Caps_Lock
-  		
+
   ```
 
   Then save and exit vim. Then vim .xinitrc and paste "xmodmap .xmodmap" and save and exit. Reboot your computer and then your keyboard is corrected.

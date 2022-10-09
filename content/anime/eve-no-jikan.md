@@ -3,6 +3,7 @@ title: Time of Eve Anime Review
 sub_title: A non-dystopian/non-horror story about Artificial Intelligence
 Date: 2020-04-08
 LastMod: 2022-04-08
+type: a
 ---
 
 [[Home](/)] [[Donate](https://patreon.com/denpa)]
@@ -35,7 +36,7 @@ The story just ends, none of the "big problems" are really resolved or answered.
 
 You could say that _Eve_ indirectly provides an answer by ignoring these issues implying that **a.** If androids are really superior to human beings it doesn't really matter that human beings will go extinct, so let's only make sure it is a peaceful and gentle extinction, or **b.** If androids and human beings really understand each other, then it doesn't really matter who is the very best because being the best is not the only reason to live or to be allowed to live or to do stuff. **c.** Bionics and the likes may even the playing field.
 
-There is little evidence for **a**, as for **c** there are bionics introduced at the very end but again they don't really say anything about it other than as a way to provide prostethics for people. **b** probably is the answer, or at least it can be extrapolated from the highschooler protagonist's backstory a bit. He used to be a good piano player a few years ago but then a robot was able to beat him in a music competition whereby he lost all interest in music. He then later decides to say _fuck it_ and decides to play the piano again because he loves to do so even if there are machines who are better than him.
+There is little evidence for **a**, as for **c** there are bionics introduced at the very end but again they don't really say anything about it other than as a way to provide prostethics for people. **b** probably is the answer, or at least it can be extrapolated from the highschooler protypeonist's backstory a bit. He used to be a good piano player a few years ago but then a robot was able to beat him in a music competition whereby he lost all interest in music. He then later decides to say _fuck it_ and decides to play the piano again because he loves to do so even if there are machines who are better than him.
 
 Maybe the reason that I am indifferent to the prospect of machines being better at doing stuff than human beings is that most likely there are already other human beings who are more talented than you are or that you could ever be but that is not a reason not to do something if you actually like it. I think that most people already have to live with the fact that they are not the very best at something, that they are not prodigies or geniuses.
 
@@ -51,7 +52,7 @@ During the duration of the story despite the fact that androids have emotions th
 
 It is not implausible to imagine beings with emotions who see their purpose is to serve and make someone else happy. Maybe it is the wish for such a thing that you see in stories like this. Or in other words the machines are not just superior because they are better at their ability to accomplish tasks but also in their selflessness - and yet that the ability to accomplish tasks or self-lessness means superiority are just our ideas based on our wellbeing.
 
-Anyhow I don't want to give the impression that _Time of Eve_ is deeper than what it is. For its part, it doesn't really pretend to, though they did try hard enough on their camera work that it is not difficult to laugh at it sometimes. It's just a slice of life robot-human story with a sad story or two thrown in there for good measure plus the usual situational humour as well. The first time I watched it maybe a decade ago now, I honestly wanted to see more of the characters, in particular I wanted to where the romance between the protagonist and Sammy (his cute house robot), both of whom you can see in the picture with this article, go somewhere but now that I am older it doesn't really bother me that the romance is not explored.
+Anyhow I don't want to give the impression that _Time of Eve_ is deeper than what it is. For its part, it doesn't really pretend to, though they did try hard enough on their camera work that it is not difficult to laugh at it sometimes. It's just a slice of life robot-human story with a sad story or two thrown in there for good measure plus the usual situational humour as well. The first time I watched it maybe a decade ago now, I honestly wanted to see more of the characters, in particular I wanted to where the romance between the protypeonist and Sammy (his cute house robot), both of whom you can see in the picture with this article, go somewhere but now that I am older it doesn't really bother me that the romance is not explored.
 
 I give this anime a 7/10. Sammy is best girl.
 

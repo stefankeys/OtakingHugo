@@ -3,6 +3,7 @@ title: "Review of The Douchebag Bible by T J Kirk (The Amazing Atheist)"
 sub_title: ""
 Date: 2017-04-24
 LastMod:
+type: lit
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

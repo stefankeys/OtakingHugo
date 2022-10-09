@@ -3,6 +3,7 @@ title: "Hana to Alice: Satsujin Jiken Anime Movie Review"
 sub_title:
 Date: 2020-11-26
 LastMod:
+type: a
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

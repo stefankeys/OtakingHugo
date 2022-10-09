@@ -3,6 +3,7 @@ title: "MUDs are the closest thing to Table-Talk RPGs"
 sub_title:
 Date: 2020-10-29
 LastMod:
+type: tg
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

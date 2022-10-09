@@ -3,6 +3,7 @@ title: " Answering lolwut on my 'strong desire to save the West despite being Sr
 sub_title: "Some irrelevant personal details"
 Date: 2021-08-25
 LastMod:
+type: r9k
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)
@@ -43,7 +44,7 @@ If I can recall correctly, my criticisms about my "home country" which lolwut re
 
 I think the comment which I left to him as a reply back then answers the question he asked better than any of the bloviating I have been doing in this post, so I will quote it in full:
 
-I might write a blog about my specific circumstances but long story short, I don't think a man can serve two masters or cheer for two teams in the same match, or be loyal to all sides in a conflict, so I made a choice to place my loyalty (whatever little that counts) to the west. I would say that all people of mixed heritage who live in the west should be made to pledge their undivided loyalty to the west or should be made to leave the west. I have chosen to stay in the west so it is only natural that I should wish to save the west above all else and to be loyal to western civilisation perhaps even more than actual westerners because just because I was born here I do not have the birth right to live here as they do, I have to earn it.
+I might write a blog about my specific circumstances but long story short, I don't think a man can serve two masters or cheer for two teams in the same match, or be loyal to all sides in a conflict, so I made a choice to place my loyalty (whatever little that counts) to the west. I would say that all people of mixed heritypee who live in the west should be made to pledge their undivided loyalty to the west or should be made to leave the west. I have chosen to stay in the west so it is only natural that I should wish to save the west above all else and to be loyal to western civilisation perhaps even more than actual westerners because just because I was born here I do not have the birth right to live here as they do, I have to earn it.
 
 Orwells Footnotes:
 

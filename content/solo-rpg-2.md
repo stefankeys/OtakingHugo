@@ -3,6 +3,7 @@ title: "Solo RPG #2: Lyndis"
 sub_title: ""
 Date: 2021-11-17
 LastMod:
+type: tg
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

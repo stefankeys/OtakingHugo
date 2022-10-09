@@ -3,6 +3,7 @@ title: "Nietzche Contra Rand"
 sub_title: ""
 Date: 2020-09-30
 LastMod:
+type: pol
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

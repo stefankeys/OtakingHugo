@@ -3,6 +3,7 @@ title: "“His Feelings Aren’t Worth My Rights Being Stripped”"
 sub_title: "Or Chatting With A Random Word Generator"
 Date: 2021-12-07
 LastMod:
+type: pol
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)
@@ -21,6 +22,6 @@ As Karl Marx rightly noted, “**No man fights freedom; he fights at most the fr
 
 As for “negative liberty” this is the libertarian view that liberty consists of the absence of outside forceful compulsion except when you breach a contract you entered into “voluntarily.” If all you care for is productivity then this view of liberty is suitable. The problem with “voluntary contracts” is that some groups of people will be able to enter contracts that are beneficial for them over other groups of people. Groups of people who entered worse contracts may have entered them ‘voluntarily’ but only because others have power over them.
 
-Negative liberty is meaningless to those without positive liberty. If you do not have the power to do something then it is meaningless that you have the freedom to do it. Some of the women in the comments were quick to point out that incels viewed relationships in terms of power (just like feminists and other leftwing academics do I might add) but to this, I would say that it is quite easy not to view it in terms of power when you are the party which is in power. For those power, in the advantageous position, it is much easier to view the current social contract in terms of ideals like freedom, equal rights or the divine rights of kings for that matter.
+Negative liberty is meaningless to those without positive liberty. If you do not have the power to do something then it is meaningless that you have the freedom to do it. Some of the women in the comments were quick to point out that incels viewed relationships in terms of power (just like feminists and other leftwing academics do I might add) but to this, I would say that it is quite easy not to view it in terms of power when you are the party which is in power. For those power, in the advantypeeous position, it is much easier to view the current social contract in terms of ideals like freedom, equal rights or the divine rights of kings for that matter.
 
 In summary, you can have equal rights without any actual equality. This appears to be the relationship between incels and young women.

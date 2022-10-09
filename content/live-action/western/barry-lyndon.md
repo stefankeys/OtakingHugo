@@ -3,6 +3,7 @@ title: "Barry Lyndon: Kubrick's Rejection of Human Progress"
 sub_title: "Barry Lyndon is a period drama film and one of the less discussed films by Stanley Kubrick"
 Date: 2022-05-06
 LastMod:
+type: tv
 ---
 
 [[Home](https://otaking.xyz/)] [[Donate](https://patreon.com/denpa)] [[About](https://otaking.xyz/about.html)]
@@ -15,12 +16,13 @@ The film is based on [a novel by William Thackeray](https://gutenberg.org/ebooks
 
 This anti-aristocratic feeling is present in the film itself. In the film Barry joins the British army to try and claw himself back into respectability and then later is drafted into the Prussian army - but he finds that the soldiers doing the fighting are not aristocrats but forcefully conscripted pesants and foreigners who have been brutalised in a seemingly meaningless [aristocratic war](https://en.wikipedia.org/wiki/Seven_Years'_War).
 
-The film is not limited to the novel's anti-aristocratic message, it has more to say. Although there are a few notable [changes to the plot](https://cinephiliabeyond.org/stanley-kubricks-barry-lyndon/), it is a pretty straighforward adaptation that stays true to the spirit of the novel. However, according to Zarathustra's Serpent, it would be a mistake to look at the film in isolation since *Barry Lyndon* re-iterates the message implicit in other Kubrick films like *2001:A Space Odyseey* and *A Clockwork Orange.
-*
+The film is not limited to the novel's anti-aristocratic message, it has more to say. Although there are a few notable [changes to the plot](https://cinephiliabeyond.org/stanley-kubricks-barry-lyndon/), it is a pretty straighforward adaptation that stays true to the spirit of the novel. However, according to Zarathustra's Serpent, it would be a mistake to look at the film in isolation since _Barry Lyndon_ re-iterates the message implicit in other Kubrick films like _2001:A Space Odyseey_ and \*A Clockwork Orange.
+
+-
 
 ## Kubrick's Message in Barry Lyndon According to Zarathustra's Serpent
 
-According to Zarathustra, the *modern era*, which preceded the current post-modern era, tried to use civilisation to refine man by removing the animal in him to the point where he is more robot than human. This can be seen in *2001: A Space Odyseey* where in some ways the Artificial Intelligence HAL9000 acts more human and emotional than the humans.
+According to Zarathustra, the _modern era_, which preceded the current post-modern era, tried to use civilisation to refine man by removing the animal in him to the point where he is more robot than human. This can be seen in _2001: A Space Odyseey_ where in some ways the Artificial Intelligence HAL9000 acts more human and emotional than the humans.
 
 The character of Barry Lyndon, especially after his marriage into aristocracy, is portrayed to be the more human, more animal counterpart to the aristocrats with wigs and powdered faces who had reached the peak of human refinement and manners. This refinement is shown to be a powder-thin mask hiding their twisted ferocity.
 
@@ -44,10 +46,8 @@ He got what he deserved and yet there is the faint suggestion that if he didn't 
 
 ![6 out of 10](https://otaking.xyz/images/rating-system/rank6.png)
 
-On this one I am with American audiences, I couldn't care less about the narrative of progress being undermined but Barry as a protagonist was just boring, unremarkeable and unlikeable. Everyone was dislikeable. It felt a bit like reading [*The Great Gatsby*](https://pagespages.neocities.org/the_great_gatsby.html) again. Maybe it's just that I don't like period dramas unless it's about a war or a battle like [*Lawrence of Arabia*](https://www.youtube.com/watch?v=mpYNgbTeZ7w) and [*Zulu*](https://www.youtube.com/watch?v=-9XkwVVbsDg&t=16s)*.* It's not about the hero being victorious or being in control, Lawrence's life was not in his own hands either and yet he's much more likeable and remarkeable a character.
+On this one I am with American audiences, I couldn't care less about the narrative of progress being undermined but Barry as a protypeonist was just boring, unremarkeable and unlikeable. Everyone was dislikeable. It felt a bit like reading [_The Great Gatsby_](https://pagespages.neocities.org/the_great_gatsby.html) again. Maybe it's just that I don't like period dramas unless it's about a war or a battle like [_Lawrence of Arabia_](https://www.youtube.com/watch?v=mpYNgbTeZ7w) and [_Zulu_](https://www.youtube.com/watch?v=-9XkwVVbsDg&t=16s)_._ It's not about the hero being victorious or being in control, Lawrence's life was not in his own hands either and yet he's much more likeable and remarkeable a character.
 
 [[Top](https://otaking.xyz/live-action/western/barry-lyndon.html#top)]
-
-
 
 {{%/center%}}

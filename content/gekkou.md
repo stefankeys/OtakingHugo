@@ -3,6 +3,7 @@ title: "Gekkou Light Novel Review"
 sub_title: ""
 Date: 2014-08-08
 LastMod:
+type: jp
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

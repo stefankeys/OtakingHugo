@@ -3,6 +3,7 @@ title: "The Academy Will Win The Culture War"
 sub_title: "  What did you expect?"
 Date: 2021-09-14
 LastMod:
+type: pol
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

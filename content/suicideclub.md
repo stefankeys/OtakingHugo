@@ -3,6 +3,7 @@ title: "Suicide Club and 12 Suicidal Children"
 sub_title: ""
 Date: 2020-04-18
 LastMod:
+type: jp
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

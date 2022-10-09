@@ -3,6 +3,7 @@ title: "Based and Redpilled Loli-Detective Anime"
 sub_title: Watch Un-Go NOW!
 Date: 2020-10-27
 LastMod:
+type: a
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

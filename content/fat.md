@@ -3,6 +3,7 @@ title: "Orwell’s World of Little Fat Men"
 sub_title: ""
 Date: 2021-12-10
 LastMod:
+type: pol
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

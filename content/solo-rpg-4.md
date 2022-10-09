@@ -3,6 +3,7 @@ title: "SoloRPG #4: First Dungeon"
 sub_title: ""
 Date: 2020-12-11
 LastMod:
+type: tg
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

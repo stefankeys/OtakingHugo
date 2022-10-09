@@ -3,6 +3,7 @@ title: Article vs Online Diary
 sub_title: Blogging is dead and online diaries are deader. Let's do a post-mortem and let's write online diaries and blogs.
 Date: 2022-04-07
 LastMod:
+type: b
 ---
 
 [[Home](https://otaking.xyz/)] [[Donate](https://patreon.com/denpa)]
@@ -25,11 +26,11 @@ It is true that almost nobody reads "personal blogs," I mean it is a very vain t
 
 I don't want to turn my online diary into complaining about my personal relationships, at least not about specific identifiable people. An online diary is more like an excuse to ramble on about more than one hobby or interest and pepper in some occasional personal experiences like a dream you had or something that you saw happen at a convenience store or some other autobiographical detail. I know it's very vague.
 
-Blogs nowadays exist more to cover a single topic or subject, for example if you have an anime blog and you suddenly decide to make a french live action movie review then less people are going to be interested in it. The more topics you cover, the less people are interested because there is nothing to glue these topics together. I guess ideally that glue in a personal blog would be *yourself*, that is people would come to read your site because they are interested in you rather than the topic, but ideals are not reality, I don't think I am interesting enough for people to come just for me.
+Blogs nowadays exist more to cover a single topic or subject, for example if you have an anime blog and you suddenly decide to make a french live action movie review then less people are going to be interested in it. The more topics you cover, the less people are interested because there is nothing to glue these topics together. I guess ideally that glue in a personal blog would be _yourself_, that is people would come to read your site because they are interested in you rather than the topic, but ideals are not reality, I don't think I am interesting enough for people to come just for me.
 
 What purpose then is my online diary to serve? First of all I like doing it. I know it's not good for Search Engine Optimisation to talk about multiple topics in one huge html page, so at best I am hoping that my online diary will complement the articles that I write.
 
-An advantage that online diaries have is that they can be incomplete or not really make a point, in short they can be very rambly. For example if I have a random thought like: "The purpose of life *isn't* to make a living and look good to your neighbours." I can just say that apropos of nothing.
+An advantypee that online diaries have is that they can be incomplete or not really make a point, in short they can be very rambly. For example if I have a random thought like: "The purpose of life _isn't_ to make a living and look good to your neighbours." I can just say that apropos of nothing.
 
 Or in other words my online diary will be nothing more than a notebook of random ideas. Will that prove to be useful for writing my "proper" articles? Yes and no. In the immediate term, yes, for example I will be doing a livestream and maybe writing an article about Natsume Soseki's Kokoro, so writing diary entries about my impressions on that novel as I read it will help me sort my thoughts out, but in the long term, it doesn't take much time for me to forget what I wrote in my notes, and given that an online diary is a jumbled mess of thoughts - once I have forgotten that I have written something it's unlikely I will come across it again, even if it was a good idea.
 

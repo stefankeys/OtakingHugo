@@ -3,6 +3,7 @@ title: "Orderly Dissolution of the United States into Its Component Parts"
 sub_title: ""
 Date: 2020-11-05
 LastMod:
+type: pol
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

@@ -3,6 +3,7 @@ title: "Chatting with a American liberal in Germany Part 2"
 sub_title: ""
 Date: 2020-01-16
 LastMod:
+type: pol
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)
@@ -27,11 +28,9 @@ Here in the UK, there are many Muslims who consider themselves Muslim first and 
 
 "Diluting culture" again with this - if they are Muslims first and British second but accept pluralism - who cares?
 
-Because Sharia courts are not pluralistic (i.e. secular) but British courts are liberal. Whenever there is a contradiction between Islamic doctrine and British law, guess which side their Muslim preachers, and "community leaders" will take? 
+Because Sharia courts are not pluralistic (i.e. secular) but British courts are liberal. Whenever there is a contradiction between Islamic doctrine and British law, guess which side their Muslim preachers, and "community leaders" will take?
 
 It is one thing to accept pluralism just when it benefits your group and quite another to actually accept pluralism? Unfortunately the former is not rare.
-
-
 
 Sharia law does not equal illiberalism. There are plenty of liberal and tolerant interpretations of Sharia law. Just as there are tolerant and liberal interpretations of the 10 Commandments. There is no requirement to cede these things to the fundamentalists.
 
@@ -39,15 +38,13 @@ Sharia law does not equal illiberalism. There are plenty of liberal and tolerant
 
 There is nothing to dilute - fish and fucking chips?
 
-There is nothing left to dilute. Britain is basically a museum for American and Chinese tourists now. It's like when the Romans invaded Sparta, it was just a village at that point and thereafter. 
+There is nothing left to dilute. Britain is basically a museum for American and Chinese tourists now. It's like when the Romans invaded Sparta, it was just a village at that point and thereafter.
 
 Most European States can't be bothered to pay for the minimum amount of military spending required to be part of NATO.[The United States are devolving in South American style shenanigans coincidentally as the ethnic makeup of the United States is starting to resemble that of South America - It's culture of course, but people do not leave culture at the border, they carry it with them and they can't help it because that is who we are]. And Europe is an old people's caring home with resentful foreign carers.[Why are they resentful? Envy and a sense of moral superiority to make up for material inferiority.]
 
 Again - you may have a rational point. But your words are not inspiring and they will not make the world a better place.
 
-
-
-Just curious, but if verification caused the loss of some percentage of your income - but stopped a non-zero level of child sexual abuse, at what marginal levels of income loss and reducing child abuse would this actually be worth it to you? If your answer is at no level whatsoever - I feel like that's a pretty sad fact and really shows me why child sexual abuse pervades online adult entertainment communities so much, fundamentally it is more about money than anything else I guess? It is a dirty question because we are a dirty species. The same applies to questions about environmentalism - at what marginal rate of benefit do we justify the razing of forests and the destruction of irreplaceable biodiversity for some economic end?
+Just curious, but if verification caused the loss of some percentypee of your income - but stopped a non-zero level of child sexual abuse, at what marginal levels of income loss and reducing child abuse would this actually be worth it to you? If your answer is at no level whatsoever - I feel like that's a pretty sad fact and really shows me why child sexual abuse pervades online adult entertainment communities so much, fundamentally it is more about money than anything else I guess? It is a dirty question because we are a dirty species. The same applies to questions about environmentalism - at what marginal rate of benefit do we justify the razing of forests and the destruction of irreplaceable biodiversity for some economic end?
 
 It is too easy to ask dirty questions at the expense of others. At any economic cost, it will affect the ends of those with the least economic strength the most. How about looking for solutions at your own expense the most? Even at your total expense, it will have a non-zero effect.
 
@@ -113,7 +110,7 @@ As the Germans say - natürlich. But really as a non-white Brit what you are say
 
 Like the concept of defining a nation from the experience of an ethnic majority would totally discount experiences like yourself. In fact, there may be many ethnostate minded Brits who would make absurd claims like you aren't British if you aren't genetically European.
 
-[It is not about me. What is in my personal interest may not be the same as what is Britain's interest. I am too selfish and cowardly to sacrifice myself for this country but even so, I am not going to pretend that our interest is the same. Whether something is advantageous to me has no bearing on whether it is true, or at least I try to not let my self-interest as a south Asian immigrant blind me as to what this country's interests. Also what the hell does "totally discount experiences like yourself" mean. It makes it sound like foreigners don't have experiences that natives can relate to or something, What a bunch of meaningless gaslighting.]
+[It is not about me. What is in my personal interest may not be the same as what is Britain's interest. I am too selfish and cowardly to sacrifice myself for this country but even so, I am not going to pretend that our interest is the same. Whether something is advantypeeous to me has no bearing on whether it is true, or at least I try to not let my self-interest as a south Asian immigrant blind me as to what this country's interests. Also what the hell does "totally discount experiences like yourself" mean. It makes it sound like foreigners don't have experiences that natives can relate to or something, What a bunch of meaningless gaslighting.]
 
 Cool well nice talking to you. We don't agree on everything, but I appreciated your thoughts. Take care, and good luck on your crazy island over there.
 
@@ -135,19 +132,15 @@ Yeah and all of those genocidal nations of yesteryear were also in the wrong to 
 
 [Why are those nations also not illegitimate too, then? Muh Murican Exceptionalism Can't Be This Cute by Idiotsuke Wankanata]
 
-Also the non-white people who emigrated to the US by central government decree were not the same peoples who inhabited the US before European settlers made the US. So I don't see how importanting millions of migrants has anything to do with making amends for colonisation. 
+Also the non-white people who emigrated to the US by central government decree were not the same peoples who inhabited the US before European settlers made the US. So I don't see how importanting millions of migrants has anything to do with making amends for colonisation.
 
 It doesn't but the white people never had valid claims to the land in the first place. So it kind of changes the dynamic of your argument. Also, far more non-white people have legally migrated to the US, vs. illegally. It is hardly analogous to the migration crisis in Europe.
 
-Does any group have any valid claims to land based on conquest? [Later on I was to find that it's okay with indians conquer and murder each other, that is legitimate but when the Europeans do the same it's not the same because Europeans are more technologically advanced. The fact that they were more technically advanced only meant that they were more powerful - and they could have been more powerful in any other way such as asnumerically or physically - it doesn't matter how. The real reason the left says it is not legitimate is because it was the replacement of one race by another] Because if not then there really isn't that much land with valid claims. Yes, legally but by which authority? That is what my point is, it was by federal authority, not local authority not even a plebiscite! [Also there was no legal authority before the united states, so you can't say that European settlers were illegally settling in North America at least. I mean if we are going to use legalistic bullshit to justify mass migration. It's not the like European descendants who live in the land which yes was mostly empty with no legal authority when their descendants developed it can be blamed for what their ancestors did, though it seems they are keen on squandering all that.] 
+Does any group have any valid claims to land based on conquest? [Later on I was to find that it's okay with indians conquer and murder each other, that is legitimate but when the Europeans do the same it's not the same because Europeans are more technologically advanced. The fact that they were more technically advanced only meant that they were more powerful - and they could have been more powerful in any other way such as asnumerically or physically - it doesn't matter how. The real reason the left says it is not legitimate is because it was the replacement of one race by another] Because if not then there really isn't that much land with valid claims. Yes, legally but by which authority? That is what my point is, it was by federal authority, not local authority not even a plebiscite! [Also there was no legal authority before the united states, so you can't say that European settlers were illegally settling in North America at least. I mean if we are going to use legalistic bullshit to justify mass migration. It's not the like European descendants who live in the land which yes was mostly empty with no legal authority when their descendants developed it can be blamed for what their ancestors did, though it seems they are keen on squandering all that.]
 
 I dunno - I spoke a lot about UK history and I will admit my ignorance there. I do not think you know as much about US history as you may think you do. :D Immigration has always been a mostly legal affair, right wing narratives to the contrary do not change facts.
 
 It was legal, but my point is that such a monumental change to the nation's ethnic makeup was decided by the central government and not locally. Simply put the local authority does not have autonomy in important matters that affect it.
-
-
-
-
 
 Individualism is a particular European perspective which you are forcing on everyone else. How is that not colonialism too? Think of the Turks who have been secularised by German secularism rather than say Japanese secularism.
 
@@ -163,13 +156,13 @@ It is weird that you are ostensibly defending conservative illiberal Muslim immi
 
 Hey, at least I am not the colonialist trying to "civilise" them [literally taking on the white man's burden]. How is that liberal? I mean you are the one insisting that American values are superior and that everyone should be made to adopt them, or leave. Is the true liberalism the friends we made along the way?
 
-I am just saying accept the precepts of a pluralistic society or leave - I am not saying to kill anyone. No colonialism necessary . 
+I am just saying accept the precepts of a pluralistic society or leave - I am not saying to kill anyone. No colonialism necessary .
 
 If you can accept others for who they are and not plan on murdering every non-self individual in the society around you - well you have a place in that society. I think it is pretty straight forward and logical - no colonialism required..
 
 Colonialism would force this man's hand - but the reality is, he can just get on a plane and head straight back to the country of people who share his beliefs
 
-[> implying that you are going to leave his country alone and not pressure them to adopt liberal policies such as abortion in his country too.] 
+[> implying that you are going to leave his country alone and not pressure them to adopt liberal policies such as abortion in his country too.]
 
 America is not Europe or Asia - it is a continent steeped in colonialism.
 
@@ -191,7 +184,7 @@ That is what they are though. They can't fully have their culture in the open bu
 
 Han Chinese might be an ethnic identity with scientific merit - white people is literally the definition of a meaningless social construct designed to impose colonial ways of thinking.
 
-White people, just means Europeans. People who come from European civilisation with its roots in ancient Rome, Greece, Christianity etc... What's meaningless about that? [Also the reason that White People have become a thing in the US, is because a. There are many other non-white ethnic groups which have effectively forced those of European descent to become one group and b. This was the result of the US government's efforts at erasing the cultures of individual European sub-groups for the sake of collective national unity, It is even more so with "Black people" whose connection to their ancestors and their link to their traditions were even more thoroughly broken than those of white people in America, which may go some way to explain why so many black people have no honour and engage in petty criminal activity just for material reasons.] 
+White people, just means Europeans. People who come from European civilisation with its roots in ancient Rome, Greece, Christianity etc... What's meaningless about that? [Also the reason that White People have become a thing in the US, is because a. There are many other non-white ethnic groups which have effectively forced those of European descent to become one group and b. This was the result of the US government's efforts at erasing the cultures of individual European sub-groups for the sake of collective national unity, It is even more so with "Black people" whose connection to their ancestors and their link to their traditions were even more thoroughly broken than those of white people in America, which may go some way to explain why so many black people have no honour and engage in petty criminal activity just for material reasons.]
 
 Christianity? Are you kidding me? There are people who think all Catholics are non-white - Christianity is extremely broad and different sects hold different views and have been at war with each other for generations.
 
@@ -221,17 +214,13 @@ That's incorrect - go to the Navajo Nation. Indigenous culture still lives in Am
 
 [Yeah they exist in some kind of declawed, domesticated form with a weak continuity forcefully kept alive by the state for political goals. This is like saying that because the Holy Roman Empire existed then the Western Roman Empire collapsed only in the 19th century.]
 
- My enemy are the illiberal, non-conforming people who do not believe in human rights and wish to dominate others. If it means banning nazi flags and people who want to stone gay people, I can live with it.
+My enemy are the illiberal, non-conforming people who do not believe in human rights and wish to dominate others. If it means banning nazi flags and people who want to stone gay people, I can live with it.
 
 My point is that importing more and more people to dominate is not a good idea as they may dominate you in turn. Do you get what I mean? I like liberal democracy [because I am lazy and weak and would not survive without it], I am just worried it might break due to a lack of longterm pragmatism.
 
 Pluralism isn't really a tribe - it is a belief. And a precept that defines a nation. A nation defined by pluralism is nothing if you get rid of it. It is the foundational principle of the social contract.
 
 [Semantics. I could just as well say that fascism, Christianity, Islam etc... are beliefs and not tribes. This wouldn't change the fact that they are also factions. Also, even our weak modern nations are not designed by one precept, one failing point, but my many. Nor is pluralism the main principle of any social contract. Exclusivity, and not pluralism, is the foundational principle of the social contract. If anyone can have it, then it is worthless and devalued. If everyone is special then nobody is, and if anyone is British then nobody is, the Americans are not the exception to this rule,, no matter how exceptional they might think they are. Our nations existed far before the liberal ideal of pluralism infected our institutions from the inside out, in fact, many nations were formed by the expulsion of foreigners (or less powerful tribes which were also native, e.g. the Greeks evicted from Anatolia by the usurping Turks and the Greeks expelling their foreign Ottoman invaders from the Greek peninsula).]
-
-
-
-
 
 We can form groups - but we do not let our belief in that group dominate others as they do in all illiberal, non-pluralistic societies.
 
@@ -259,9 +248,7 @@ Plenty of people would move but the Chinese government doesn't allow it. Many mo
 
 Because pluralism and tolerance are better than genocide - they are complicated and destabilizing affairs. But to get to Asian levels of so called homogeneity would require death and destruction on a scale not acceptable to anyone.
 
- lol nobody is arguing for genocide. All I was arguing for is that 1.America and Europe would have been more stable without mass non-European migration and 2. That it would be better to stop the migration and wait a few decades for the groups to stabilize and socialise as they are.
-
-
+lol nobody is arguing for genocide. All I was arguing for is that 1.America and Europe would have been more stable without mass non-European migration and 2. That it would be better to stop the migration and wait a few decades for the groups to stabilize and socialise as they are.
 
 That is why I said that you either have an empire or are part of one. It is very hard for a genuine small state like the UK, which is the size of Idaho, to be an independent state in any meaningful sense. How would a Scottish state be independent? It wouldn't.
 
@@ -327,7 +314,7 @@ I actually know you need to be illiberal to save liberalism - that's why believi
 
 But how can you make sure that everyone that enters is liberal? Moreover how often can you throw someone out that you have already invited? What if it is the children of those who you let in, as is often the case? At what point do you stop actually being liberal?
 
- Europe seems to have stopped growing and rather than fix those structural problems they kick the can by delaying necessary reforms through immigration.
+Europe seems to have stopped growing and rather than fix those structural problems they kick the can by delaying necessary reforms through immigration.
 
 They literally tried an ethno-state without human rights in Europe already.... it is called the Third Reich.
 
@@ -339,27 +326,21 @@ Does it really matter what the definition of whiteness is or isn't? The essentia
 
 You are just setting the clock back resulting in instability and conflict. Previosly these regions were fought over until an homogeneity was reached but now you are reintroducing conflict and strife by the reintroduction of division. You don't have a pluralistic society....
 
- There isn't a single large Union which has been able to have localism and a central government. The EU can't control the nations of Europe, and the US federal government can overturn the wishes of the States.
+There isn't a single large Union which has been able to have localism and a central government. The EU can't control the nations of Europe, and the US federal government can overturn the wishes of the States.
 
 Many nation States in Europe were made by totally destroying the culture and identity of small groups, the only way to make a multicultural nation work in the longrun is to totally destroy the culture of new groups, i.e. so-called integration.
 
 Yeah but when the Swiss aren't an actual definable ethnic population, this kind of is a moot point. Having a Swiss passport makes you Swiss. Having a UK passport but being of Pakistani descent does not make you English.
 
-
-
 Having a Swiss passport doesn't make you Italian, French or German either, like the majority of the population are.
 
 In-group preference is also kinda yikes. Why is your group so great?
-
-
 
 It's pure self-defense. Other groups have ingroup-interest. Otherwise they cease to exist. Why is it so great? Because it is liberal. The music, the English countryside, the literature, the history. I love it and I want a peace of land for it to be unmitigated from other groups.
 
 Some people call it self-determination. I don't know if that's the correct term.
 
 I think that's different - self-determination is more about the rights of individuals. Nation states should have self-determination, but that's an extrapolation from original meaning of the word, which comes from the individual.
-
-
 
 When Sri Lanka got independence from Britain. In fact life after independence was less free. The Sri Lankans wanted a nation, a state of their own first, then individual liberty. That is what I meant by that word.
 

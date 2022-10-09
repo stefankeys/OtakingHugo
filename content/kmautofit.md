@@ -3,6 +3,7 @@ title: Kissmanga Autofit Userscript
 sub_title: Death to Horizontal Scrolling
 Date: 2020-02-22
 LastMod: 2020-02-23
+type: g
 ---
 
 [Back to catalog](https://otaking.xyz/index.html)
@@ -11,7 +12,7 @@ LastMod: 2020-02-23
 
 Kissmanga has a very simple website layout which I do quite like over other sites. The only I miss from Kissmanga is rss feeds or at least email notifications for new chapters. It is perfect for reading finished manga though. One issue I have had with their website is that by default you need to scroll horizontally for full double page spread. This was especially bad for when reading [Berserk](https://otaking.xyz/berserk.html) because Miura loves double-spreads and I hate scrolling horizontally. I was fortunately able to find some orphaned userscript on the userscript static mirror site which fixes this by setting the maximum width of the page to 100%.
 
-*Disclaimer: Kissmanga admins are known to be pretty ban happy for suspected use of adblockers and they might ban for using this script by mistaking it for an adblocker.* Personally I use adblock origin with an anti-adblock list from r/kissanime and I have had no problems with kissmanga then again I don't use the kissmanga bookmark feature so even if I were banned I would only lose access to kissmanga. I use the easy mal sync userscript/extention to automatically update my myanimelist list while I am reading.
+_Disclaimer: Kissmanga admins are known to be pretty ban happy for suspected use of adblockers and they might ban for using this script by mistaking it for an adblocker._ Personally I use adblock origin with an anti-adblock list from r/kissanime and I have had no problems with kissmanga then again I don't use the kissmanga bookmark feature so even if I were banned I would only lose access to kissmanga. I use the easy mal sync userscript/extention to automatically update my myanimelist list while I am reading.
 
 Without further ado here is the userscript:
 
@@ -27,9 +28,9 @@ Without further ado here is the userscript:
 // @copyright  Public domain
 // ==/UserScript==
 
-var imgs = document.getElementById('divImage').getElementsByTagName('p');
+var imgs = document.getElementById('divImage').getElementsBytypeName('p');
 for (var i = 0; i < imgs.length; i++) {
-    var img = imgs[i].getElementsByTagName('img')[0];
+    var img = imgs[i].getElementsBytypeName('img')[0];
     img.style['max-width'] = '100%';
 }
 ```

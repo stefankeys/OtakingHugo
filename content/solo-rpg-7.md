@@ -3,6 +3,7 @@ title: "SoloRPG #7: Halfling"
 sub_title: ""
 Date: 2020-12-13
 LastMod:
+type: tg
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

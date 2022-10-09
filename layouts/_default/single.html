@@ -51,9 +51,6 @@
       {{.Content}}
       <br />
     </div>
-    <footer>
-      Published: {{.Date | time.Format ":date_long"}}. Last Updated: {{.Param
-      "LastMod" | time.Format ":date_long"}}
-    </footer>
+    <footer>Published: {{.Date | time.Format ":date_long"}}.</footer>
   </body>
 </html>

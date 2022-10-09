@@ -3,6 +3,7 @@ title: "Great Teacher Onizuka Manga + Anime + Live Action Review"
 sub_title:
 Date: 2020-05-04
 LastMod:
+type: a
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)
@@ -12,7 +13,7 @@ LastMod:
 
 GTO is an unrealistic school comedy about Onizuka Eikichi, age 22, a virgin and a former biker gang leader trying to become a high school teacher to hit on highschool girls but ending up as a homeroom teacher in a middle school class full of kids with issues who hate teachers. Basically it is fun seeing all the students who were against him at the start being converted to his side because of his antics and often violent solutions.
 
-Once you accept that it is unrealistic you can enjoy it as something that became the very thing that it tried to make fun of. There used to be a genre of manga where a charismatic young teacher would teach life lessons to his students and help them fix their problems. GTO parodies this by making the protagonist perverted and violent ex-biker gang leader who is far from the ideal of that annoying stereotype of a young and idealistic teacher trying to change the his students and the way teaching is done for the better.
+Once you accept that it is unrealistic you can enjoy it as something that became the very thing that it tried to make fun of. There used to be a genre of manga where a charismatic young teacher would teach life lessons to his students and help them fix their problems. GTO parodies this by making the protypeonist perverted and violent ex-biker gang leader who is far from the ideal of that annoying stereotype of a young and idealistic teacher trying to change the his students and the way teaching is done for the better.
 
 The music in the show is mediocre but not really that necessary in a comedy series like this. The opening and the ending themes are pretty good though. The animation has not aged that well and was never that spectacular to begin with but it didn’t need to be.
 

@@ -2,7 +2,8 @@
 title: RPI MUDs are where dramas at
 sub_title: MUDs are text-based mmorpgs. They are better than mmorpgs.
 Date: 2020-10-21
-LastMod: 
+LastMod:
+type: g
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

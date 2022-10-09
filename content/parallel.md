@@ -3,6 +3,7 @@ title: "Decentralised Parallel Institutions"
 sub_title: ""
 Date: 2020-09-04
 LastMod:
+type: pol
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

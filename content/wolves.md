@@ -3,6 +3,7 @@ title: "A Review of Angela Carter’s “The Company of Wolves”"
 sub_title: ""
 Date: 2017-02-18
 LastMod:
+type: lit
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

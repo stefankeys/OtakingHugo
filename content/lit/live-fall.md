@@ -3,6 +3,7 @@ title: "To Live is to Fall"
 sub_title: "Sort of a poem but not really"
 Date: 2021-08-21
 LastMod:
+type: lit
 ---
 
 [[Home](https://otaking.xyz/)] [[Donate](https://patreon.com/denpa)] [[About](https://otaking.xyz/about.html)]

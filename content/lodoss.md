@@ -3,11 +3,12 @@ title: "Record of Lodoss War OVA, Basic Fantasy RPG, POSIX, Primitivism, and The
 sub_title:
 Date: 2020-11-20
 LastMod:
+type: tg
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)
 
-There was an anime series back in the 90s based on a DnD compaign by the creator of Sword World (the most popular Japanese table-talk rpg – table-top rpgs are known as table-talk rpgs in Japan). That series is Lodoss. The creator of Sword World was inspired to create his rpg after reading a ‘replay’ which is a stage-play script style publishing of the session transcript with minimal edits and some anime-style art, all in the form of a light-novel sized book. The Record of Loddoss OVA is based on a replay of a campaign by the creator of Sword World himself.
+There was an anime series back in the 90s based on a DnD compaign by the creator of Sword World (the most popular Japanese table-talk rpg – table-top rpgs are known as table-talk rpgs in Japan). That series is Lodoss. The creator of Sword World was inspired to create his rpg after reading a ‘replay’ which is a stypee-play script style publishing of the session transcript with minimal edits and some anime-style art, all in the form of a light-novel sized book. The Record of Loddoss OVA is based on a replay of a campaign by the creator of Sword World himself.
 
 The animation is quite limited but the artwork is gorgeous, modern anime just looks flat by contrast. Also both the elf girls are pretty hot. No lolitas here, sorry lolicons. The reason I was interested in this however was not the animation but because some voices on the internet said that it was the best representation of old school role playing table-top rpgs in animated form.
 

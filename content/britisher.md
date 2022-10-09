@@ -3,6 +3,7 @@ title: "On the Mostly Peaceful but Fiery Protest at the US Capitol"
 sub_title: ""
 Date: 2021-09-10
 LastMod:
+type: pol
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

@@ -3,6 +3,7 @@ title: "What the US Owes The UK"
 sub_title: ""
 Date: 2020-09-22
 LastMod:
+type: pol
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

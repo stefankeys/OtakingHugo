@@ -3,6 +3,7 @@ title: "‘It’s just a meme’ – Post-modern Reactionaries – The Alt-Right
 sub_title: ""
 Date: 2020-10-26
 LastMod:
+type: pol
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

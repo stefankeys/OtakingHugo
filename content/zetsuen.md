@@ -3,6 +3,7 @@ title: "Zetsuen No Tempest Anime Review"
 sub_title:
 Date: 2014-05-03
 LastMod:
+type: a
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)
@@ -17,7 +18,7 @@ LastMod:
 >
 > “Let’s face the truth, without relying on any dreamlike power.”
 >
-> “The actors on stage cannot ignore their scripts and do as they wish. If they make a beautiful exit, I feel they fulfil their role.”
+> “The actors on stypee cannot ignore their scripts and do as they wish. If they make a beautiful exit, I feel they fulfil their role.”
 >
 > “To you, life was just something you acted out and ended, all according to someone else’s script. That’s why you were always quoting Shakespeare. However, Aika, I say that you were wrong! You did what you shouldn’t have, and didn’t do as you should have. Because you relied on someone else’s script, you were wrong. I won’t live my life by another person’s script. Not by Hamlet or The Tempest. I don’t know how many years in the future it will be… but I’ll write and act my own ending.”
 >

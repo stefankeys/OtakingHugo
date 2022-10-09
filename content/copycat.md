@@ -3,6 +3,7 @@ title: "Why I am against Copyright"
 sub_title: An Actually Unpopular Opinion
 Date: 2021-09-07
 LastMod:
+type: lit
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

@@ -3,6 +3,7 @@ title: "Abortion and Other Socially Acceptable Forms of Murder"
 sub_title: ""
 Date: 2020-05-04
 LastMod:
+type: pol
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

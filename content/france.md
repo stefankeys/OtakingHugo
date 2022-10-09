@@ -3,6 +3,7 @@ title: "France"
 sub_title: ""
 Date: 2020-09-29
 LastMod:
+type: pol
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

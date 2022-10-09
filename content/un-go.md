@@ -3,6 +3,7 @@ title: "Un-Go Anime Review"
 sub_title:
 Date: 2014-04-26
 LastMod:
+type: a
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)
@@ -27,4 +28,4 @@ Un-Go is a mystery anime set in post-apocalyptic modern day Japan after a war. S
 
 Un-Go is more than just a mystery anime, almost each episode discusses one of the problems that modern society faces(Eg- people believing in conspiracy theories and acting upon those beliefs, technology being used for sexual pleasure or for military purposes, people being sent to jail for their opinions, governments censoring and hiding information, manipulation of media by powerful individuals, corruption etc…) , it is interesting to see however how the victims are not always too innocent and how the guilty party are not always too guilty. Even the actions taken by Rinroku with his media manipulation sometimes seem to be right. Other topics like existentialism are also discussed in this anime, for more on that visit this[ post by E.Minor](http://moesucks.com/2012/07/18/un-go-the-limits-of-existentialism-in-the-21st-century/).
 
-The only two problems that I have with this anime is that, 1.It is too short- I mean only 11 episodes and each episode is usually one case which means we only get around 25 minutes to get to know the characters involved in the case, 2. The mysteries were good , but well, even I was able to correctly guess the culprit, the motive and the way in which the crime was committed a few times, that was fine with me, a Holmes boy, but for all those hardcore Agantha Christie fans who want complicated puzzles and ‘no magic at all’ I would rather advise you to watch Detective Conan(I mean seriously it’s like the Japanese version of Agantha Christie’s puzzle crimes) 
+The only two problems that I have with this anime is that, 1.It is too short- I mean only 11 episodes and each episode is usually one case which means we only get around 25 minutes to get to know the characters involved in the case, 2. The mysteries were good , but well, even I was able to correctly guess the culprit, the motive and the way in which the crime was committed a few times, that was fine with me, a Holmes boy, but for all those hardcore Agantha Christie fans who want complicated puzzles and ‘no magic at all’ I would rather advise you to watch Detective Conan(I mean seriously it’s like the Japanese version of Agantha Christie’s puzzle crimes)

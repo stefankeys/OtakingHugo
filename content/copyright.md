@@ -3,6 +3,7 @@ title: "Lolberterian Freetardism"
 sub_title: "Antitrust is Cancer so Copyright is Cancer."
 Date: 2021-09-16
 LastMod:
+type: pol
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

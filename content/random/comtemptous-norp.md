@@ -3,6 +3,7 @@ title: Comtemptous NORP(Normal Ordinary Respectable Person).
 sub_title: NPCs, Normies, Normalfags, Riajuu, call them what you like. What's wrong with them?
 Date: 2022-03-06
 LastMod:
+type: b
 ---
 
 [[Home](https://otaking.xyz/)] [[Donate](https://patreon.com/denpa)] [[About](https://otaking.xyz/about.html)]

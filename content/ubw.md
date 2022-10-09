@@ -3,6 +3,7 @@ title: "Ufotable's Fate Unlimited Blade Works Adaptation"
 sub_title:
 Date: 2021-07-19
 LastMod:
+type: a
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)
@@ -13,15 +14,15 @@ The character designs look much worse than in DEEN's Fate/Stay Night. Rin looks 
 
 As ThatWhiteHand pointed out to me, the whole thing sheds any visual novel-like characteristsics and becomes a generic shounen-manga-like adaptation.
 
-Honestly, it has been almost a month since I have watched it but I am noting this down before I forget everything as I am going to have a convo about it with ThoughtAgent. I will not subject myself to it again unless I am paid for it.
+Honestly, it has been almost a month since I have watched it but I am noting this down before I forget everything as I am going to have a convo about it with Thoughtypeent. I will not subject myself to it again unless I am paid for it.
 
-I am waiting to see what ThoughtAgent will say about it because I have nothing to say about it.
+I am waiting to see what Thoughtypeent will say about it because I have nothing to say about it.
 
 I guess we got to see more of "I am the bone of my sword" which was alright. Shirou getting strong enough to fight servants was kind of lame and very shounen-ny. And his disagreement with Archer was ultimately solved with might makes right.
 
 I won't complain about certain characters like Berserker not being explored cause they already got screen-time in fate-stay night and heaven's feel.
 
-I might watch studio Deen's movie adaptation of UBW in preparation for my convo with ThoughtAgent.
+I might watch studio Deen's movie adaptation of UBW in preparation for my convo with Thoughtypeent.
 
 The music was okay, kind of Shouneny, I preferred the music in fate stay night and Heaven's Feel.
 

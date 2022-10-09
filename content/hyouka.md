@@ -3,15 +3,16 @@ title: "Hyouka Anime Review"
 sub_title:
 Date: 2020-05-04
 LastMod:
+type: a
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)
 
-*"Are you an anti-social person, with a rosy but otherwise boring life? Someone who deep inside feels you are charismatic and people of the opposite sex should be very interested in you, even if you act like an uncaring person that would normally make everybody to be fed up with you? Then Hyouka is the show for you!"* – [@thatanimesnob](https://steemit.com/@thatanimesnob)
+_"Are you an anti-social person, with a rosy but otherwise boring life? Someone who deep inside feels you are charismatic and people of the opposite sex should be very interested in you, even if you act like an uncaring person that would normally make everybody to be fed up with you? Then Hyouka is the show for you!"_ – [@thatanimesnob](https://steemit.com/@thatanimesnob)
 
 I like Hyouka. I have watched it a couple of times and I am still angry for not getting a proper ending for the romance in it. It evoked feelings of nostalgia for an old fantasy of a small group of friends who are perfectly complementary to each other.
 
-Hyouka is a slice-of-life/mystery series. The protagonist Horeki wants to live a grey high school life by preserving as much of his energies as possible and doing his best to be average at everything and by not participating in any of the activities and yet even without trying he is shown to posses a knack for solving mysteries.
+Hyouka is a slice-of-life/mystery series. The protypeonist Horeki wants to live a grey high school life by preserving as much of his energies as possible and doing his best to be average at everything and by not participating in any of the activities and yet even without trying he is shown to posses a knack for solving mysteries.
 
 Satoshi Fukube is Oreki’s best friend (for reasons I can’t understand) and he also has a photographic ‘database-like’ memory(he also gets edgy midseason for dorama purposes).
 
@@ -31,6 +32,6 @@ The romance is inconclusive. Not to put too fine a point on it. This is a fault 
 
 I give this anime a 6 out of 10. The presentation is faultless, even the episode in which the characters sit around a table and do nothing but talk was made interesting by the special effects, but there isn’t much here: sure you could write whole books about the student protests in the 1960s briefly mentioned as a plot point.
 
-Or you could go on a tangent about the poorly discussed themes of the value of spending time with others when you are young(I say poorly discussed because *Chitanda is bait* to get this point across but only manage to negate the message of the show with her unrealistic character constructed out of thin air to appeal to lonely guys who think they are intellectuals).
+Or you could go on a tangent about the poorly discussed themes of the value of spending time with others when you are young(I say poorly discussed because _Chitanda is bait_ to get this point across but only manage to negate the message of the show with her unrealistic character constructed out of thin air to appeal to lonely guys who think they are intellectuals).
 
 In short, emotional manipulation and pandering are not a substitute for a good self-contained story and romances that go somewhere.

@@ -3,6 +3,7 @@ title: "Solo RPG #1:"
 sub_title: "First Combat"
 Date: 2021-11-15
 LastMod:
+type: tg
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

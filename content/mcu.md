@@ -3,6 +3,7 @@ title: "Universe Now: How The Marvel Cinematic Universe Changed Our World by Zar
 sub_title: ""
 Date: 2021-07-16
 LastMod:
+type: tv
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

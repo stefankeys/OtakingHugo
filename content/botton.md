@@ -3,6 +3,7 @@ title: "The Consolations of Philosophy by Alain De Botton Book Review"
 sub_title: ""
 Date: 2020-05-04
 LastMod:
+type: lit
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

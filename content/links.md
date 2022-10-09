@@ -3,6 +3,7 @@ title: Links
 sub_title:
 Date: 2020-05-22
 LastMod:
+type: b
 ---
 
 [Back to catalog.](https://otaking.xyz/index.html)

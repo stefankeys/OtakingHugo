@@ -3,6 +3,7 @@ title: "Positive Thinking"
 sub_title: ""
 Date: 2020-12-05
 LastMod:
+type: r9k
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

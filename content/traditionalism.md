@@ -3,6 +3,7 @@ title: "Traditionalism is the glorification of boredom"
 sub_title: ""
 Date: 2020-11-19
 LastMod:
+type: pol
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)
@@ -27,7 +28,7 @@ The playwright who writes the great play, the actor who plays the great man, and
 
 But what of the audience – well they, nay we ought to be inflicted with a deep sense of lack of accomplishment and either driven to despair or to action. Of course there is no guarantee that action will not lead to despair too – still far better than being comfortable in mediocrity. Isn’t there something perfectly despicable and gross in the little man with his small happiness that cannot be found in any wretch.
 
-The reason that there aren’t enough great men today is because the development of photography and video reportage have made it harder to embellish strong men into something more than the truth, into something which can inspire greatness. I didn’t intend to come off so power-worshipping in this post but better a sycophant than one of those cringing, nitpicking, sweat-covered, nu-male ‘social commentators’ oozing ‘democratic values'(read: mediocrity) from their every pore.
+The reason that there aren’t enough great men today is because the development of photography and video reportypee have made it harder to embellish strong men into something more than the truth, into something which can inspire greatness. I didn’t intend to come off so power-worshipping in this post but better a sycophant than one of those cringing, nitpicking, sweat-covered, nu-male ‘social commentators’ oozing ‘democratic values'(read: mediocrity) from their every pore.
 
 But which role should the inflicted viewer seek to take on? The great man, the hero, is boring and uncouth in the flesh until the embellishments of poetry are sewn onto him by lesser men.
 

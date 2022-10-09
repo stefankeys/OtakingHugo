@@ -3,6 +3,7 @@ title: "Talking With A Socialist"
 sub_title: "An Almost Fully-Automated Talking Point Exchange"
 Date: 2021-08-21
 LastMod:
+type: pol
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

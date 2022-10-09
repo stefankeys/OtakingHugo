@@ -3,6 +3,7 @@ title: "Anime Music Playlist"
 sub_title:
 Date: 2020-05-20
 LastMod:
+type: a
 ---
 
 [Back to catalog](https://otaking.xyz/index.html)
@@ -124,9 +125,9 @@ Just a list of anime songs/music I like so I that I don't forget it. I won't bot
 
 - Blue - Cowboy Bebop
 - Rock Cafe - Megazone 23
-- Ashita no Joe 2 あしたのジョー2 BGM チャイナ・ファイター Ashita no Joe 2
-- Ashita no Joe 2 あしたのジョー2 BGM トワイライト Twilight - Ashita no Joe
-- Ashita no Joe 2 あしたのジョー2 BGM 白木葉子の為の練習曲No 02 - Ashita no Joe 2
+- Ashita no Joe 2 あしたのジョー 2 BGM チャイナ・ファイター Ashita no Joe 2
+- Ashita no Joe 2 あしたのジョー 2 BGM トワイライト Twilight - Ashita no Joe
+- Ashita no Joe 2 あしたのジョー 2 BGM 白木葉子の為の練習曲 No 02 - Ashita no Joe 2
 - Yasashisa no Okuri mono - Rose of Versailles
 - Lupin The Third Theme '97 - Lupin iii Walter p-38 movie
 - Toki no Kawa wo Koete - Gunbuster/Aim for the Top!

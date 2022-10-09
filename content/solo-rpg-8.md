@@ -3,6 +3,7 @@ title: "SoloRPG #8: Gnolls"
 sub_title: ""
 Date: 2020-05-04
 LastMod:
+type: tg
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

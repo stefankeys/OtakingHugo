@@ -3,6 +3,7 @@ title: "An Apologia for Human Life. (Should you bring a child into this world fu
 sub_title: ""
 Date: 2020-10-26
 LastMod:
+type: pol
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

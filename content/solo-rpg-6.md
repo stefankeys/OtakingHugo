@@ -3,6 +3,7 @@ title: "SoloRPG #6: Wilderness Path"
 sub_title: ""
 Date: 2020-12-12
 LastMod:
+type: tg
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

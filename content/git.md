@@ -3,6 +3,7 @@ title: A Sarcastic Git Who Is Right Sometimes (Short Story)
 sub_title:
 Date: 2020-11-26
 LastMod:
+type: b
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

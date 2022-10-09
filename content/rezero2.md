@@ -3,6 +3,7 @@ title: "Why Season 2 of Re:Zero Sucks"
 sub_title: "There is more than meets the anime eyes"
 Date: 2020-09-16
 LastMod:
+type: a
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

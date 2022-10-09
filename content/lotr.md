@@ -3,6 +3,7 @@ title: "Lord of the Rings Film Trilogy Review"
 sub_title: ""
 Date: 2020-12-08
 LastMod:
+type: tv
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)
@@ -17,9 +18,7 @@ It would have been better if Gandalf had remained dead in the mines. The fact th
 
 For the character with the coolest character design look no further than the Mouth of Sauron. Honestly, he was only there for a few minutes but he told off the good guys for all the good reasons so badly that he had to be killed at once.
 
-
-
-The scenes of Frodo, Sam and Gollum were just too boring. I had no choice but to skip them. I didn’t really care about the ring and whatever it signified. I was more interested in the battles. The last battle was really bad. I remember it as just a montage of the characters cutting through enemies until the ground under the enemies conveniently gave in (but not where the good guys stood). Bad as it was, it was also mercifully short.
+The scenes of Frodo, Sam and Gollum were just too boring. I had no choice but to skip them. I didn’t really care about the ring and whatever it signified. I was more interested in the battles. The last battle was really bad. I remember it as just a montypee of the characters cutting through enemies until the ground under the enemies conveniently gave in (but not where the good guys stood). Bad as it was, it was also mercifully short.
 
 The worst, most underwhelming battle came before that, at the city of Minas Tirith. It highlighted everything good about the siege combat at the previous battle of Helm’s Deep. The CGI (Computer Generated Imagery) has a tendency of looking worse when it is shown where there is a lot of light. Those giant elephants in particular looked pretty bad.
 
@@ -37,6 +36,6 @@ The most memorable scene in The Return of the King had nothing to do with King A
 
 There are many pacifist tracts about World War I soldiers which make you wonder how the tragic lives of men would have panned out had it not being for the cruelty of war. I recommend Covenant With Death by John Harris. And yet when the fantasy does turn true and Frodo gets married it has to be glossed over because it is not interesting at all.
 
-The boring montage of them returning to the shire is boring no matter how happy they look. The problem with all these pacifistic narratives which seek to show that war is cruel is that they also invariably reveal that war is glorious whereas peace is not which is why the happy ending has to be some sped-up montage.
+The boring montypee of them returning to the shire is boring no matter how happy they look. The problem with all these pacifistic narratives which seek to show that war is cruel is that they also invariably reveal that war is glorious whereas peace is not which is why the happy ending has to be some sped-up montypee.
 
 One of the best things about the lord of the rings films is that the races all act according to their stereotypes. They actually have to work together to overcome and complement each other’s limitations and strengths.

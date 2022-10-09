@@ -1,8 +1,9 @@
 ---
 title: "The Internet Killed Anime"
-sub_title: 
+sub_title:
 Date: 2020-05-04
 LastMod:
+type: a
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

@@ -3,6 +3,7 @@ title: "Why the Left and Right Hate Hentai"
 sub_title: "For some reason this article seems to have gotten the most feedback on my site. I have decided to revise and expand it. - 22/04/2022"
 Date: 2020-10-25
 LastMod:
+type: a
 ---
 
 [[Home](https://otaking.xyz/)] [[Donate](https://patreon.com/denpa)] [[About](https://otaking.xyz/about.html)]

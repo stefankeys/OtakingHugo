@@ -3,13 +3,14 @@ title: "Boku Girl Manga"
 sub_title: Tomboy’s Are Better than Onesans
 Date: 2020-11-13
 LastMod:
+type: a
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)
 
 Rating: 7/10. The trickster loli goddess Loki finds a new plaything in a girly-looking high school boy trying to act manly. This is just a gender-bender ecchi romcom which will leave you ogling at the sexy guy turned into a girl if you are a red blooded man.
 
-The side-characters and the love interest are not interesting. They are just an excuse to indulge in the cuteness of the protagonist’s innocent unintentional girlishness as she slowly comes to grasp that he is no longer a guy now that he has the body of a cute girl. As his body lets him experience things only a cute girl can he slowly falls in love with his childhood best buddy.
+The side-characters and the love interest are not interesting. They are just an excuse to indulge in the cuteness of the protypeonist’s innocent unintentional girlishness as she slowly comes to grasp that he is no longer a guy now that he has the body of a cute girl. As his body lets him experience things only a cute girl can he slowly falls in love with his childhood best buddy.
 
 The childhood best-friend for his part simply can’t resist the cuteness of his former best guy friend turned a cute girl either which leads to many delicious ecchi scenes. If nothing else it will not convince you that big-titted girls are inferior to cute tomboys with small breasts if that needed any convincing.
 

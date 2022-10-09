@@ -3,6 +3,7 @@ title: RSS Feeds
 sub_title:
 Date: 2020-04-25
 LastMod:
+type: b
 ---
 
 [Back to catalog](https://otaking.xyz/index.html)

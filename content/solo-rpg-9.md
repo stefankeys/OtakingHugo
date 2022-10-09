@@ -3,6 +3,7 @@ title: "SoloRPG #9: Gnoll Encounter"
 sub_title: ""
 Date: 2020-12-23
 LastMod:
+type: tg
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)
@@ -35,7 +36,7 @@ Lyndis suddenly sprung back into action and smacks the large gnoll with her quar
 
 The useless dwarf missed the gnolls by a few feet and my face by a few inches. Lyndis went back to keep the other gnoll busy. Teser and the female gnolls were comedically doing some sort of dance while missing each other while I was risking my life. The useless dwarf was probably reloading his sling behind that rock. Why did it take him so long? It’s not like a bow. I hoped he hadn’t finished his bullets then again that might have been better.
 
-I finally got a clean hit on the large gnoll but its armour got in the way. Teser finally killed one of the female gnolls by beheading it with his mace. We were finally even-numbered. The death of one of the female gnolls immediately fuels the ire of the large gnoll but I blocked its way. The other female gnoll was at a disadvantage against Tesser.
+I finally got a clean hit on the large gnoll but its armour got in the way. Teser finally killed one of the female gnolls by beheading it with his mace. We were finally even-numbered. The death of one of the female gnolls immediately fuels the ire of the large gnoll but I blocked its way. The other female gnoll was at a disadvantypee against Tesser.
 
 Lyndis smacked the gnoll she was fighting against in its snout with her staff knocking a few of its teeth out. Miraculously, a bullet from the useless Dwarf’s sling hit the large gnoll in its head and killed it. The fight was turning in our favour.
 
@@ -61,110 +62,110 @@ I was too tired to respond, Lyndis didn’t usually respond unless talked to dir
 
 ## Teser’s Character Sheet
 
-| Stat         | Value                                                        |
-| ------------ | ------------------------------------------------------------ |
-| Class        | Cleric                                                       |
-| Level        | 3 (450XP)                                                    |
-| Weapon       | Mace                                                         |
-| Spells       | 2 x Remove Fear                                              |
+| Stat         | Value                                                                                                                                               |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Class        | Cleric                                                                                                                                              |
+| Level        | 3 (450XP)                                                                                                                                           |
+| Weapon       | Mace                                                                                                                                                |
+| Spells       | 2 x Remove Fear                                                                                                                                     |
 | Background   | A worshipper of the God of Wealth, Shek El. Official for the merchant guild known as The Incorporation of Perth, which owns the Adventurer’s guild. |
-| Damage       | 3d6                                                          |
-| HP           | 10                                                           |
-| AC           | 19                                                           |
-| Attack Bonus | +1                                                           |
-| Mv           | 20′                                                          |
-| INT          | 7                                                            |
-| DEX          | 14+1                                                         |
-| CHA          | 18+3                                                         |
-| Equipment    | Plate Mail, Shield, Mace                                     |
+| Damage       | 3d6                                                                                                                                                 |
+| HP           | 10                                                                                                                                                  |
+| AC           | 19                                                                                                                                                  |
+| Attack Bonus | +1                                                                                                                                                  |
+| Mv           | 20′                                                                                                                                                 |
+| INT          | 7                                                                                                                                                   |
+| DEX          | 14+1                                                                                                                                                |
+| CHA          | 18+3                                                                                                                                                |
+| Equipment    | Plate Mail, Shield, Mace                                                                                                                            |
 
 ## Alhwald Tillyworth’s Character Sheet
 
-| STAT                 | VALUE                                                        | BONUS |
-| -------------------- | ------------------------------------------------------------ | ----- |
-| AB                   |                                                              | +1    |
-| STR                  | 11                                                           |       |
-| INT                  | 14                                                           | +1    |
-| WIS                  | 11                                                           |       |
-| DEX                  | 7                                                            | -1    |
-| CON                  | 10                                                           |       |
-| CHA                  | 11                                                           |       |
-| AC                   | 15                                                           |       |
-| HP                   | 3(10)                                                        |       |
-| Race                 | Human                                                        |       |
-| Class                | Fighter                                                      |       |
-| Sex                  | Male                                                         |       |
-| Level                | 1                                                            |       |
-| Age                  | 16                                                           |       |
-| XP                   | 824XP (1,250)                                                |       |
-| Hit Dice             | 1d8                                                          |       |
-| Money                | 244 gp, 3gp                                                  |       |
+| STAT                 | VALUE                                                                                                                 | BONUS |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------- | ----- |
+| AB                   |                                                                                                                       | +1    |
+| STR                  | 11                                                                                                                    |       |
+| INT                  | 14                                                                                                                    | +1    |
+| WIS                  | 11                                                                                                                    |       |
+| DEX                  | 7                                                                                                                     | -1    |
+| CON                  | 10                                                                                                                    |       |
+| CHA                  | 11                                                                                                                    |       |
+| AC                   | 15                                                                                                                    |       |
+| HP                   | 3(10)                                                                                                                 |       |
+| Race                 | Human                                                                                                                 |       |
+| Class                | Fighter                                                                                                               |       |
+| Sex                  | Male                                                                                                                  |       |
+| Level                | 1                                                                                                                     |       |
+| Age                  | 16                                                                                                                    |       |
+| XP                   | 824XP (1,250)                                                                                                         |       |
+| Hit Dice             | 1d8                                                                                                                   |       |
+| Money                | 244 gp, 3gp                                                                                                           |       |
 | Equipment            | Chainmail, Shield, Long-Sword, Backpack, Rations-6 days, Water-skin, Tinderbox, Flint and Steel, 50′ rope, Tin Plate. |       |
-| Spells/Abilities     | 10% bonus to all XP earned.                                  |       |
-| SAVING THROWS        |                                                              |       |
-| Death Ray/Poison     | 12                                                           |       |
-| Magic Wands          | 13                                                           |       |
-| Paralysis or Petrify | 14                                                           |       |
-| Dragon Breath        | 15                                                           |       |
-| Spells               | 17                                                           |       |
+| Spells/Abilities     | 10% bonus to all XP earned.                                                                                           |       |
+| SAVING THROWS        |                                                                                                                       |       |
+| Death Ray/Poison     | 12                                                                                                                    |       |
+| Magic Wands          | 13                                                                                                                    |       |
+| Paralysis or Petrify | 14                                                                                                                    |       |
+| Dragon Breath        | 15                                                                                                                    |       |
+| Spells               | 17                                                                                                                    |       |
 
 ## Lyndis Hersandoral’s Character Sheet
 
-| STAT                 | VALUE                                                        | BONUS |
-| -------------------- | ------------------------------------------------------------ | ----- |
-| AB                   |                                                              | +1    |
-| STR                  | 10                                                           |       |
-| INT                  | 14                                                           | +1    |
-| WIS                  | 15                                                           | +1    |
-| DEX                  | 13                                                           | +1    |
-| CON                  | 14                                                           | +1    |
-| CHA                  | 14                                                           | +1    |
-| AC                   | 13                                                           | +1    |
-| HP                   | 3(15)                                                        |       |
-| Race                 | Elf                                                          |       |
-| Class                | Cleric                                                       |       |
-| Sex                  | Female                                                       |       |
-| Level                | 1                                                            |       |
-| Age                  | 17                                                           |       |
-| XP                   | 726(1500)                                                    |       |
-| Hit Dice             | 1d6                                                          |       |
-| Money                | 10 gp, 3sp                                                   |       |
-| Equipment            | Quarterstaff, Shield, Long-Sword, Backpack, Rations-6 days, Leather Armour, Water-skin, Tinderbox, Flint and Steel, 50′ rope, Tin Plate. |       |
+| STAT                 | VALUE                                                                                                                                                                | BONUS |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| AB                   |                                                                                                                                                                      | +1    |
+| STR                  | 10                                                                                                                                                                   |       |
+| INT                  | 14                                                                                                                                                                   | +1    |
+| WIS                  | 15                                                                                                                                                                   | +1    |
+| DEX                  | 13                                                                                                                                                                   | +1    |
+| CON                  | 14                                                                                                                                                                   | +1    |
+| CHA                  | 14                                                                                                                                                                   | +1    |
+| AC                   | 13                                                                                                                                                                   | +1    |
+| HP                   | 3(15)                                                                                                                                                                |       |
+| Race                 | Elf                                                                                                                                                                  |       |
+| Class                | Cleric                                                                                                                                                               |       |
+| Sex                  | Female                                                                                                                                                               |       |
+| Level                | 1                                                                                                                                                                    |       |
+| Age                  | 17                                                                                                                                                                   |       |
+| XP                   | 726(1500)                                                                                                                                                            |       |
+| Hit Dice             | 1d6                                                                                                                                                                  |       |
+| Money                | 10 gp, 3sp                                                                                                                                                           |       |
+| Equipment            | Quarterstaff, Shield, Long-Sword, Backpack, Rations-6 days, Leather Armour, Water-skin, Tinderbox, Flint and Steel, 50′ rope, Tin Plate.                             |       |
 | Spells/Abilities     | 60′ range Darkvision, 1-2 on 1d6 to find secret doors with just a cursory, immune to paralysing attack of ghouls, less likely to be surprised in combat by 1 in 1d6. |       |
-| SAVING THROWS        |                                                              |       |
-| Death Ray/Poison     | 11                                                           |       |
-| Magic Wands          | 12                                                           | +2    |
-| Paralysis or Petrify | 14                                                           | +1    |
-| Dragon Breath        | 16                                                           |       |
-| Spells               | 15                                                           | +2    |
+| SAVING THROWS        |                                                                                                                                                                      |       |
+| Death Ray/Poison     | 11                                                                                                                                                                   |       |
+| Magic Wands          | 12                                                                                                                                                                   | +2    |
+| Paralysis or Petrify | 14                                                                                                                                                                   | +1    |
+| Dragon Breath        | 16                                                                                                                                                                   |       |
+| Spells               | 15                                                                                                                                                                   | +2    |
 
 ## Dazai’s Character Sheet
 
-| STAT                 | VALUE                                                        | BONUS |
-| -------------------- | ------------------------------------------------------------ | ----- |
-| AB                   |                                                              | +1    |
-| STR                  | 11                                                           |       |
-| INT                  | 14                                                           | +1    |
-| WIS                  | 13                                                           | +1    |
-| DEX                  | 13                                                           | +1    |
-| CON                  | 9                                                            |       |
-| CHA                  | 12                                                           |       |
-| AC                   | 13                                                           |       |
-| HP                   | 4(4)                                                         |       |
-| Race                 | Dwarf                                                        |       |
-| Class                | Thief                                                        |       |
-| Sex                  | Male                                                         |       |
-| Level                | 1                                                            |       |
-| Age                  | 74                                                           |       |
-| XP                   | 726(1500)                                                    |       |
-| Hit Dice             | 1d6                                                          |       |
-| Money                | 21 gp, 1ep                                                   |       |
-| Equipment            | 6 days of Rations, Thieves Pick and Tools, Hemp Rope 50′, Backpack, Sling, 58 Bullets for Sling, Dagger, Leather Armour, Tin Plate. |       |
+| STAT                 | VALUE                                                                                                                                                                                                                                                                                                                                    | BONUS |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| AB                   |                                                                                                                                                                                                                                                                                                                                          | +1    |
+| STR                  | 11                                                                                                                                                                                                                                                                                                                                       |       |
+| INT                  | 14                                                                                                                                                                                                                                                                                                                                       | +1    |
+| WIS                  | 13                                                                                                                                                                                                                                                                                                                                       | +1    |
+| DEX                  | 13                                                                                                                                                                                                                                                                                                                                       | +1    |
+| CON                  | 9                                                                                                                                                                                                                                                                                                                                        |       |
+| CHA                  | 12                                                                                                                                                                                                                                                                                                                                       |       |
+| AC                   | 13                                                                                                                                                                                                                                                                                                                                       |       |
+| HP                   | 4(4)                                                                                                                                                                                                                                                                                                                                     |       |
+| Race                 | Dwarf                                                                                                                                                                                                                                                                                                                                    |       |
+| Class                | Thief                                                                                                                                                                                                                                                                                                                                    |       |
+| Sex                  | Male                                                                                                                                                                                                                                                                                                                                     |       |
+| Level                | 1                                                                                                                                                                                                                                                                                                                                        |       |
+| Age                  | 74                                                                                                                                                                                                                                                                                                                                       |       |
+| XP                   | 726(1500)                                                                                                                                                                                                                                                                                                                                |       |
+| Hit Dice             | 1d6                                                                                                                                                                                                                                                                                                                                      |       |
+| Money                | 21 gp, 1ep                                                                                                                                                                                                                                                                                                                               |       |
+| Equipment            | 6 days of Rations, Thieves Pick and Tools, Hemp Rope 50′, Backpack, Sling, 58 Bullets for Sling, Dagger, Leather Armour, Tin Plate.                                                                                                                                                                                                      |       |
 | Spells/Abilities     | Darkvision with a 60′ range, able to detect slanting passages, traps, shifting walls and new construction on a roll of 1-2 on 1d6 (a search must be performed before this roll may be made). It takes a turn for the next abilities: Open Locks, Remove Traps, Pick Pockets, Move Silently, Climb Walls, Hide, Listen, and Sneak Attack. |       |
-| Restrictions         | Cannot use large weapons more than four feet in length like two-handed swords, polearms, and longbows. May not wear metal armour as it interferes with thief abilities. |       |
-| SAVING THROWS        |                                                              |       |
-| Death Ray/Poison     | 13                                                           | +4    |
-| Magic Wands          | 14                                                           | +4    |
-| Paralysis or Petrify | 13                                                           | +4    |
-| Dragon Breath        | 16                                                           | +3    |
-| Spells               | 15                                                           | +4    |
+| Restrictions         | Cannot use large weapons more than four feet in length like two-handed swords, polearms, and longbows. May not wear metal armour as it interferes with thief abilities.                                                                                                                                                                  |       |
+| SAVING THROWS        |                                                                                                                                                                                                                                                                                                                                          |       |
+| Death Ray/Poison     | 13                                                                                                                                                                                                                                                                                                                                       | +4    |
+| Magic Wands          | 14                                                                                                                                                                                                                                                                                                                                       | +4    |
+| Paralysis or Petrify | 13                                                                                                                                                                                                                                                                                                                                       | +4    |
+| Dragon Breath        | 16                                                                                                                                                                                                                                                                                                                                       | +3    |
+| Spells               | 15                                                                                                                                                                                                                                                                                                                                       | +4    |

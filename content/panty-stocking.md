@@ -2,12 +2,13 @@
 title: Panty and Stocking with Garterbelt Review
 sub_title: " 'I can't stop myself from doing the things I want to do. And right now, the thing I want to do the most is to crush you.' - Panty Anarchy "
 Date: 2021-10-12
-LastMod: 
+LastMod:
+type: a
 ---
 
 [Back to Catalog](/)
 
- When I first saw Panty and Stocking I was put off by the cartoony art-style but I guess it has grown on me, occasionally it’ll break into an anime art-style during the magical girl, pole-dancing, stripping transformation. The art-style is kinda like the Power-Puff girls, and in fact the whole thing is littered with references to Western pop culture. I and ThoughtAgent went over many of these references in our [YouTube Discussion](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DlmrYpqHudsg%26t%3D2412s&sa=D&source=editors&ust=1634044229272000&usg=AOvVaw1LhrFmzXY2qwmR4xjwlQ8H). The characters cuss and curse a lot, there's a lot of "fucking", "slut", "whore" and that sort of thing which is kind of the appeal of the anime, basically something with raunchy humour but in a western cartoon art style.
+When I first saw Panty and Stocking I was put off by the cartoony art-style but I guess it has grown on me, occasionally it’ll break into an anime art-style during the magical girl, pole-dancing, stripping transformation. The art-style is kinda like the Power-Puff girls, and in fact the whole thing is littered with references to Western pop culture. I and Thoughtypeent went over many of these references in our [YouTube Discussion](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DlmrYpqHudsg%26t%3D2412s&sa=D&source=editors&ust=1634044229272000&usg=AOvVaw1LhrFmzXY2qwmR4xjwlQ8H). The characters cuss and curse a lot, there's a lot of "fucking", "slut", "whore" and that sort of thing which is kind of the appeal of the anime, basically something with raunchy humour but in a western cartoon art style.
 
 Earlier I said it was a bit like the powerpuff girls, that is true when it comes to the artstyle and the monster of the week approach it takes. I would also say it is also a parody of magical girls anime, honestly at this point it feels like there are more parodies and subversions of magical girls anime than the real thing being made if we exclude the franchises like Precure.
 
@@ -15,7 +16,7 @@ The story follows two fallen angels, Panty Anarchy and Stocking Anarchy, in Date
 
 The anime is 13 episodes long, it peaks at episode 6 when the two evil demon sisters show up, most episodes are divided into two parts, each part dealing with one “Ghost”, because of this every episode has two titles. Episode 6 is an exception and the whole episode is dedicated to one story, and there’s some eye-candy sakugafag worthy action scenes there. The two evil demon sisters want to impose order over Panty & Stocking’s chaos but the themes are not really explored beyond just being presented, in the Scany and Kneesocks (the two demon sisters) are just two badies that need to be defeated.
 
-For those who care, the anime was created by Studio Gainax and directed by Hiroyuki Imaishi, right after he directed Gurren Lagaan. I didn’t like Gurren Lagaan, it seemed too much like a hollow homage to Gainax’s early spirit found in stuff like Gunbuster, retreading the same ground, but going so over the top that it becomes a parody of what it wanted to celebrate. *Panty & Stocking* on the hand felt fresh, and in its own way did channel that over the top, “we’re just going to do it” spirit of Gainax in some places, notably in the climax in episode six where Panty says "I can't help doing the things I want to do, and right now the thing I want to do the most is crush you."
+For those who care, the anime was created by Studio Gainax and directed by Hiroyuki Imaishi, right after he directed Gurren Lagaan. I didn’t like Gurren Lagaan, it seemed too much like a hollow homage to Gainax’s early spirit found in stuff like Gunbuster, retreading the same ground, but going so over the top that it becomes a parody of what it wanted to celebrate. _Panty & Stocking_ on the hand felt fresh, and in its own way did channel that over the top, “we’re just going to do it” spirit of Gainax in some places, notably in the climax in episode six where Panty says "I can't help doing the things I want to do, and right now the thing I want to do the most is crush you."
 
 The same message but not in an innocent way like the Daicon III and IV animations, Otaku no Video, and GunBuster but the same “Faustian” message anyway. A youtube comment I recently read said “Trash talk anime all you want, but many anime from the early 2000s onwards are retellings of Faust. Japanese culture takes a lot of influence from German culture, so paradoxically in order to embrace European German culture, the youth have had to do so second hand.” I believe this was the case before the early 2000s already, especially in manga.
 

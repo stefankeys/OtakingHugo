@@ -3,21 +3,22 @@ title: "Accusing the Accusers"
 sub_title: "Evola, Nietzche, and Tomboy Abs"
 Date: 2021-10-27
 LastMod:
+type: pol
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)
 
-Nietzche’s New Year Resolution for 1882 from *The Gay Science*:
+Nietzche’s New Year Resolution for 1882 from _The Gay Science_:
 
 “For the New Year—I still live, I still think; I must still live, for I must still think. Sum, ergo cogito: cogito, ergo sum. To-day everyone takes the liberty of expressing his wish and his favorite thought: well, I also mean to tell what I have wished for myself today, and what thought first crossed my mind this year,—a thought which ought to be the basis, the pledge and the sweetening of all my future life! I want more and more to perceive the necessary characters in things as the beautiful:—I shall thus be one of those who beautify things. Amor fati: let that henceforth be my love! I do not want to wage war with the ugly. **I do not want to accuse, I do not want even to accuse the accusers. Looking aside, let that be my sole negation!** And all in all, to sum up: I wish to be at any time hereafter only a yea-sayer!”
 
-I think I am reaching the end of my “critical stage,” a period where I am rejecting the ideas of others to form my own.
+I think I am reaching the end of my “critical stypee,” a period where I am rejecting the ideas of others to form my own.
 
-There is nothing wrong with this “critical stage”, in fact it is good to start by being in opposition to the ideas you are given by your contemporary morality, to check what’s solid and what isn’t, rather than passively accepting them as a given. However once you know where you stand it can turn to a kind of self-indulgence that hampers your growth and wastes your time in revelries against everything around you. Revelries of contempt and smugness and laughing with the shrill laughter of children who have no hope of ever being in power.
+There is nothing wrong with this “critical stypee”, in fact it is good to start by being in opposition to the ideas you are given by your contemporary morality, to check what’s solid and what isn’t, rather than passively accepting them as a given. However once you know where you stand it can turn to a kind of self-indulgence that hampers your growth and wastes your time in revelries against everything around you. Revelries of contempt and smugness and laughing with the shrill laughter of children who have no hope of ever being in power.
 
 Of course I will still probe but not with any mal-intent, mal-intent betrays doubt and fear, and if any mal-intent is directed my way I’ll just look aside. Perhaps to really see the good in things, I first needed to see the bad and the ugly as well, so I wouldn’t be defending something which doesn’t exist.
 
-However, to make a definitive break with the accusers, I’ll have to “accuse the best accusers” and *then* I’ll be able to look aside. Maybe this is a mistake but I can’t resist the temptation, also it feels like otherwise I would be leaving some loose ends.
+However, to make a definitive break with the accusers, I’ll have to “accuse the best accusers” and _then_ I’ll be able to look aside. Maybe this is a mistake but I can’t resist the temptation, also it feels like otherwise I would be leaving some loose ends.
 
 Every deconstruction must be followed by a reconstruction, as L the Fox says, and it is very easy to deconstruct everything, or in other words to cast something in a negative light, and that kind of destructive self-righteousness is satisfying too because as a self-appointed judge and condemner of reality, it gives you a feeling of power over the reality which you can’t change, but that “self-righteousness can never touch the sincerity of others.(1)”
 
@@ -33,7 +34,7 @@ If his secondary goal was to provoke some thought then he succeeded too, because
 
 Why would AA insist his video was not about women having abs but just the reaction the men had to it? Perhaps because saying that women should be this or that on YouTube is a riskier business than telling men what they should and shouldn’t do.
 
-Besides, as AA correctly observes, the optics of blaming women, that is to say blaming someone else for the ills of society than yourself, are bad anyway. Then by blaming *you*, as in what you really are, not the “reactionary”, “rightwing”, “Traditionalist”, “Catholic”, “Lutheran”, “Christian” or whatever labels you call yourself, he attempts to restore some agency to his audience of young men by putting the blame the blame on them in a situation where they feel like they have no agency to change things, which is laudable in that sense.  
+Besides, as AA correctly observes, the optics of blaming women, that is to say blaming someone else for the ills of society than yourself, are bad anyway. Then by blaming _you_, as in what you really are, not the “reactionary”, “rightwing”, “Traditionalist”, “Catholic”, “Lutheran”, “Christian” or whatever labels you call yourself, he attempts to restore some agency to his audience of young men by putting the blame the blame on them in a situation where they feel like they have no agency to change things, which is laudable in that sense.
 
 AA quotes a long Julius Evola passage in his video. Evola was a Perennial Traditionalist, that is to say, he believed in socially conservative social norms backed up by finding commonalities between the religious and cultural traditions of the world which fit his socially conservative social norms. Through this Evola created a meta-Tradition and a meta-Traditionalism, a purely referential form of traditionalism which was not shy of mixing up religious concepts from different religions in a way that the adherents of those religions might not do or might even consider sacrilegious.
 
@@ -49,7 +50,7 @@ AA claims that if you’re looking to justify traditional gender roles then you 
 
 But if you're going to take the past on its own terms and judge it by its own values then is AA going to judge the present by its own values only? No. Why not? He doesn’t say. He doesn’t seem to judge all things on their own terms so there must be a reason I am not privy to.
 
-To put it bluntly, he says, just listen to the original source rather than justifications or criticisms given for it later but do it *only* for this thing and not these other things which are inconvenient to me. For example he wouldn’t say to just listen to feminists when judging feminism or judge Marxist economics only based on what Marxist economists say.
+To put it bluntly, he says, just listen to the original source rather than justifications or criticisms given for it later but do it _only_ for this thing and not these other things which are inconvenient to me. For example he wouldn’t say to just listen to feminists when judging feminism or judge Marxist economics only based on what Marxist economists say.
 
 Furthermore Evola doesn’t argue with empirical evidence like statistics so AA doesn’t have to worry about it turning into an endless argument about the numbers. I suppose that’s one reason to pick Evola over the evo-psychs. It’s easier and more effective rhetorically to speak in terms of grand historical narratives where you can’t look at the factors in isolation and so can assert things more easily and confidently.
 
@@ -63,13 +64,13 @@ Good optics are not everything but you can’t ignore the optics because they ar
 
 So far so well, what is the problem then? In one of the follow up videos, AA rightly complains about the left’s tendency to deflect their opposition’s arguments by psychologising, or in other words speculating about the opposition's real motives by coming up with all sorts of nefarious motives about why the right believes something rather than take on the right’s arguments seriously, at their word, head-on and on their own terms.
 
-This involves trying to see the problem with the other side’s own terms and maybe even coming up with a compromise, a give-and-take position, even when you are on the side with more power and even when you are not totally convinced, in recognition that after all we’re all in this together. Instead what actually happens is a denial there is a problem at all, “look these totally non-partisan academic bodies say that there is no problem so there is no problem, screw your feelings, the *real reason* you have a problem is because you suffer from this phobia, see this non-partisan academic paper quoted by this non-partisan press media organisation says so.” Or in other words “you just don’t understand,” or even “the real problem is what I think is a problem (e.g. economic/racial inequality)” which is really just another way of saying “you’re the problem, stop getting in our way.”
+This involves trying to see the problem with the other side’s own terms and maybe even coming up with a compromise, a give-and-take position, even when you are on the side with more power and even when you are not totally convinced, in recognition that after all we’re all in this together. Instead what actually happens is a denial there is a problem at all, “look these totally non-partisan academic bodies say that there is no problem so there is no problem, screw your feelings, the _real reason_ you have a problem is because you suffer from this phobia, see this non-partisan academic paper quoted by this non-partisan press media organisation says so.” Or in other words “you just don’t understand,” or even “the real problem is what I think is a problem (e.g. economic/racial inequality)” which is really just another way of saying “you’re the problem, stop getting in our way.”
 
-And yet, despite seeing all this, despite asking that *his* position be regarded on its own terms rather than be psychologised, what does AA do?
+And yet, despite seeing all this, despite asking that _his_ position be regarded on its own terms rather than be psychologised, what does AA do?
 
 He psychologised, speculated about all the nefarious motives, the “copes,” to use the worst modern 4chin lingo he has adopted (despite looking down on 4gag) any reason people might have to oppose his view. This I tried my best to ignore for my fondness and partiality for him but the spell broke when this very same psychologising spirit turned towards ascribing the motives of those slightly pathetic men who were basically just simping for some woman with abs on twitter.
 
-The implication of what AA said was that obviously these men, who posted memes about wanting to lick this woman’s abs (a pathetic attempt at courting, I know), wanted to suck this woman’s schlong and be castrated and *this* will lead to the collapse of western civilisation. How does he know what they think? Did he ask them? No, because he wouldn’t believe what they said, he wouldn’t take their word for it, he wouldn’t take them on their own terms and yet *he* wants to be taken on his own terms.
+The implication of what AA said was that obviously these men, who posted memes about wanting to lick this woman’s abs (a pathetic attempt at courting, I know), wanted to suck this woman’s schlong and be castrated and _this_ will lead to the collapse of western civilisation. How does he know what they think? Did he ask them? No, because he wouldn’t believe what they said, he wouldn’t take their word for it, he wouldn’t take them on their own terms and yet _he_ wants to be taken on his own terms.
 
 Furiously banning anyone who pointed any of this out including myself, he disappointed me but I am thankful for it, for it clarified what I had hitherto suspected, that I had outgrown him and needed to overcome him, as I had earlier outgrown and overcome other groups like anti-theists, feminists, socialists, anti-sjws, mgtows and so on. Therefore I will not hate or despise the instrument of my growth, I will have a fondness for it, sure, but I will look aside.
 
@@ -94,5 +95,3 @@ By Otaking, or [The Good Student](https://www.youtube.com/channel/UCA4gWcOoz_FXr
 [LEAVE A COMMENT HERE.](http://otaking.bbs.fc2.com/)
 
 [Back to Catalog](https://otaking.xyz/index.html)
-
- 

@@ -3,6 +3,7 @@ title: "Original Character - World History"
 sub_title:
 Date: 2021-01-22
 LastMod:
+type: tg
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)
@@ -75,7 +76,7 @@ Timeline
 
 # The European Union
 
-A stagnant power ruled by bureaucrats who keep order and security in Europe usually at the price of growth.
+A stypenant power ruled by bureaucrats who keep order and security in Europe usually at the price of growth.
 
 Timeline
 
@@ -109,7 +110,7 @@ Timeline
 
 **2089** The Arab states except Syria, Qatar, Lebanon, Yemen and Iraq enter into a formal military alliance with Israel to keep Iran and the Turks at bay now that the United States was out of the picture. The Palestinian territories are formally annexed into Israel with the other Arab nations’ reluctant approval.
 
-**2045** The Turkish economy collapses but is propped up by German tax-payers by a Bundestag which is over 45% Turkish. The EU commission allows this to keep Russia at bay.
+**2045** The Turkish economy collapses but is propped up by German tax-payers by a Bundestype which is over 45% Turkish. The EU commission allows this to keep Russia at bay.
 
 **2049** Libya is partitioned between Turkey and Russia.
 

@@ -3,6 +3,7 @@ title: "Solo RPG #3: A Dwarf Thief"
 sub_title: ""
 Date: 2020-11-20
 LastMod:
+type: tg
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

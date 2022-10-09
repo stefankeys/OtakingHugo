@@ -3,6 +3,7 @@ title: "Genes"
 sub_title: ""
 Date: 2020-05-04
 LastMod:
+type: pol
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)
@@ -13,7 +14,7 @@ Next imagine this – one day suddenly all of the values and culture of the Brit
 
 The answer to the first of these propositions is yes and the answer to the second proposition is no. What makes Britain Britain is the British people and what makes the British people British is their values and culture. The culture chages to varying degrees from area to area all over England, Scotland, Wales and Northen Ireland but the value placed in Liberty is common to all of Britain. The race and genetics are just the superficial appearance of the people in Britain that cannot carry the depth and weight of any individual or people, British or not.
 
-I don’t like the fact that ethnically British people are having less children and how their percentage of the population is decreasing. I like the way that white British people look. Therefore it would be a shame for their kind of appearance to become rarer than it already is. I also believe that no ethnic or racial group should be eliminated or erased from this world. Some drastic steps ought to be taken to increase the birth rates of natives in the developed world to reasonable levels for both economic and culutual and reasons.
+I don’t like the fact that ethnically British people are having less children and how their percentypee of the population is decreasing. I like the way that white British people look. Therefore it would be a shame for their kind of appearance to become rarer than it already is. I also believe that no ethnic or racial group should be eliminated or erased from this world. Some drastic steps ought to be taken to increase the birth rates of natives in the developed world to reasonable levels for both economic and culutual and reasons.
 
 The ‘aestethics’ of society are valuable but they are less important to the actual values that people hold. Actually given the advances in genetic engineering and cosmetics, I wouldn’t be too surprised if in around a century preserving a kind of appearance may not be entirely dependent on raw population numbers but more on trends. Therefore what we need to put values first, then culture and finally appearance.
 

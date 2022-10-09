@@ -3,6 +3,7 @@ title: "Why Beauty Paegants Should Be Just About Beauty"
 sub_title: ""
 Date: 2020-11-07
 LastMod:
+type: pol
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

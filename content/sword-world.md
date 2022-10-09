@@ -3,10 +3,10 @@ title: "Sword World RPG Interview : The Most Popular Japanese Table-Top RPG"
 sub_title: "The following is an interview with Anioda, Momo, and Auquid. They are the fan translators of the Japanese table-top RPG, Sword World."
 Date: 2022-02-23
 LastMod:
+type: jp
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)
-
 
 **Q: What is Sword World?**
 
@@ -106,7 +106,7 @@ Want to be a god damn house maid? MAID RPG.
 
 I could go on. The scene is extremely colorful. I mean there is a game about shrine maiden vtubers that stream to appease dragons. I am not making that up. What is not to love about japanese tabletop rpgs and their brand of whacky bullshit.
 
-The other thing is that japanese games are often focused on short sessions and oneshots. That's not to say they aren't playing long campaigns too, but it definitely is a noticeable trend in the design of many of these games. They are all fairly streamlined and built to be run in short 2-4 hour sessions, in contrast to the usual 6-8 hours western games often expect. While there are more crunchy systems (Power Card games that go for a more tactical experience such as Log Horizon or Kamigakari come to mind), Japanese Systems tend also to be on the light-weigth side. As previously stated, they don't have any hangups about realism, so their mechanics really focus on the essence of what the game *really* wants to be.
+The other thing is that japanese games are often focused on short sessions and oneshots. That's not to say they aren't playing long campaigns too, but it definitely is a noticeable trend in the design of many of these games. They are all fairly streamlined and built to be run in short 2-4 hour sessions, in contrast to the usual 6-8 hours western games often expect. While there are more crunchy systems (Power Card games that go for a more tactical experience such as Log Horizon or Kamigakari come to mind), Japanese Systems tend also to be on the light-weigth side. As previously stated, they don't have any hangups about realism, so their mechanics really focus on the essence of what the game _really_ wants to be.
 
 I love that about them.
 
@@ -236,7 +236,7 @@ Our newest contributor to Sword World, Borp, also works on various games. I thin
 
 **Q: What's the translation status? Has everything necessary to play been translated?**
 
-Aniodia: As it stands as of today, February 20, 2022, the entire core rules have been translated 100%, and the game is playable in its entirety. There are a number of supplemental books in various stages of "done", my own project being Alchemist Works (the first actual supplement), while I know Momo has bounced around translating most of the races and classes across the various books, and Auquid is an absolute madlad and just cranks fully translated pdfs out, like the most recent supplement/replay Baumgart's Castle Labyrinth.
+Aniodia: As it stands as of today, February 20, 2022, the entire core rules have been translated 100%, and the game is playable in its entirety. There are a number of supplemental books in various stypees of "done", my own project being Alchemist Works (the first actual supplement), while I know Momo has bounced around translating most of the races and classes across the various books, and Auquid is an absolute madlad and just cranks fully translated pdfs out, like the most recent supplement/replay Baumgart's Castle Labyrinth.
 
 Momo: The translation is still in the works. A lot of play material has been translated, but there is still a mountain of content to climb.
 
@@ -298,7 +298,7 @@ Aniodia: There's definitely a couple of people who have asked over the years, wh
 
 Momo: I think a lot of people just don't know about it yet, because it is still relatively new in the western scene (only really going out public last year) and I think it being in a fan translation doesn't help. I have been relentlessly shilling the game and I know I'm not the only one. Small and faithful contingent is probably the best term for it, yes.
 
-Whenever there is a thread where someone complains about D&D and they want to play something that is *like* D&D but not quite like D&D, I'll be there to recommend Sword World. You can count on it.
+Whenever there is a thread where someone complains about D&D and they want to play something that is _like_ D&D but not quite like D&D, I'll be there to recommend Sword World. You can count on it.
 
 **Q: Why did I think it was worth translating?**
 
@@ -353,9 +353,5 @@ Alternatively, you can read the recently translated replay "Baumgart's Castle La
 Oh, and if you have any questions about rules and how to run Sword World, then me and the others here in the [discord ](https://www.google.com/url?q=https://discord.gg/tfnMmbsYN9&sa=D&source=editors&ust=1645644272114969&usg=AOvVaw3QQnGyBxr5gEoLS3MDkEU_)or on the [subreddit](https://www.google.com/url?q=https://old.reddit.com/r/SwordWorld/&sa=D&source=editors&ust=1645644272115269&usg=AOvVaw3W4jmLs2Ek_XMHIbqmjNp-) will gladly help.
 
 The translation of Sword World RPG can be found on the [wiki](https://www.google.com/url?q=http://swordworld.shoutwiki.com/wiki/Main_Page&sa=D&source=editors&ust=1645644272115583&usg=AOvVaw1FO3R-KEomYkH0yhoJCapm).
-
-
-
-
 
 By Otaking, or [The Good Student](https://www.youtube.com/channel/UCA4gWcOoz_FXrtTEemTOtfw?view_as=subscriber/videos)

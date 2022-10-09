@@ -3,6 +3,7 @@ title: "SOS Writing Group Session 1 Entries"
 sub_title: "A series of short stories by myself and others."
 Date: 2021-08-25
 LastMod:
+type: tg
 ---
 
 [[Home](https://otaking.xyz/)] [[Donate](https://patreon.com/denpa)] [[About](https://otaking.xyz/about.html)]

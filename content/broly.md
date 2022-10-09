@@ -3,6 +3,7 @@ title: "Dragonball Z Broly Movie vs Dragonball Super Broly Movie"
 sub_title: Vic did nothing wrong
 Date: 2020-10-22
 LastMod:
+type: a
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

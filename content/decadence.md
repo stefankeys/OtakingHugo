@@ -3,6 +3,7 @@ title: "Zoku Darakuron: Discourse on Decadence by Ango Sakaguchi"
 sub_title: To fall beautifully.
 Date: 2022-03-25
 LastMod:
+type: lit
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)

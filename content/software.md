@@ -1,8 +1,9 @@
 ---
 title: Software I use
-sub_title: 
+sub_title:
 Date: 2020-04-29
 LastMod: 2020-05-17
+type: g
 ---
 
 [Back to catalog](https://otaking.xyz/index.html)
@@ -15,7 +16,7 @@ LastMod: 2020-05-17
 
   - [Krita: Drawing Program.](https://krita.org/en/)
 
-  - 
+  -
 
   - [Gimp](https://www.gimp.org/): Image Editor.
 
@@ -33,7 +34,7 @@ LastMod: 2020-05-17
 
     - [Pentadactyl](https://addons.palemoon.org/addon/pentadactyl-community/): Adds vim-like keybindings for keyboard based navigation except on some sites like youtube I don't really use the mouse much.
 
-    - [Greasemonkey for Palemoon](https://github.com/janekptacijarabaci/greasemonkey/releases/tag/3.31.4Fork): Adds functionality to websites through userscripts.
+    - [Greasemonkey for Palemoon](https://github.com/janekptacijarabaci/greasemonkey/releases/type/3.31.4Fork): Adds functionality to websites through userscripts.
 
     - - [4 Chan X](https://www.4chan-x.net/): Adds features to anonymous image boards such as being able to expand all images at once.
       - [All-time (You) count](https://github.com/KevinParnell/All-time-You-count): You counter for image boards.

@@ -3,6 +3,7 @@ title: "Christianity is European"
 sub_title: "A PSA for and by /pol/"
 Date: 2020-05-04
 LastMod:
+type: pol
 ---
 
 [Back to Catalog](https://otaking.xyz/index.html)
