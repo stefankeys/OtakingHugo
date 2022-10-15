@@ -101,9 +101,9 @@
                 >top</a
               >]<br>
             </h2>
-            <ol reversed>
-              <a href="http://haruhi.tv/"
-                ><img
+            <ol reversed="">
+              <a href="http://haruhi.tv/" >
+                <img
                   src="/images/anime/haruhi.png"
                   target="_blank"
                   alt="haruhi suzumiya"
@@ -114,7 +114,8 @@
                   border="0"
                   align="right"
                   height="1668"
-              ></a>
+              >
+            </a>
               {{ range where .Site.RegularPages "Type" "a" }}
               <li>
                 <a target="_blank" href="{{ .Permalink }}">{{.Title}}</a>
