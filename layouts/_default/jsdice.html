@@ -113,7 +113,7 @@ THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR IMPLIED WAR
         var el = document.getElementById("results");
         el.innerHTML += '<div class="roll_source"><small><strong>Help:</strong></small></div>';
         el.innerHTML += '<div class="roll_help">' +
-            '<strong>Usage</strong>: <em>js</em>Dice is a simple yet flexible dice roller for roleplaying games. To use it just type the number and kind of dice to roll and hit the "Go!" button or the return key. The dice are given in the format used by the d20 system. For example, to roll a d20 (20-sided dice) type <code><a href="javascript:doRoll(\'d20\')">d20</a></code>. Different kinds of dice can be used in the same roll and modifiers can be added or subtracted. Non-standard dice are fully supported. Here are more examples: <br />' +
+            '<strong>Usage</strong>: <em>js</em>Dice is a simple yet flexible dice roller for roleplaying games. To use it just type the number and kind of dice to roll and hit the "Go!" button or the return key. The dice are given in the format used by the d20 system. For example, to roll a d20 (20-sided dice) type <code><a href="javascript:doRoll(\'d20\')">d20</a></code>. Different kinds of dice can be used in the same roll and modifiers can be added or subtracted. Non-standard dice are fully supported. Here are more examples: <br>' +
             '<ul>' +
             '<li><code><a href="javascript:doRoll(\'10d6\')">10d6</a></code></li> ' +
             '<li><code><a href="javascript:doRoll(\'5d8+10\')">5d8+10</a></code></li> ' +
@@ -412,7 +412,7 @@ which means that you can use it offline. For more information please use a javas
 <div id="results">
 </div>
 <div id="inp">
-<small>Dice to roll: [<a href="javascript:doHelp();">Help</a>]</small><br />
+<small>Dice to roll: [<a href="javascript:doHelp();">Help</a>]</small><br>
 <input id="inp_text" type="text" onkeypress="return inp_keydown(event);" /><button id="inp_go" onclick="go();">Go!</button>
 </div>
 <div id="pre">
