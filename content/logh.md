@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 “I think despots are any statesmen not chosen by the people who rule by means of force and steal the peoples’ freedom. This is what you’re doing on Heinessen. You are despots. Isn’t that so?”
 

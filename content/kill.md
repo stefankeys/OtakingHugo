@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 > “_Fear is freedom! Subjugation is liberation! Contradiction is truth! Those are the facts of this world! And you will all surrender to them, you pigs in human clothing!_”
 >

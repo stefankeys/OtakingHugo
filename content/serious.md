@@ -6,9 +6,9 @@ LastMod:
 type: b
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
-Recently I have been accused of being too serious and of not being serious enough. Usually both accusations are the same because what they mean is that I am not serious about what *they* want to be serious about.
+Recently I have been accused of being too serious and of not being serious enough. Usually both accusations are the same because what they mean is that I am not serious about what _they_ want to be serious about.
 
 It is difficult to respond to being called too serious because if you take it seriously and attempt to answer it then that only proves that are you are too serious and can't take a joke but if you ignore it and move on then that means you haven't got any answer.
 
@@ -29,5 +29,3 @@ There is a kind of malady of cynicism affecting many bright minds, whiling away 
 By Otaking, or [The Good Student](https://www.youtube.com/channel/UCA4gWcOoz_FXrtTEemTOtfw?view_as=subscriber/videos)
 
 [LEAVE A COMMENT HERE.](http://otaking.bbs.fc2.com/)
-
- 

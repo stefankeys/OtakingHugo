@@ -6,9 +6,9 @@ LastMod:
 type: lit
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
-Pretentious, needlessly wordy and lacking a proper ending. The pretentiousness comes from the pervading “in your face” symbolism that fails to be subtle but also distinctly fails to make a point – the author is essentially making references to random dark things just to make it edgy as she could. 
+Pretentious, needlessly wordy and lacking a proper ending. The pretentiousness comes from the pervading “in your face” symbolism that fails to be subtle but also distinctly fails to make a point – the author is essentially making references to random dark things just to make it edgy as she could.
 
 It’s needlessly wordy. Most of the things that could be described in a sentence or two take entire paragraphs, it’s like the author is too busy playing word games rather than adding a semblance of plausibility to the plot. By plausibility, I don’t mean realism, the setting is as bland as it could be, children carrying knives half their size, really? The author may try to distract the reader by some comment about werewolf penises but I would hardly consider that to be proper world building, rather than the author resorting to storytelling when clearly she should have turned to the essay form and written a (hopefully) straight forward essay about her real topic of interest. A few exotic words were used in the exposition but jargon is the worst enemy of world building, thankfully this was not overdone.
 

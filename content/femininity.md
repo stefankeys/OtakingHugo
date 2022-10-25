@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 “If the truth is a cruel mistress then a lie must be a nice girl. And so kindness itself is a lie.”
 

@@ -6,7 +6,7 @@ LastMod:
 type: tg
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Youkoso! This is my OC character design page! You should steal them and turn them into something actually good! But remember to let others steal from you too. It was so hard to come up with concepts for characters which gave me some extra respect for the creators of the stories I love. You may need to read my [OC World History](//world.html) guide to understand what’s going on.
 

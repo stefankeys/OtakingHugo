@@ -6,7 +6,7 @@ LastMod:
 type: lit
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 This is a very thin book, it’s only a 256 pages and yet it attempts to cover the works and the lives of major philosophers from Socrates, Lucretius, Seneca Shopenhaur etc… often coming out as a string of wikipedia articles with little connection to each other. Almost everypage is full of an exerpt from the philosopher in question and one section is just short biography with key dates in the philosophers life. The book is divided into six different sections: Consolations for unpopularity, for not having enough money, for frustration, inadequacy, a broken heart, difficulties.
 

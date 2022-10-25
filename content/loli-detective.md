@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Un-Go is about some globalist tech giant CEO billionaire manupulating the media and hiding the truth for politically inconvenient crimes in order to work towards his utopian goals. Un-Go is based and redpilled.
 

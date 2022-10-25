@@ -6,7 +6,7 @@ LastMod:
 type: tg
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 ## What is Shinobigami?
 

@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 > Man fears darkness, and so he scrapes away at the edges of it with fire.”
 >

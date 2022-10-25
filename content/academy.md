@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 In the longterm the popular press does not matter, elections do not matter, the law does not matter, We the People certainly do not matter, the millitary does not matter, the secret police does not matter, art does not matter, the individual and his family have proven not to matter either. The only thing that matters is the academy, everything flows down from there.
 

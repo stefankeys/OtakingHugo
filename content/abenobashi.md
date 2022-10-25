@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 ![img](https://steemitimages.com/640x0/https://oldspeak.files.wordpress.com/2017/06/abenobashi.jpg?w=450)
 

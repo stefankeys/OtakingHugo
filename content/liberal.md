@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 The stuff which is highlighted in black is what he said and the stuff which looks normal is mine.
 

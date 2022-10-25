@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 If there is no such thing as progress then there is no such thing as reaction either and so the ONLY difference between progress and reaction is that they are opposed to each other.
 

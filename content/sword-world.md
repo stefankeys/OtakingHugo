@@ -6,7 +6,7 @@ LastMod:
 type: jp
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 **Q: What is Sword World?**
 

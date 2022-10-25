@@ -6,7 +6,7 @@ LastMod:
 type: g
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 There are many platforms such as wordpress, google blogger to make your website on. Heck if you don't care about making a unique looking site and just want to get your word out there then you're probably better off just posting on social media. There aren't even any baked in plug and play monetisation options on neocities so why does this site still have a small but dedicated userbase of web masters? Is it all just nostalgia for geocities, or worse yet fake nostalgia by Zoomers who never even used Yahoo!'s Geocities service but is just larping enough to make people spend so many hours tweaking their sites to their tastes?
 

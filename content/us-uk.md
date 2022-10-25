@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 The United Kingdom is not perfect, in fact I spend most of my waking hours complaining about pliant a people the British are.
 

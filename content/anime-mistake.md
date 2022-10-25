@@ -6,7 +6,7 @@ LastMod:
 type: r9k
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 # Back to Square Minus One
 

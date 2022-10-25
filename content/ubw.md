@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Tohsaka Rin is really boring and so is Unlimited Blade Works which covers her route. I just didn't find her motivations that interesting, she wanted to be the very best like Ash, which is fine but not a very serious to get the holy grail. In fact she ends up acting like a sort of chaperone for Shirou in all routes including her own.
 

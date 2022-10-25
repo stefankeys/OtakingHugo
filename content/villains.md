@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Why do they suck? In short, it is because the writers have no respect for the villains, let me explain why this matters.
 

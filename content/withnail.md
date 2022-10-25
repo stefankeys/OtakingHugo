@@ -6,7 +6,7 @@ LastMod:
 type: tv
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 I already recorded a conversation about [Withnail & I with Thoughtypeent](https://www.youtube.com/watch?v=DTdxb-mwtBs). We discussed most aspects of the film but it felt a little incomplete probably because I was unable to re-watch the film before our discussion. So I rewatched the film today and had another [discussion about it with Zarathustra's Serpent](https://www.youtube.com/watch?v=tjC_GRGIW2U) which also started out badly with some embarrassing technical fuck ups (craigbot on discord stopped working, luckily Thoughtypeent saved the day by recording the convo on his PC through OBS) but once we got into it, I think it got better. These thoughts below are mostly based on those conversations.
 

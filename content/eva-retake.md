@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Retalk is doujin (fan made manga) which attempts to finish the ending of the original Neon Genesis Evangelion series. I have heard that it involves some time-reset nonsense so my hopes are not too high. I wonder if the fan theory that everything returns back to normal came from this doujin though the official manga also does something similar. From the start the artwork is not always as good as a real manga but it is not by any means bad like something out of a cheap webcomic trying to look like a manga.
 

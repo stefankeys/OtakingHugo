@@ -6,7 +6,7 @@ LastMod:
 type: g
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 The RPI (roleplay intesive) MUDs are still overflowing with drama and toxicity though. The wizzies on RPI’s have a more hands on approach so this leads to endless drama by players who don’t think they have been treated fairly or about players who the MUD’s owners have a preference over others. Many of the threads which have got the most comments on r/mud are about this sort of drama.
 

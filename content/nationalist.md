@@ -6,7 +6,7 @@ LastMod:
 type: r9k
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 This article is a response to a comment [lolwut](https://lolwut.info/). I thought I would address the comment given that I have been asked similar questions by people when they find out my racial background. Here is his comment:
 

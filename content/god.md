@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 This isn’t going to be one of those atheists tracts against Christians I promise. There is no point in beating a dead horse(1). I know that Orwell himself viewed the Anglican church in a positive light although he had a visceral hatred towards the Catholic church (2), both of these opinions are justified but that is a topic for another time. Orwell’s novel itself presents a pro-Christian view – in a godless dark world where the past has been rewritten to paint the English clergy as an oppressor, as a force for evil that the Party and the state has now ridden of and freed England from, the portrayal of Christianity in Animal Farm, that is to say in Soviet Russia is less flattering although a counter-point to that would be that Orwell set Animal Farm in England so that its analogy would not exempt the English.
 

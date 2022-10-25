@@ -6,7 +6,7 @@ LastMod:
 type: lit
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 The book is broadly divided into 3 sections. The first section goes through a bunch of western philosophers starting from ancient Greece until Zarathustra gets to Nietzche. I wasn’t expecting it to go in this direction but the book basically goes through the conception of the soul as something separate from the body and how this supposed initial error resulted in nihilism which Nietzche sought to cure.
 

@@ -6,7 +6,7 @@ LastMod:
 type: lit
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Writing non-fiction for me is essentially an exercise in arguing with myself out aloud, it is quite easy to do without much effort as long as you have some topic and some data in mind, writing fiction, however, requires much more creativity not in coming up with the premise of the story, but in the execution of the premise through the characters, a coherent plot and dialogue which doesn’t break the immersion.
 

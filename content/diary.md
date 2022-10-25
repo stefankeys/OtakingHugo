@@ -6,7 +6,7 @@ LastMod:
 type: r9k
 ---
 
-[Back to catalog](https://otaking.xyz/index.html)
+[Back to catalog](/)
 
 ## The Diary Format is too disorganised so I have decided to abandon it.
 

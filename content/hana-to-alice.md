@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 The first thing that I should note about this show is that the animation for this movie sort of looks like rotoscoping just like in Haku no Hana, some viewers have found this jarring to the eyes but I mostly stopped noticing it after twenty minutes or so into the movie. This animated movie is actually a prequel to a Japanese live action film called Hana & Alice which was released back in 2004. You don’t need to watch the live action film in order to watch and understand this anime.
 

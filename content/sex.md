@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 My hand has been made to write this article unwillingly. A certain individual, let us call him Blank is very curious about my thoughts on this issue. He seems to have made up his mind already so I don't know why he is curious but maybe despite himself he might have some doubts. I certainly wouldn't be so anal about it if I didn't have any doubts. He agreed not to be a nuisance with his alt accounts in exchange for an exposition of my views.
 

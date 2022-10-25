@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 ![img](https://steemitimages.com/0x0/http://yenpress.us/wp-content/uploads/2008/01/sundome_1.gif)
 

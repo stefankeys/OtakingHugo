@@ -6,7 +6,7 @@ LastMod:
 type: lit
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 L the Fox: It all begun with Starship Troopers and the relative merits of speculative science-fiction compared to the Classics of literature: we were talking about how not even the attempt of the first movie's director (a famous member of the loathed cult of the "enlightened" and perhaps not coincidentally a member of that famous tribe of warriors and merchants hailing from the Middle East with whomst surely gentle reader will be familiar) to present the source material unflattering due to ideological reason, the movie is still loved an unironically appreciated to this day since it is FUNNY (Something extremely rare when we talk about "enlightened" movies) therefore inviting the audience to look favourably towards the funny protypeonists and their parodied society.
 

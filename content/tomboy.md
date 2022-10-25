@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Rating: 7/10. The trickster loli goddess Loki finds a new plaything in a girly-looking high school boy trying to act manly. This is just a gender-bender ecchi romcom which will leave you ogling at the sexy guy turned into a girl if you are a red blooded man.
 

@@ -6,7 +6,7 @@ LastMod:
 type: lit
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 “All art is propaganda… however not all propaganda is art”- George Orwell
 

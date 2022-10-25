@@ -6,7 +6,7 @@ LastMod:
 type: b
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 This started out as a response to[ How To Make A Video Essay](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DPZ9JCZececc%26t%3D747s&sa=D&source=editors&ust=1640383558242000&usg=AOvVaw0ESHI6QxzrV_jvksIkio_l) by The Closer Look but it quickly became a screed against academia.
 

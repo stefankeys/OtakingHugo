@@ -6,7 +6,7 @@ LastMod:
 type: tg
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 There are hundreds of MUDs but only a few dozen have concurrent players online in the hundreds.
 

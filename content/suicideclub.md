@@ -6,7 +6,7 @@ LastMod:
 type: jp
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Suicide club was okay. It was not scary or thought-provoking but it had cute girls killing themselves and it didn't overstay its welcome. One line struck my mind "Charles Manson of the Information Age." I guess that is what the premise of this thing is except it is not plausible and it is not meant to be plausible which still doesn't excuse it from not being plausible. The out of logic scenes shot because they were cool stick though and the cute girls getting killed makes it less palatable to the sub-human anti-human art house crowd. What I mean is that it is basically a bunch of clips spliced together just cause they are edgy, sexy, silly and cool. Please for the love of God do not listen to those who say that there is some deeper meaning because they need to feel pure and so can't indulge in some soft porn and perverse sexual violence for its own sake.
 

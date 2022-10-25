@@ -6,7 +6,7 @@ LastMod:
 type: lit
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 There's an essay by Ango Sakaguchi called [Discourse on decadence](https://otaking.neocities.org/pdfs/Discourse on Decandence by Ango Sakaguchi.pdf). You can read it by clicking the link above. It is fairly self-explanatory, and pretty short so I won't bother going into any detail. Besides I have pretty much given up on blogging- this is more of a journal and nothing more. I have tried showing this essay to a few people but they weren't as impressed by it as I was. Maybe I am just easily moved, to be honest I am not sure if there is any principle to behind which things move me and which don't, maybe there is but it eludes me and even if I could explain it to others, I doubt it would change their feelings to match mine.
 

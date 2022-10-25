@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Most political discourse to-day is escapism, it serves no other purpose than to provide satisfaction in the form of opportunity for people to revel in their own self-righteousness. And so Journalism is misery-porn and frothing at the mouth in righteous indignation.
 

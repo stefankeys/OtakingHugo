@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 @Daniel Menefrego what I meant to say is that if I could convince myself that Greek myths and deities were real that would make me more heroic but it doesn’t matter whether ancient Greek deities were real or not only whether I believed in them.
 

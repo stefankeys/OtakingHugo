@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 You are right to say that the right of the illiberal, non-pluralistic man would be infringed upon in my idealized society. Well so what? By your might makes right mindset, it doesn't matter anyway. My society has the power to do so.
 

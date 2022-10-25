@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 What has this?
 ![img](https://steemitimages.com/640x0/https://images.duckduckgo.com/iu/?u=https%3A%2F%2Ffanart.tv%2Ffanart%2Ftv%2F79415%2Fshowbackground%2Fwelcome-to-the-nhk-5811246b7cbf6.jpg&f=1)

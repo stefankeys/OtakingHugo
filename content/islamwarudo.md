@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 People died a lot earlier so they married earlier – so long as Muslims understand this and are against adults marrying children now in the modern age I don’t see a problem. In remote places like Afghanistan and in some remote places in Pakistan and the arab world pedophilia is still a widespread problem but most muslims in large cities like Cairo, Alexandria or Instanbul or Jakarta are not okay with old men marrying little girls of 6 years old and sexually molesting them at 9.
 
@@ -19,8 +19,6 @@ Other Islamic regions in South East Asia do not suffer from this issue as much a
 Then there is Afghanistan and Israel which have been the cause of endless hatred by Islamic clerics towards non-muslims convincing them to concentrate on the worst parts of Islamic scripture calling for death to apostates and second class status to non-muslim minorities and lying to non-muslims in order to appear good until muslim majority has been estabilished not by conversion but by turning muslim women and men into brainless cattle who have children not because they love their children but literally to breed like rats as infestation.
 
 Cancerous islamic leaders like Saddam Hussein also added fuel to the fire by saying things like that seeing all those women wearing headscarves in the west Islam will take over the west. I don’t mean to imply here that Israel doesn’t have the right to exist, in fact it has the right to exist over all other arab muslim nations because for the time being it is the only free and democratic republic in the region – though this may change with Israel’s own welfare class of brainless orthodox jews who breed like rats and are threatening to destroy that prosperous, democratic republic.
-
-
 
 Afghanistan proved that the west could not really create a prosperous, democratic society out of an Islamic one which further confirmed the suspicions of Islamic clerics that the west was only there to destroy an Islamic society without any ability to create a functional society with a muslim population as the west claimed it was there for.
 

@@ -6,7 +6,7 @@ LastMod: 2022-04-18
 type: g
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 For a long time I have been a proponent Copyleft licenses like the GPLv3 over Cuck Licenses like the BSD and or MIT licenses. However the situation with the Pale Moon web browser has shown how Copyleft licenses can be misused to [shut down](https://old.reddit.com/r/palemoon/comments/pexate/pale_moon_developers_abuse_mozilla_public_license/) [projects](https://github.com/jasperla/openbsd-wip/issues/86) [on technicalities](https://old.reddit.com/r/palemoon/comments/qdic88/male_poon_dmca_takedown/), and though they often aren't misused the fact that they can be acts as an incentive not to fork a project and start your own.
 

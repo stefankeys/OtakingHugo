@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 _Kenshin_ is a shounen samurai manga. I had mixed expectations when going into it. On the one hand I had heard very many praises about it and on the other hand I had seen the first few episodes a few years ago and I found it extremely boring. Still, I couldn’t ignore the enthusiasm for Kenshin shown by weebs older than me, so I decided to read the manga as that takes less time than watching anime.
 

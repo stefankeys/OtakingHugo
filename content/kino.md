@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 ![img](http://upload.wikimedia.org/wikipedia/en/7/70/Kino_and_Hermes.jpg)
 

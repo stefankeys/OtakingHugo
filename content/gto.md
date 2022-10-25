@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 ![img](https://steemitimages.com/DQmPx6XU7DmWP8AFbqBpp6d7zBzZqg3ewD113vcMGZhhXtJ/image.png)
 **The Anime**

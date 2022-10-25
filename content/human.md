@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 There wasn’t much left to do. The plan was already set in motion and soon humanity would be no more. The losers of history, of the twentieth century in particular, had gathered for one final time to celebrate the end of history. The sat around a large round table trying to look sombre and not to giggle like young girls but not all of them were there. Knowing that the end they wished for would soon be granted General-Secretariat Lukashenko of the Soviet Union and General Visigoth of the SS were in Hitler’s bunker waiting for the end.
 

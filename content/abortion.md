@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 I have been reluctantly in favour of abortion for a long time, and after watching this video my opinion has remained unchanged. It is a form of murder but looking at the social consequences banning abortion has it is a socially permissible form of murder. I believe the social consequences of banning abortion in Romania are enough of a justification for this.
 

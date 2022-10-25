@@ -6,7 +6,7 @@ LastMod:
 type: lit
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 This is a biography of one of the founding father’s of America Thomas Paine by a journalist called Christopher Hitchens. To be more precise this is more of a biography of his works rather than a retelling of Paine’s life. Only those events relevant to the texts by Paine and other contemporaries(such as Edmund Burke) and some non-contemporaries are discussed. I have not read any of Mr. Paine’s works so this has served me as an introduction to his works. All that I know about Paine comes from this book, so the character I will discuss here is Christopher Hitchens’ Thomas Paine. Paine the emissary, the republican, the revolutionary, the committee member, the deist and opposer to organized religion. I have to confess to have lost the plot once as it is easy to get lost in history when one is met with references to events and people that one is not aware of. Overall it felt like reading a long article whose climax was somewhere in the latter half but even that is better than a forced climax.
 

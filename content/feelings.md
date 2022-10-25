@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Where does the concept of rights come from? It comes from the medieval concept of the divine rights of kings. The divine rights of kings claimed that a king (or queen) is pre-selected prior to their birth to be the king or queen by God. Of course in modern times we dismiss this as some nonsense used to justify one group being more powerful than another group. In that case, can we not also dismiss modern human rights as a moral justification for one group having more power than another?
 

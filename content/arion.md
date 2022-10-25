@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Arion is an old anime movie roughly based on Greek mythology, I haven’t seen that many with that sort of setting which I guess makes it unique in that respect, the only other show similar to this is Reign: The Conqueror which is about Alexander the great, although that is not exactly about Greek mythology it has certain aspects of it. Arion is an action show with a romance sub-plot, although it takes around half of the movie for the romance sub-plot to become the main plot where the hero, Arion has to go to save Lesphena, his half-sister(?) from Apollo and Zeus.
 

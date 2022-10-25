@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 “Watamote” is an abbreviation for “Watashi ga Motenai no wa dō Kangaetemo Omaera ga Warui!” which literally means- _No matter how I look at it, it’s you guys fault that I am not popular_
 

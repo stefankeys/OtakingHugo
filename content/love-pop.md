@@ -6,7 +6,7 @@ LastMod:
 type: jp
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Love & Pop is a live action directed by Hideaki Anno after directing Neon Genesis Evangelion so it has the same psychological monologues. The protypeonist this time is a high school girl, Hiromi, and there are sadly no mechs. If you liked the live action scenes at the end of _The End of Evangelion_ you will probably like this film too as I did. Score: 7/10.
 

@@ -6,7 +6,7 @@ LastMod: 2020-05-17
 type: g
 ---
 
-[Back to catalog](https://otaking.xyz/index.html)
+[Back to catalog](/)
 
 - [Linux Mint MATE](https://linuxmint.com/): An Open Source Operating System easy to use for people used to windows. If
 

@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Right-wingers who thought Trump would win should reflect on whether it was wise to put their faith in the Proles and the Elite who have failed them totally except once barely in 2016. Excuses about demographic changes are pointless, the truth remains that the Proles simply allowed this change to happen because they listened to the Academy.
 

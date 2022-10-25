@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Most political cartoons in newspapers are left-wing and most and most memes on the internet, at any rate political memes are right-wing.
 

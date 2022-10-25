@@ -6,7 +6,7 @@ LastMod:
 type: tg
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 There was an anime series back in the 90s based on a DnD compaign by the creator of Sword World (the most popular Japanese table-talk rpg – table-top rpgs are known as table-talk rpgs in Japan). That series is Lodoss. The creator of Sword World was inspired to create his rpg after reading a ‘replay’ which is a stypee-play script style publishing of the session transcript with minimal edits and some anime-style art, all in the form of a light-novel sized book. The Record of Loddoss OVA is based on a replay of a campaign by the creator of Sword World himself.
 

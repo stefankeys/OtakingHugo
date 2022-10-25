@@ -6,7 +6,7 @@ LastMod:
 type: lit
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Fiction which seeks to be anti-escapist is hypocritical because fiction is inherently escapist. It doesn’t really matter that it is hypocritical **if** it serves its purpose of the directing the viewer to take action rather than remaining a passive observer.
 

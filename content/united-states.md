@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 But what about Chaina? Remember Machiavelli and his desire to unite small independent Italian states into the bureaucratic nightmare that is the Italian republic today in order defend against endless French and Austrian aggression? The evil empire that is Germany was also formed due to French aggression and in turn the Evil Empire that is the European Union was formed due to German aggression. A Switzerland style decentralised Canton democracy may be preferable given that as you say nobody cares about the US constitution including the supreme court. I don’t have any frens to talk about the Orderly Dissolution of the United States into Its Component Parts so I will blog about it.
 

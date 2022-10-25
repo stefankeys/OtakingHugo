@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 > If all humans were saints and sages, all truths would be laid bare, and every great cause, justification, means, ideal, and lie… would likely become unnecessary. But I wonder if that day will ever come. All we can do is improve ourselves, little by little.”
 >

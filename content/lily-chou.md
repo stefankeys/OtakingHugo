@@ -6,7 +6,7 @@ LastMod:
 type: jp
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 _All About Lily Chou Chou_ is one of those cases where the production of the film is much more interesting than the film itself.
 

@@ -6,7 +6,7 @@ LastMod:
 type: tg
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 I set up camp by the river under the moonlight but no sooner had I laid down I heard some rustling in the trees and the sound of heavy footsteps. I quickly grabbed my sword and prepared for combat. A hulking, grotesque, red-eyed humanoid creature soon appeared from the woods in front of me. It did not look surprised and it immediately punched me taking away 2HP. I immediately retaliated and took out 3HP with my sword. It tried to pummel me again but it missed and I finished it off by passing my long sword dealing 6HP of damage. Thereafter I simply fell asleep from exhaustion next to the corpse of my downed foe. In the morning afterwards I was woken up by the bad smell of the dead orc next to me. I recovered 1HP in my rest and was back to 7HP. I had gained 25XP from this battle.
 
@@ -38,6 +38,6 @@ Reaction roll: 2d6 for 7. Unfavourable. The elf on the hand didn’t seemed too 
 
 I headed towards the board and ignored the annoyed look of the elf beside me. First of all I needed something quick and easy. I had sustained last night and a few minutes ago and it still hurt. +10Xp to a total of 35XP.
 
-------
+---
 
-*The above solo RPG session was written with the help of the Basic Fantasy Role-Playing Game. A free and open source Dungeons & Dragons retro-clone from the Old School Renaissance movement. Unfortunately I have never actually played any table-top rpg as I don’t have any friends to play with. Because of this I have made a lot of mistakes while doing this solo RPG session using my surface level understanding of the BFRPG core book.*
+_The above solo RPG session was written with the help of the Basic Fantasy Role-Playing Game. A free and open source Dungeons & Dragons retro-clone from the Old School Renaissance movement. Unfortunately I have never actually played any table-top rpg as I don’t have any friends to play with. Because of this I have made a lot of mistakes while doing this solo RPG session using my surface level understanding of the BFRPG core book._

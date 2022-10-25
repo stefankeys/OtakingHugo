@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 I would say that a fairly conventional list of the minimum requirements to be a man presented to boys would consist of the following:
 

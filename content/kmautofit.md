@@ -6,7 +6,7 @@ LastMod: 2020-02-23
 type: g
 ---
 
-[Back to catalog](https://otaking.xyz/index.html)
+[Back to catalog](/)
 
 ## THIS SCRIPT NO LONGER WORKS BECAUSE KISSMANGA WAS TAKEN DOWN BY COPYRIGHT VULTURES
 

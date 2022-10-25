@@ -68,4 +68,4 @@ By Otaking, or [The Good Student](https://www.youtube.com/channel/UCA4gWcOoz_FXr
 
 [LEAVE A COMMENT HERE.](http://otaking.bbs.fc2.com/)
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)

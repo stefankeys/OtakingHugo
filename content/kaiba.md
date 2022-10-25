@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 A mostly episodic series with childish cartoonish artstyle to depict often violent and occasionally sexual scenes for shock effect. Acts of random cruelty are often displayed as misery porn. The childish artstyle is often taken as a sign of maturity and depth.
 

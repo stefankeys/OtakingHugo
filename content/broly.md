@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 The old Dragon Ball Z movie is too fast paced but it gets a few things right that the Super movie does not. First of all it has blood in it and there is a genuine sense of danger with Vegeta being genuinely afraid of going against the Legendary Super Saiyan and they are only able to defeat Broly. Broly’s father too has a few moments too shine despite his evilness. The same goes for Broly himself who has been turned from an interesting fearful villain who regards his enemies as villains whereas the new Broly is a dumb goody-two-shoes with anger issues and a speech impediment. It’s like Toriyama can’t write an interesting evil character since the Cell saga.
 

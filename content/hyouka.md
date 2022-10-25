@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 _"Are you an anti-social person, with a rosy but otherwise boring life? Someone who deep inside feels you are charismatic and people of the opposite sex should be very interested in you, even if you act like an uncaring person that would normally make everybody to be fed up with you? Then Hyouka is the show for you!"_ – [@thatanimesnob](https://steemit.com/@thatanimesnob)
 

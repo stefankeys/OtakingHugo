@@ -6,7 +6,7 @@ LastMod:
 type: lit
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Rating: 7/10. Mother of Learning is probably the most popular English language web novel. Wildbow’s Worm web novel may or may not be more popular. MoL is still the number one best-rated novel on Royal Road despite no new chapters being released for more than a year now.
 

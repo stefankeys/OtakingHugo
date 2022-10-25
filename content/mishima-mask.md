@@ -6,7 +6,7 @@ LastMod:
 type: lit
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 I am rewiriting my review of _Confessions_ because the first time I wrote it I did it under the impression that it was autobiographical but in actuality this is a novel which may or may not be semiautobiographical depending on who you ask..
 

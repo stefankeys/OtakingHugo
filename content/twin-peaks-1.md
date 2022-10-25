@@ -6,7 +6,7 @@ LastMod:
 type: tv
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 I had heard Twin Peaks had a lot of influence on television series but having watched the first season of Twin Peaks I was not as impressed as I had hoped I would be. It wasn’t bad but I am not sure I would have spent 8 hours watching it if it wasn’t for its reputation.
 
@@ -48,4 +48,4 @@ By Otaking, or [The Good Student](https://www.youtube.com/channel/UCA4gWcOoz_FXr
 
 [LEAVE A COMMENT HERE.](http://otaking.bbs.fc2.com/)
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)

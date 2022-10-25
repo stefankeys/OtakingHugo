@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Tatami Galaxy is an anime redeemed by its ending. The ending is cathartic because there is no time reset- only parallel universes that the protypeonist has no access to. There is nothing deep about the message of the show and in the end it left me wondering if so many episodes were necessary to tell such a simple message? Also even though refreshingly there is no time reset, there is the sudden change in the protypeonist (who is only referred to as ‘I’) that amounts to a character rewrite. The only other series that was redeemed by its ending in this manner that I can think of is Code Geass R2 but that too is going to be undone with a sequel.
 

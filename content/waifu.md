@@ -6,7 +6,7 @@ LastMod:
 type: jp
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 # Makise Kurisu: Red-Headed Tsundere Scientist Waifu
 

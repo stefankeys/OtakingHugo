@@ -6,7 +6,7 @@ LastMod:
 type: tg
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 There were six gnolls – two smaller females and four males. The gnolls set aflame to the corpses of the orcs. The gnolls did not go into the cave even when nothing was left of the orcs except ashes, there were no embers left.
 

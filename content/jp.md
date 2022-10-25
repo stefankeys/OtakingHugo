@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to catalog](https://otaking.xyz/index.html)
+[Back to catalog](/)
 
 ## Common Japanese Words in Anime
 

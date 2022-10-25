@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 I have been wondering why although I share an enemy with traditionalists I still feel a disdain for them from back when I was a lefty. The traditionalists are stoics and when I think of stoicism what comes to mind are those bored, disappointed, miserable looking faces of the statues of Marcus Aurelius that make the visages of Jesus in pain nailed onto a cross look happy and manly by contrast. Stoics can be romantic in their quest for order but this is only true because their quest for order has thus far being unattainable.
 

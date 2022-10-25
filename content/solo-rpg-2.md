@@ -6,7 +6,7 @@ LastMod:
 type: tg
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 There were many bits of paper nailed on the notice board. Requests to kill monsters by farmers and to rescue kidnapped family members and so on. Nothing special. I was looking for something easy and quick when a quest for three random adventurers caught my attention. All the notes were written in the same neat feminine handwriting so I guessed the same person wrote them all. The task was to clear an orc lair that had been bothering the farmers around the town. The quest giver was Bartholomew, the mayor, not that I cared but the reward (rolled 1d10 for 70) of 14 platinum pieces for each adventurer was certainly enticing. There had to be some catch but I figured as long as I was with two other adventurers I would only have to outrun them if things go bad. With 70 gold pieces I won’t have to worry about my food rations running out for a while.
 

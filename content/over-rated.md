@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 This is a list of overrated anime by people who should know better. I am not going to include any low-hanging fruit like JoJo’s Bizarre Adventures, Sword Art Online, or Cowboy Bebop (in the main list anyway).
 

@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 @Brobotnick Anything for the lulz. The reason for captcha is because anons would write bots to cover whole boards in CP and get the feds to ban their own mongolian cartoon basketweaving board.
 

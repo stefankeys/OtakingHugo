@@ -6,7 +6,7 @@ LastMod:
 type: tv
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Most of you are aware of LOTR’s story by Tolkien and Peter Jackson’s film adaptation of it so I will not waste your time and mine with some half-assed retelling of it. Apart from Tolkien’s popular with nerds the reason these films got so popular is the CGI (Computer Generated Imagery) which back then was great but now sometimes looks pretty fake because my eyes have gotten used to better special effects in newer films.
 

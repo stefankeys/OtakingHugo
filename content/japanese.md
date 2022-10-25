@@ -6,7 +6,7 @@ LastMod:
 type: jp
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 The main reason to learn Japanese is to remove the filter of localisation from anime, manga and most of all light novels given that they are more text than pictures.
 

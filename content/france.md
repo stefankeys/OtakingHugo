@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 France is dead. Who can say ‘Vive la France’ today? With 8% of the population of France being Muslims and rising you can forget all about freedom, equality and fraternity. Many others have discussed the issue so I will leave it at that.
 

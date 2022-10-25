@@ -6,7 +6,7 @@ LastMod:
 type: lit
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 ![img](https://steemitimages.com/640x0/https://contents.oricon.co.jp/upimg/news/20080626/55783_200806260331087001214437039c.jpg)
 

@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Nietzche’s New Year Resolution for 1882 from _The Gay Science_:
 
@@ -94,4 +94,4 @@ By Otaking, or [The Good Student](https://www.youtube.com/channel/UCA4gWcOoz_FXr
 
 [LEAVE A COMMENT HERE.](http://otaking.bbs.fc2.com/)
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)

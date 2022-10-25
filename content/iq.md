@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Intelligence is overrated this is why nonsensical terms such as ‘Emotional Intelligence/IQ’ have been injected into the English language when perfectly fine terms such ‘empathy’ and ‘social skills’ are available. Everybody needs to be intelligent because intelligence is clearly identified as a certificate for status but if everybody is intelligent in their own way then term ‘intelligence’ ceases to bear any meaning whatsoever or it would if people actually believed in ‘everybody is intelligent’ piffle which even those who pay lip service to don’t.
 

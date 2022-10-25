@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Anime is becoming more and more boring as it gets more mainstream. To save anime we need people with taste to be the leaders of our community. There is no point in saying that we don’t want their to be leaders and followers because a natural aristocracy or hierarchy will always form by itself in any community of more than one. Even Robinson Crusoe had a slave – and though he would not be called as such today it would be the very same.
 

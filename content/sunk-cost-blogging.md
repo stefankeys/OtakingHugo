@@ -6,7 +6,7 @@ LastMod:
 type: lit
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 It has been a while since I have written anything, well I have written some stuff but mostly on my pen and paper personal diary, what I really mean is that I haven't blogged much. I thought it would be enough to just make youtube vlogs but then whenever I got some pen and paper into my hands I couldn't resist to start writing. I am not saying I am a good writer or a bad writer or even that I like to write but it just feels wrong not to.
 

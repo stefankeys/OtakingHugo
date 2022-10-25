@@ -6,7 +6,7 @@ LastMod:
 type: b
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 There weren’t many other people at the dock with me. John was a carpenter and Addler was a tourist from Alfonisia. By twelve O’Clock we had all boarded the ferry. There was a short of announcement welcoming us aboard which were recorded, that much was obvious by the cheery tone of the voice. One of the lifts, the one nearest to where I parked my car, was broken, and so I had to climb up the stairs. It was an old ferry, not decrepit but not new either, everything looked worn out – the carpets, the chairs etc… there weren’t any crew members on sight, and the advertising and PR all seemed out of date by ten years, back during the boom days. At any rate we sailed off the coast of Rostansia without a hitch as expected. I suppose this is where narratively speaking I should be meeting some interesting character but no such thing happened and the journey came to an end in just as an unmemorable a way as it began. It was a boring and sterile journey but at least it was always punctual, or at least the times I have done it. Without any delay I drove down the main motorway. I am too absent minded to drive so I let the car drive itself.
 

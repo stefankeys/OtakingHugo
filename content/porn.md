@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Okay maybe some women are but if I had said “Young Men” then I would have been laughed at and ignored. If I can get a hearing a from an hostile audience then I will take that over not being heard at all. I know I will not be listened to but if I sufficiently anger someone then when he is calmer he try to come up with a bad retort and if the memory of me getting a rise out of him is far enough he might even have the mental fortitude to consider I may have been onto something.
 

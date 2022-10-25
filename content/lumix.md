@@ -6,7 +6,7 @@ LastMod:
 type: b
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Yesterday I bought a second hand digital point and shoot camera, the Lumix TZ5, an old nine mega-pixel camera. I didn't buy it because of this film but it was slightly serendipitous that I did. There was no instruction manual and even if there was I wouldn't have read it but thankfully there are some reviews on YouTube that explained the basics on how use it. In short just keep on the "iA" mode on the dial on top so that the software will take some decent shots for you. The selling point of this Lumix camera, as it proudly says on the front casing is that it has 10x zoom capability. The selling point for me was the nostalgia faggotry, as usual. There's a 16.25x zoom if you click the E.Zoom button the top right, immediately on the left is the button to take a photo inside the zoom level adjuster, if that sounds unclear , well I am only including that bit of info because it took me watching a couple of youtube reviews of the camera to figure out how to use the zoom capability.
 

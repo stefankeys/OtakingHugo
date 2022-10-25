@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 I am starting to hate the word ‘community’ as much as the word ‘consensus’ for two reasons. First it disregards whether something is actually right or wrong when appeals are being made to what the community ‘thinks’ about a certain subject usually determined by asking self-appointed and screened community ‘leaders’ and secondly because it simultaneously creates a false sense of bond and division between people tribalising them into groups (i.e. the Muslim community, the Black community) replacing the bonds between individuals with those between groups as if groups were individuals. The funny thing is that it is often employed in an attempt to show that we are not divided in the face of one attack on another by citing the solidarity between groups but if there was so much solidarity as the media claims there is why are there distinct groups in the first place?
 

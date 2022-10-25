@@ -6,7 +6,7 @@ LastMod:
 type: jp
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Gekkou means “moonlight” in Japanese(or at least that’s what my JED dictionary tells me on my android phone). It’s a one volume light novel(which means that it is a novella aimed at young people with a few illustrations in it like the one above). I think it falls into the Mystery and Romance genres.
 

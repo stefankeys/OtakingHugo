@@ -6,11 +6,11 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 This is a YouTube comment exchange I had with a socialist in the YouTube comments of a bad video I won't link. The black coloured text is what I said and the red coloured text are his responses. Sometimes it is nice to talk to a socialist, to remind myself that I am not one despite the innumerable issues I have with "capitalism."
 
-------
+---
 
 Good luck having any rights without property rights.
 
@@ -82,7 +82,7 @@ Exactly! Now you get it! In order to have freedom in the workplace private prope
 No, I still don't get why you can't have voluntary worker coops and private property. Why do you want to force this on everyone and call it freedom? Why not let people have a choice whether to work in private company or set up and work in a worker coop? Isn't that more free?
 
 Because private property isn't voluntary.
-Why would anyone choose to be in a work environment at which they have zero control over? Why would someone willingly choose to be at the complete whim of an owner who  is an asshole and could fire them at anytime for any reason? Why would someone willingly put themselves in a situation where they couldn't have actual power over their wage?
+Why would anyone choose to be in a work environment at which they have zero control over? Why would someone willingly choose to be at the complete whim of an owner who is an asshole and could fire them at anytime for any reason? Why would someone willingly put themselves in a situation where they couldn't have actual power over their wage?
 No sane person would work in these conditions, and in a democratic society these conditions wouldn't exist in the first place.
 
 Private property is voluntary. People are free to set up those worker coops but they would rather work for private institutions. So you ask why would anyone choose to work as an employee? If the business you work for fails, as an employee then all you have lost is your job whereas if you pour your own resources into a coop and it fails you would have lost the resources you have invested into the coop (and your job) because in a coop you are a part owner of the business but you're not totally in charge of it either. It's like the worst of both worlds of either owning a business or being an employee. You won't get to set your own rules because you're only a part owner of the business but if the enterprise fails you will also lose your stake in it as a part owner.
@@ -94,10 +94,8 @@ I actually answered your question about why someone would choose to be an employ
 
 Even if your basic rights are provided, you still carry the risk of losing the initial investment you made into the business without actually being totally in charge of how that investment is used. Once you have lost that investment you cannot really try setting up the business again until you have saved the resources to try again, so you are not really free to try and fail as many times you want as you would have to wait to save the funds or go into debt to try again - and then again you wouldn't even be in control of those savings you scraped off. Also even if your basic needs are provided, your cost of living would have to be covered by your labour but if you fail then that means your living costs will have to be covered by others, so the costs of your failure are also likely to affect others who have to provide for you until you stop failing, how long will others be able to cover your living costs? Remember that most new business ventures are failures, so you and many others like you would put a considerable strain on the system, so would net payers into the system really allow you to fail as much as you need to or would they rather push you as quickly as possible into some kind of work that at least pays for your living expenses (whether you like that work or not) given that they are paying your living expenses?
 
-------
+---
 
 By Otaking, or [The Good Student](https://www.youtube.com/channel/UCA4gWcOoz_FXrtTEemTOtfw?view_as=subscriber/videos)
 
 [LEAVE A COMMENT HERE.](http://otaking.bbs.fc2.com/)
-
- 

@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 > What exactly would change if I wanted revenge, was consumed by hatred, or went insane with rage?”
 >

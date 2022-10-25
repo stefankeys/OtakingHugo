@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 I think that those who advocate for censorship ought to be given a taste of their own medicine and be censored into oblivion until they squirm and beg for freedom of speech. I am afraid unless this is done they will never be able to grasp such a simple point.
 

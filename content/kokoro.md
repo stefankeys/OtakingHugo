@@ -6,7 +6,7 @@ LastMod:
 type: lit
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 ![img](https://steemitimages.com/640x0/https://japankaleidoskop.files.wordpress.com/2014/08/kokoro.jpg)
 

@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 The late Satoshi Kon is one of Japan’s finest animation directors. _Paprika, Perfect Blue_ and _Tokyo Godfathers_ are some of his best known works. _Paranoia Agent_ is Kon’s only Anime TV series and I have to say that it’s one of the finest psychological thrillers I have watched in recent times. If you liked shows like Neon Genesis Evangelion, Ergo Proxy and Serial Experiments Lain then you will probably like this too.\*\*
 \*\*

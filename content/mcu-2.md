@@ -6,11 +6,11 @@ LastMod:
 type: tv
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 You know how like Ayn Rand became the philosophical defender of Capitalism, trying to confer dignity onto what was seen in many other philosophies as soulless greed, at best a necessary evil? Well, the author of [this book](https://www.amazon.com/gp/product/B08R3MRKMT) does the same thing but for Pop Culture rather than capitalism. Then again defending pop culture, like the Marvel Cinemantic Universe, is in a way defending Capitalism both from the left and the reactionary right.
 
-After all if you asked the average reactionary about what he thought of the Marvel Cinematic Universe, he would say that it is "bug man" consumerism for the mass man borne of mass culture who heart can only "consume product, and get excited for next product" mindlessly. 
+After all if you asked the average reactionary about what he thought of the Marvel Cinematic Universe, he would say that it is "bug man" consumerism for the mass man borne of mass culture who heart can only "consume product, and get excited for next product" mindlessly.
 
 The author of this book does a great job at going over the influences and thought put into the MCU revealing it not to be totally mindless after all.
 
@@ -33,5 +33,3 @@ Amazon Rating: 5/5
 By Otaking, or [The Good Student](https://www.youtube.com/channel/UCA4gWcOoz_FXrtTEemTOtfw?view_as=subscriber/videos)
 
 [LEAVE A COMMENT HERE.](http://otaking.bbs.fc2.com/)
-
- 

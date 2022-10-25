@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Oyasumi Punpun is a manga of the Seinen(1) genre by Inio Asano. The first thing that you will notice when you start reading this manga is that the male protypeonist Punpun is drawn as a penguin-like bird. The lack of a human face in the protypeonist may have been done to facilitate the reader’s immersion into the story by making the readers identify with the protypeonist’s experiences even if they may have not gone through the same things. The main character aside everything is drawn very realisticially, especially the backgrounds.
 

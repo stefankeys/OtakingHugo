@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Lukesmith.xyz has convinced me to stop watching the news, including "based news sources." It's not as if he said anything I didn't know already but I was ignoring it and so it was a good reminder of these points. Of course this means I'll stop watching Luke Smith's youtube channel too because since he has already found his perfect linux set up most of his new videos and live streams in particular are just political and social commentary.
 

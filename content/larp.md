@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 It has been a long day, the convo I recorded with Thoughtypeent was alright though it seems we are both gonna be busier from now on. We talked about how Eva 3+1 is trash and it _is_. Given that I do most of my topical stuff on my YouTube channel, I guess I will reserve this site to go full stream of consciousness. Essentially nothing more than venting, I have heard that this is what people used to use LiveJournal for once upon a time. So although topical posts are better I just don't have a single topic to talk about at length.
 

@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 As Orwell praised the virtues of working-class men and the lack of any excess fat in the buttocks of sturdy miners Orwell could see what H.G Wells could not. He could see that we are headed to a world of little fat men – not one of great men.
 

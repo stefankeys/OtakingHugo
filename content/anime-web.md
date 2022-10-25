@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 You are right [Luke Smith] when I didn’t have the internet I actually watched a lot more anime but now that I have the internet I am paralyzed by choice and I end up wasting my time watching “content creators” larping on youtube rather than watching anime.
 

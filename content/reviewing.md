@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 “He is a man of thirty-five, but looks fifty. He is bald, has varicose veins and wears spectacles, or would wear them if his only pair were not chronically lost. If things are normal with him he will be suffering from malnutrition, but if he has recently had a lucky streak he will be suffering from a hangover. At present it is half past eleven in the morning, and according to his schedule he should have started work two hours ago; but even if he had made any serious effort to start he would have been frustrated by the almost continuous ringing of the telephone bell, the yells of the baby, the rattle of an electric drill out in the street, and the heavy boots of his creditors clumping up and down the stairs. The most recent interruption was the arrival of the second post, which brought him two circulars and an income-tax demand printed in red.” – Confessions of a Book Reviewer, George Orwell
 

@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Let me posit to you an extreme thought experiment. If all the women in Britain were to become infertile and if a massive adoption of babies from other parts of the world were to occur and eventually the entire population of Britain were to be replaced by people with different genes and races but with values and culture and mannerism identical to those of British people before the mass infertility, then would Britain still be British?
 

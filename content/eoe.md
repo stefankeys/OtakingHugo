@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Sometimes I wonder ‘Would it have been better if the Americans and the Russians had blown us all to kingdom come, or not come, as the case may be?’
 

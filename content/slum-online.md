@@ -6,7 +6,7 @@ LastMod:
 type: jp
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 ![img](https://steemitimages.com/640x0/https://englishlightnovels.files.wordpress.com/2014/08/slum-online.jpg?w=470&h=238)
 

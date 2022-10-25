@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Sometimes I wish the west was a bit more arrogant like Mr. Xi is rather than constantly apologizing for its achievements but then I come across specimens of pig headed nationalism not just from China but from Japan too and I am no longer sure if I want that sort of thing here.
 

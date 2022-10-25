@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to catalog](https://otaking.xyz/index.html)
+[Back to catalog](/)
 
 Just a list of anime songs/music I like so I that I don't forget it. I won't bother adding any links or embedding any music because it constantly gets deleted and re-uploaded so there is no point. In no particular order here is some music from anime I listen to sometimes mostly while taking a walk or typing right now:
 

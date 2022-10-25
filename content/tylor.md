@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Can’t you see, this is all part of Tylor’s plan? – Captain Don, The Irresponsible Captain Tylor, episode 23.
 

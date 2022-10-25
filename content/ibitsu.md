@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 A seinen ecchi psychological manga about bdsm that delivers on its ecchi but lacks any message and is finally ruined by its rushed ending.
 

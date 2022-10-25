@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Antitrust is cancer but copyright is even more cancerous – antitrust laws exist because copyright and “intellectual” rights exist – cancer begets cancer. Chrom(ium) is open source so it is fine. Google should be forced to open source all of its other products though. Open source software is the most competitive. All games must be forced to be open sourced too.
 

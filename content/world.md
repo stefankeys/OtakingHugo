@@ -6,7 +6,7 @@ LastMod:
 type: tg
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 This is just a fictional setting for my Original Characters. I am not predicting any of this will happen. I just think it would be interesting drama if it did.
 

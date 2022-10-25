@@ -6,7 +6,7 @@ LastMod:
 type: lit
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Persepolis is the autobiographical story of an Iranian girl living through the revolution, the counter-revolution and the war with Iraq and then about her experiences in the west. The film is an animated adaptation of the graphic novel. I haven’t read the graphic novel so I can’t compare it to the film. There are many memoirs like this, of young brave women escaping the despotism of their home countries and then finding it hard to adapt to their new host countries, but not many of them are animated.
 This film is originally in French but the English dubbed voices did a pretty good job and there were only a few inevitable immersion breaking moments where it was obvious that the language that they should be speaking in should not be English (Then again I doubt they should have spoken in French in Iran either). But these are minor concerns given that the characters in this story are cartoons. The film never tries to make you forget that they are cartoons and this works for the dark comedy that it uses. The art style is simple, perhaps a little bit too simple to someone like me who is accustomed to more detailed Japanese animation, but this story wasted no time trying to impress me with pretty colours. The animated medium of this show also helps it cram a lot of varying events in a short amount of time. For example those scenes in which the little girl talks with God in her dreams would have been too serious or strange or artificial in film. The very artificial nature of animation gives this film its genuine-ness or perhaps its the other way around the genuine-ness of the story can fully make itself shown through the animated medium.

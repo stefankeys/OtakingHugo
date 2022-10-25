@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 @MrAJEO As for Japan as long as they keep foreigners out there will come a point when people will have to have children to look after them when they are old. That point has not being reached yet. When the huge ever-expanding pension system in Japan collapses things will change.
 
@@ -32,6 +32,6 @@ The past is another country although there is some continuity between you and yo
 
 Not in the west though cause we keep on kicking the can back through immigration but even in the third world birth rates are going down and the hysterical predictions of overpopulation won’t come through. Personally I hope that superior Artificial Intelligence replaces us after I am dead ofc.
 
-------
+---
 
-*This is a youtube comment I made originally as a reply to someone saying that the purpose of women is to be bred only to receive low IQ interjections by NPC. I hope this reply of mine served as a good rebuttal to him but I get the feeling that YouTube is shadowbanning my comments so I am not so sure anymore tbh.*
+_This is a youtube comment I made originally as a reply to someone saying that the purpose of women is to be bred only to receive low IQ interjections by NPC. I hope this reply of mine served as a good rebuttal to him but I get the feeling that YouTube is shadowbanning my comments so I am not so sure anymore tbh._

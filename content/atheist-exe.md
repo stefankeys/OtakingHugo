@@ -6,7 +6,7 @@ LastMod:
 type: pol
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 To put it bluntly if there were an omnipotent God then I think He should burn forever in eternal hellfire in deepest depths of hell.
 

@@ -6,7 +6,7 @@ LastMod: 2020-06-11
 type: g
 ---
 
-[Back to catalog](https://otaking.xyz/index.html)
+[Back to catalog](/)
 
 Useful Vim editor stuff and some linux mint mate command line stuff to copy and paste. The main purpose for this just as with everything else on this site is for my own benefit and reference so that in case I lose my setup or forget stuff then I can set this to set it up again somewhat. All of the stuff here I just got it from different parts of the internet and the documentation in programs and I have collected it for my benefit so I am not going to bother with bloating this page with sources. I am a n00b so remember that there are better/different ways to do stuff than I do here but this is just what worked for me desu desu desu desu desu desu.
 

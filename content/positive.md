@@ -6,7 +6,7 @@ LastMod:
 type: r9k
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 I have come to the conclusion that reason does not lead to happiness but to despair. Reason is just a tool to facilitate life so when it stops accomplishing its task stop using it and just be happy for no reason. You cannot judge the value of life through reason so all judgements of life are just a projection of yourself only not life in general.
 

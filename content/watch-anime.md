@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Why do people do anything that they don’t need to do? Because it makes them happy and I suppose anime makes me happy. Different anime make me feel different things but I suppose that what I am seeking for through all of them (even through sadness) is pleasure. All of this is self-evident but I wrote it down just to be thorough. That said how does anime make me happy? Through:
 

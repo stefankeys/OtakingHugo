@@ -6,7 +6,7 @@ LastMod:
 type: a
 ---
 
-[Back to Catalog](https://otaking.xyz/index.html)
+[Back to Catalog](/)
 
 Subaru and the girls around him are also all insufferable except maybe the blue topped vegetable.
 
