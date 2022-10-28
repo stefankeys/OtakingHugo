@@ -85,7 +85,7 @@
         <div class="previous-post">
           {{ if .PrevPage }}
           <a class="link-reverse" href="{{ .PrevPage.Permalink }}?ref=footer"
-            >«{{ .PrevPage.Title | truncate 30 "..."}}
+            >« {{ .PrevPage.Title | truncate 30 "..."}}
           </a>
           {{ end }}
         </div>
@@ -106,7 +106,7 @@
       </style>
     </div>
     <footer>
-      <br /><br />Published: {{.Date | time.Format ":date_full"}}.
+      <br /><br />Published: {{.Date | time.Format "Monday, Jan 2, 2006" }}.
     </footer>
     {{ partial "search-index.html" . }}
   </body>
