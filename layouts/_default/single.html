@@ -81,7 +81,7 @@
       {{.Content}}
       <br />
     </div>
-    <footer>Published: {{.Date | time.Format ":date_long"}}.</footer>
+    <footer>Published: {{.Date | time.Format ":date_full"}}.</footer>
     {{ partial "search-index.html" . }}
   </body>
 </html>
