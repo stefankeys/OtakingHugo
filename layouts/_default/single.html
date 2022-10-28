@@ -80,8 +80,34 @@
     <div class="content">
       {{.Content}}
       <br />
+
+      <div class="nextps">
+        <div class="previous-post">
+          {{ if .PrevPage }}
+          <a class="link-reverse" href="{{ .PrevPage.Permalink }}?ref=footer"
+            >«{{ .PrevPage.Title | truncate 30 "..."}}
+          </a>
+          {{ end }}
+        </div>
+        <!---->
+        <div class="next-post">
+          {{ if .NextPage }}
+          <a class="link-reverse" href="{{ .NextPage.Permalink }}?ref=footer">
+            {{ .NextPage.Title | truncate 30 "..." }} »</a
+          >
+          {{ end }}
+        </div>
+      </div>
+      <style>
+        .nextps {
+          display: flex;
+          justify-content: space-between;
+        }
+      </style>
     </div>
-    <footer>Published: {{.Date | time.Format ":date_full"}}.</footer>
+    <footer>
+      <br /><br />Published: {{.Date | time.Format ":date_full"}}.
+    </footer>
     {{ partial "search-index.html" . }}
   </body>
 </html>
