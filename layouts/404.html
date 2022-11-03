@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width,
+      initial-scale=1.0"
+    />
+    <link href="/images/favicon.ico" rel="icon" type="image/x-icon" />
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="Subscribe to
+      What's New"
+      href="feed.xml"
+    />
+    <title>{{.Title}}</title>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      media="all"
+      href="/styles/style.css"
+    />
+    <link rel="stylesheet" href="/styles/mailchimp.css" />
+    <style>
+      img[alt$=">"] {
+        float: right;
+      }
+
+      img[alt$="<"] {
+        float: left;
+      }
+
+      img[alt$="><"] {
+        display: block;
+        max-width: 100%;
+        height: auto;
+        margin: auto;
+        float: none !important;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="heading">
+      <div id="tswcontproper">
+        <div class="search-box">
+          <!-- start of content column: insert your content here -->
+          {{partial "search.html"}}
+          <!---->
+
+          [<a href="/#log">What's New?</a>] [<a
+            href="/#a"
+            title="anime &amp; manga"
+            >a</a
+          >
+          / <a href="/#g" title="technology">g</a> /
+          <a href="/#tg" title="tabletop rpg">tg</a> /
+          <a href="/#r9k" title="personal">r9k</a> /
+          <a href="/#b" title="Other">b</a> /
+          <a href="/#pol" title="Politics">pol</a> /
+          <a href="/#lit" title="Non-Anime Books">lit</a> /
+          <a href="/#tv" title="Non-Japanese TV and Film">tv</a> /
+
+          <a
+            href="#jp"
+            title="desu desu desu desu desu desu desu
+             desu desu desu"
+            >jp</a
+          >
+          ] [<a href="https://patreon.com/denpa">Donate to Patreon</a>] [<a
+            href="/about"
+            >About</a
+          >] [<a href="/feed.xml" title="Non-Japanese TV and Film">RSS Feed</a>
+          ]
+        </div>
+      </div>
+      <h1>{{.Title}}</h1>
+      <p>{{.Param "sub_title"}}<br /></p>
+    </div>
+    <div class="content">
+      <h1>Object not found!</h1>
+      <p>The requested URL was not found on this server. If you entered the URL manually please check your spelling and try again.</p>
+      <h2>Error 404</h2>
+      <br />
+
+      <div class="nextps">
+        <div class="previous-post">
+          {{ if .PrevPage }}
+          <a class="link-reverse" href="{{ .PrevPage.Permalink }}?ref=footer"
+            >« {{ .PrevPage.Title | truncate 30 "..."}}
+          </a>
+          {{ end }}
+        </div>
+        <!---->
+        <div class="next-post">
+          {{ if .NextPage }}
+          <a class="link-reverse" href="{{ .NextPage.Permalink }}?ref=footer">
+            {{ .NextPage.Title | truncate 30 "..." }} »</a
+          >
+          {{ end }}
+        </div>
+      </div>
+      <style>
+        .nextps {
+          display: flex;
+          justify-content: space-between;
+        }
+      </style>
+    </div>
+    <footer>Published: {{.Date | time.Format "Monday, Jan 2, 2006" }}.</footer>
+    {{ partial "search-index.html" . }}
+  </body>
+</html>
