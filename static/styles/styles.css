@@ -102,8 +102,8 @@ a:active {
   text-decoration: underline;
 }
 body {
-  background-image: url(images/bak1b.png);
   background-color: #909090;
+  background-image: url(/images/bak1b.png);
 }
 
 ol {

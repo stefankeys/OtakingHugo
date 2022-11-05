@@ -4,7 +4,7 @@ display: none;}
 .button{padding: 20px;}
 body{font-family: sans-serif; margin:40px
 auto;max-width:650px;line-height:1.3;font-size:1em;color:#444;padding:0
-10px;background-image:url(images/bak1b.png);background-color: #909090}
+10px;background-image:url(/images/bak1b.png);background-color: #909090}
 
 .content, footer{border: 1px solid #5070c0;
 background: #cccccc;
